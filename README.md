@@ -2,30 +2,30 @@
 
 ![Python](https://img.shields.io/badge/Python-Pandas%20%7C%20Scikit--learn-0F766E) ![Estado](https://img.shields.io/badge/Notebook-ejecutado-blue) ![Datos](https://img.shields.io/badge/Datos-sint%C3%A9ticos-orange)
 
-> **Proyecto final · Ingeniería de Sistemas**  
-> **Integrantes: Joan Sebastian Manosalva Fonseca
-> **Fecha límite del curso:** 21 de noviembre de 2026, 23:59 (según la consigna).
+> Proyecto final · Ingeniería de Sistemas**  
+> Integrantes: Joan Sebastian Manosalva Fonseca
+> Fecha límite del curso:** 21 de noviembre de 2026, 23:59 (según la consigna).
 
 ## 🎬 Video y presentación
 
-- **[Ver video demostrativo MP4 (4 min 30 s)](video/VIDEO_DEMOSTRATIVO_VOZ_SINTETICA.mp4)**: presentación visual completa con **voz generada por computadora**. **NO es la grabación exigida al equipo.** Antes de entregar, sustituirla por un video de 2 a 5 minutos con las voces o intervención real de los 2 o 3 integrantes.
-- **[Guion completo, repartido por integrantes](video/GUION_VIDEO_POR_INTEGRANTE.md)**.
-- **[Presentación PowerPoint](presentacion/Proyecto_Final_Analisis_Salarios.pptx)** · **[Presentación PDF](presentacion/Proyecto_Final_Analisis_Salarios.pdf)**.
-- **Enlace al video definitivo del equipo (rellenar):** `PENDIENTE_DE_GRABAR_Y_PUBLICAR`. Puede publicarse en el propio directorio `video/` o enlazarse aquí desde una plataforma con acceso público.
+- [Ver video demostrativo MP4 (4 min 30 s)](video/VIDEO_DEMOSTRATIVO_VOZ_SINTETICA.mp4)**: presentación visual completa con **voz generada por computadora**. **NO es la grabación exigida al equipo.** Antes de entregar, sustituirla por un video de 2 a 5 minutos con las voces o intervención real de los 2 o 3 integrantes.
+- [Guion completo, repartido por integrantes](video/GUION_VIDEO_POR_INTEGRANTE.md)**.
+- [Presentación PowerPoint](presentacion/Proyecto_Final_Analisis_Salarios.pptx)** · **[Presentación PDF](presentacion/Proyecto_Final_Analisis_Salarios.pdf)**.
+- Enlace al video definitivo del equipo (rellenar):** `PENDIENTE_DE_GRABAR_Y_PUBLICAR`. Puede publicarse en el propio directorio `video/` o enlazarse aquí desde una plataforma con acceso público.
 
-## 1. Introducción
+1. Introducción
 
 Las organizaciones necesitan comprender la estructura de sus pagos y controlar la calidad de los datos de nómina. Este trabajo plantea la pregunta: **¿qué características laborales se relacionan con los salarios y qué tan bien puede una regresión lineal estimar el salario mensual de empleados simulados?**
 
 La conexión con Ingeniería de Sistemas es el diseño de procesos completos de datos: ingestión, limpieza, análisis, automatización y comunicación. Como aplicación profesional imaginamos un tablero de planeación salarial alimentado por **extractos autorizados y anonimizados** de un sistema de RR. HH., como SAP HCM.
 
-### Procedencia y límites de los datos
+# Procedencia y límites de los datos
 
 Los archivos `datos/empleados_original.csv` y `datos/empleados_depurados.csv` son **totalmente sintéticos**, producidos por `src/generar_datos.py` con semilla **202611**. No son datos reales de IBM, SAP, una organización colombiana o un grupo poblacional. Se construyeron deliberadamente errores, nulos, duplicados y etiquetas inconsistentes con fines de aprendizaje. Los salarios representan **COP ficticios** y no son un estudio de remuneraciones en Colombia.
 
-**No corresponde usar este modelo para asignar remuneración real, evaluar personas o hacer inferencias causales.**
+*No corresponde usar este modelo para asignar remuneración real, evaluar personas o hacer inferencias causales.**
 
-## 2. Etapa 1 · Exploración, calidad y depuración
+2. Etapa 1 · Exploración, calidad y depuración
 
 - Dataset original: **1.514 registros** y **12 variables**.
 - Problemas detectados: **14 duplicados exactos** y **16 registros** descartados por inconsistencias de edad o salario. Además se corrigieron categorías mal escritas y se imputaron valores faltantes de experiencia.
@@ -34,7 +34,7 @@ Los archivos `datos/empleados_original.csv` y `datos/empleados_depurados.csv` so
 
 El notebook explica por qué se toman estas decisiones y muestra código, ejemplos, conteos y verificaciones automáticas (`assert`).
 
-## 3. Etapa 2 · Estadística descriptiva
+3. Etapa 2 · Estadística descriptiva
 
 | Medida / hallazgo | Resultado |
 |:--|--:|
@@ -47,7 +47,7 @@ El notebook explica por qué se toman estas decisiones y muestra código, ejempl
 
 Se calculan también **moda, rango, varianza**, medidas para otras variables y comparaciones entre niveles y departamentos. Las relaciones observadas **no demuestran efectos causales**.
 
-**Visualizaciones destacadas:**
+*Visualizaciones destacadas:*
 
 ![Distribución salarial](resultados/graficos/01_distribucion_salarios.png)
 ![Comparación entre departamentos](resultados/graficos/02_salario_por_departamento.png)
@@ -55,7 +55,7 @@ Se calculan también **moda, rango, varianza**, medidas para otras variables y c
 
 Los demás gráficos (boxplot, correlación, experiencia-salario y residuos) están disponibles en `resultados/graficos/`.
 
-## 4. Etapa 3 · Regresión lineal y storytelling
+# 4. Etapa 3 · Regresión lineal y storytelling
 
 **Variable objetivo:** `SalarioMensualCOP`.
 
