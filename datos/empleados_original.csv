@@ -1,0 +1,1515 @@
+﻿EmpleadoID,Edad,Departamento,NivelCargo,ExperienciaAnios,AntiguedadAnios,NivelEducativo,Ciudad,ModalidadTrabajo,HorasExtraMes,SatisfaccionLaboral,SalarioMensualCOP
+100001,49,Operaciones,2,16.0,7.0,Bachillerato,Bogotá,Híbrida,5,3,6104000.0
+100002,45,Finanzas,3,18.0,3.0,Especialización,Bogotá,Remota,2,4,6771000.0
+100003,61,Talento Humano,3,,12.0,Maestría,Bogotá,Presencial,2,2,10363000.0
+100004,41,Finanzas,5,,3.0,Bachillerato,Bogotá,Remota,8,2,12016000.0
+100005,51,Comercial,4,28.0,13.0,Profesional,Barranquilla,Híbrida,6,5,10154000.0
+100006,30,Operaciones,3,9.0,3.0,Profesional,Bogotá,Remota,4,4,5902000.0
+100007,57,Tecnología,2,29.0,10.0,Especialización,Cali,Presencial,3,4,7988000.0
+100008,60,Operaciones,1,33.0,3.0,Profesional,Bogotá,Presencial,5,5,5543000.0
+100009,23,Tecnología,3,0.0,0.0,Profesional,Medellín,Híbrida,9,3,4694000.0
+100010,53,Finanzas,4,31.0,3.0,Técnico,Bogotá,Híbrida,8,3,10975000.0
+100011,56,Operaciones,2,23.0,16.0,Técnico,Cali,Presencial,7,4,5927000.0
+100012,15,Operaciones,2,18.0,1.0,Profesional,Medellín,Híbrida,5,2,6563000.0
+100013,44,Operaciones,3,14.0,10.0,Bachillerato,Bogotá,Presencial,5,4,7631000.0
+100014,43,Comercial,2,12.0,10.0,Técnico,Cali,Híbrida,4,3,4918000.0
+100015,46,Tecnología,3,19.0,5.0,Especialización,Bogotá,Híbrida,8,4,7537000.0
+100016,38,Tecnología,2,16.0,8.0,Profesional,Cali,Remota,7,4,5803000.0
+100017,23,Finanzas,3,2.0,2.0,Técnico,Bogotá,Remota,4,4,4637000.0
+100018,24,Finanzas,3,0.0,0.0,Técnico,Bogotá,Presencial,5,3,3452000.0
+100019,52,Finanzas,3,19.0,6.0,Profesional,Bogotá,Remota,2,3,8005000.0
+100020,29,Operaciones,4,2.0,2.0,Especialización,Bogotá,Presencial,7,4,6602000.0
+100021,23, tecnologia ,2,0.0,0.0,Profesional,Bogotá,Híbrida,5,4,2181000.0
+100022,44, tecnologia ,1,20.0,11.0,Maestría,Cali,Remota,7,5,6418000.0
+100023,29, tecnologia ,3,4.0,4.0,Especialización,Cali,Híbrida,9,4,5147000.0
+100024,50, tecnologia ,3,27.0,8.0,Maestría,Bogotá,Híbrida,7,4,8958000.0
+100025,54, tecnologia ,2,23.0,14.0,Técnico,Barranquilla,Remota,8,3,7122000.0
+100026,43, tecnologia ,1,23.0,14.0,Profesional,Cali,Presencial,8,4,5808000.0
+100027,52, tecnologia ,3,19.0,11.0,Especialización,Bogotá,Presencial,6,4,8371000.0
+100028,33, tecnologia ,4,4.0,4.0,Profesional,Medellín,Remota,8,5,7007000.0
+100029,43, tecnologia ,5,13.0,7.0,Profesional,Bogotá,Presencial,8,3,10521000.0
+100030,57, tecnologia ,2,35.0,13.0,Profesional,Bogotá,Híbrida,5,4,8794000.0
+100031,47, tecnologia ,3,21.0,7.0,Especialización,Bogotá,Presencial,2,4,8438000.0
+100032,38, tecnologia ,4,17.0,9.0,Profesional,Medellín,Híbrida,1,4,7990000.0
+100033,35, tecnologia ,1,4.0,4.0,Profesional,Medellín,Presencial,8,5,3684000.0
+100034,33, tecnologia ,2,7.0,1.0,Especialización,Bogotá,Remota,4,4,3430000.0
+100035,27, tecnologia ,2,0.0,0.0,Profesional,Bogotá,Presencial,3,3,3081000.0
+100036,41, tecnologia ,5,18.0,9.0,Especialización,Cali,Presencial,6,4,13387000.0
+100037,55,TALENTO HUMANO,3,28.0,15.0,Profesional,Bogotá,Presencial,7,2,9625000.0
+100038,50,TALENTO HUMANO,2,28.0,9.0,Técnico,Cali,Presencial,1,4,6266000.0
+100039,37,TALENTO HUMANO,2,15.0,5.0,Profesional,Medellín,Presencial,6,3,4276000.0
+100040,38,TALENTO HUMANO,3,6.0,3.0,Profesional,Bogotá,Híbrida,5,3,5177000.0
+100041,22,TALENTO HUMANO,3,0.0,0.0,Especialización,Bogotá,Híbrida,7,2,4757000.0
+100042,29,TALENTO HUMANO,1,0.0,0.0,Profesional,Cali,Híbrida,6,2,1870000.0
+100043,31,TALENTO HUMANO,2,7.0,4.0,Bachillerato,Medellín,Presencial,7,5,4335000.0
+100044,37,TALENTO HUMANO,2,17.0,1.0,Técnico,Bogotá,Híbrida,9,2,5414000.0
+100045,38,TALENTO HUMANO,1,6.0,6.0,Especialización,Bogotá,Híbrida,4,5,2260000.0
+100046,32,TALENTO HUMANO,2,10.0,10.0,Profesional,Medellín,Híbrida,6,4,6174000.0
+100047,41,TALENTO HUMANO,3,17.0,12.0,Técnico,Medellín,Presencial,6,3,5101000.0
+100048,56,TALENTO HUMANO,2,23.0,3.0,Especialización,Medellín,Híbrida,10,4,5768000.0
+100049,43,TALENTO HUMANO,1,22.0,4.0,Profesional,Bogotá,Remota,4,3,-300000.0
+100050,50,operaciones,2,22.0,8.0,Especialización,Cali,Híbrida,3,4,7741000.0
+100051,58,operaciones,3,30.0,13.0,Bachillerato,Bogotá,Remota,6,2,8799000.0
+100052,54,operaciones,2,30.0,13.0,Especialización,Bogotá,Híbrida,5,5,9085000.0
+100053,38,operaciones,3,5.0,5.0,Bachillerato,Bogotá,Híbrida,5,4,4407000.0
+100054,56,operaciones,1,28.0,16.0,Profesional,Cali,Híbrida,5,4,6292000.0
+100055,54,operaciones,2,22.0,0.0,Profesional,Bogotá,Presencial,5,5,6529000.0
+100056,47,operaciones,3,25.0,5.0,Profesional,Bogotá,Remota,5,4,7106000.0
+100057,26,operaciones,2,0.0,0.0,Profesional,Bogotá,Híbrida,2,3,3420000.0
+100058,37,operaciones,3,7.0,2.0,Maestría,Bogotá,Híbrida,3,3,5445000.0
+100059,45,operaciones,3,19.0,14.0,Maestría,Bogotá,Remota,4,3,7907000.0
+100060,28,operaciones,1,0.0,0.0,Profesional,Medellín,Remota,2,4,1843000.0
+100061,53,operaciones,5,22.0,1.0,Bachillerato,Bogotá,Presencial,3,4,12676000.0
+100062,46,operaciones,5,24.0,10.0,Especialización,Barranquilla,Presencial,3,4,13139000.0
+100063,60,Talento Humano,2,29.0,2.0,Profesional,Barranquilla,remota ,7,4,5364000.0
+100064,49,Finanzas,4,27.0,1.0,Profesional,Bogotá,remota ,4,3,9944000.0
+100065,34,Operaciones,2,9.0,9.0,Especialización,Bogotá,remota ,5,3,4994000.0
+100066,35,Tecnología,1,13.0,6.0,Profesional,Bogotá,remota ,3,2,5025000.0
+100067,57,Operaciones,2,27.0,14.0,Profesional,Cali,remota ,7,3,6287000.0
+100068,53,Operaciones,2,20.0,10.0,Técnico,Medellín,remota ,5,3,6094000.0
+100069,55,Comercial,2,26.0,1.0,Profesional,Barranquilla,remota ,4,4,7346000.0
+100070,57,Tecnología,4,34.0,9.0,Especialización,Medellín,remota ,6,5,11035000.0
+100071,50,Operaciones,2,17.0,13.0,Bachillerato,Bogotá,remota ,7,4,3726000.0
+100072,60,Talento Humano,2,28.0,16.0,Especialización,Medellín,remota ,3,4,7080000.0
+100073,53,Operaciones,2,26.0,4.0,Especialización,Bogotá,remota ,2,3,5521000.0
+100074,28,Comercial,1,6.0,6.0,Profesional,Medellín,remota ,3,1,2963000.0
+100075,33,Talento Humano,3,2.0,2.0,Técnico,Bogotá,Híbrida,3,3,3611000.0
+100076,61,Operaciones,2,40.0,15.0,Especialización,Medellín,Híbrida,2,5,10092000.0
+100077,36,Comercial,3,9.0,9.0,Bachillerato,bogota,Presencial,5,5,5633000.0
+100078,39,Talento Humano,1,15.0,15.0,Especialización,bogota,Presencial,2,5,3887000.0
+100079,24,Tecnología,1,0.0,0.0,Especialización,bogota,Presencial,6,4,2754000.0
+100080,21,Talento Humano,3,0.0,0.0,Técnico,bogota,Presencial,4,3,4949000.0
+100081,52,Tecnología,1,25.0,13.0,Bachillerato,bogota,Presencial,3,4,4249000.0
+100082,41,Finanzas,3,9.0,0.0,Especialización,bogota,Híbrida,4,4,5284000.0
+100083,33,Comercial,1,2.0,2.0,Técnico,bogota,Híbrida,2,3,1977000.0
+100084,29,Tecnología,2,3.0,3.0,Profesional,bogota,Presencial,4,1,4931000.0
+100085,44,Tecnología,4,20.0,0.0,Técnico,bogota,Híbrida,5,2,9667000.0
+100086,16,Comercial,4,35.0,14.0,Profesional,bogota,Híbrida,2,2,11239000.0
+100087,55,Finanzas,4,33.0,15.0,Bachillerato,Bogotá,Híbrida,3,4,10300000.0
+100088,54,Finanzas,4,32.0,0.0,Especialización,Bogotá,Presencial,3,4,10903000.0
+100089,45,Comercial,1,20.0,13.0,Profesional,Bogotá,Presencial,2,5,5401000.0
+100090,42,Talento Humano,3,22.0,0.0,Especialización,Bogotá,Remota,2,3,6464000.0
+100091,51,Comercial,4,21.0,8.0,Técnico,Medellín,Híbrida,4,4,8350000.0
+100092,54,Tecnología,1,22.0,10.0,Bachillerato,Bogotá,Híbrida,9,4,6454000.0
+100093,46,Finanzas,1,20.0,11.0,Especialización,Bogotá,Presencial,4,2,5476000.0
+100094,42,Tecnología,1,12.0,10.0,Especialización,Medellín,Remota,6,4,5026000.0
+100095,42,Operaciones,4,14.0,14.0,Especialización,Cali,Remota,8,5,6683000.0
+100096,25,Tecnología,2,0.0,0.0,Maestría,Bogotá,Presencial,9,2,4653000.0
+100097,36,Talento Humano,2,3.0,0.0,Técnico,Cali,Híbrida,8,4,3025000.0
+100098,36,Talento Humano,2,11.0,8.0,Profesional,Barranquilla,Presencial,3,3,4813000.0
+100099,49,Tecnología,2,22.0,9.0,Especialización,Bogotá,Presencial,7,3,8873000.0
+100100,38,Tecnología,4,15.0,4.0,Profesional,Bogotá,Presencial,5,4,8824000.0
+100101,48,Finanzas,3,18.0,13.0,Profesional,Bogotá,Híbrida,14,4,8832000.0
+100102,57,Tecnología,3,27.0,4.0,Profesional,Medellín,Híbrida,8,5,8436000.0
+100103,24,Tecnología,3,0.0,0.0,Especialización,Barranquilla,Presencial,4,3,6112000.0
+100104,24,Talento Humano,5,0.0,0.0,Profesional,Bogotá,Híbrida,5,3,10294000.0
+100105,21,Tecnología,4,0.0,0.0,Técnico,Bogotá,Presencial,7,4,6449000.0
+100106,38,Finanzas,3,5.0,5.0,Profesional,Bogotá,Presencial,4,2,5523000.0
+100107,52,Comercial,2,22.0,12.0,Técnico,Medellín,Presencial,5,4,5736000.0
+100108,57,Talento Humano,3,26.0,9.0,Maestría,Medellín,Presencial,7,2,7756000.0
+100109,46,Finanzas,4,19.0,4.0,Bachillerato,Barranquilla,Presencial,3,4,8411000.0
+100110,49,Talento Humano,1,16.0,8.0,Bachillerato,Bogotá,Híbrida,6,2,3167000.0
+100111,50,Comercial,1,25.0,0.0,Técnico,Bogotá,Híbrida,4,4,4379000.0
+100112,27,Tecnología,2,4.0,3.0,Maestría,Bogotá,Híbrida,5,4,3728000.0
+100113,21,Comercial,3,0.0,0.0,Técnico,Bogotá,Presencial,7,4,4476000.0
+100114,28,Finanzas,3,6.0,6.0,Especialización,Bogotá,Presencial,5,4,6107000.0
+100115,21,Tecnología,3,0.0,0.0,Maestría,Bogotá,Presencial,8,3,5407000.0
+100116,53,Tecnología,3,29.0,0.0,Profesional,Medellín,Híbrida,6,1,8768000.0
+100117,51,Tecnología,2,19.0,9.0,Profesional,Bogotá,Presencial,6,2,6426000.0
+100118,34,Tecnología,5,2.0,2.0,Bachillerato,Cali,Presencial,6,4,9738000.0
+100119,37,Finanzas,5,7.0,7.0,Técnico,Barranquilla,Híbrida,7,4,8104000.0
+100120,22,Operaciones,1,1.0,1.0,Técnico,Bogotá,Presencial,8,3,2777000.0
+100121,23,Operaciones,4,0.0,0.0,Maestría,Bogotá,Híbrida,5,4,8220000.0
+100122,25,Finanzas,3,0.0,0.0,Profesional,Barranquilla,Híbrida,7,4,6066000.0
+100123,52,Finanzas,5,28.0,3.0,Profesional,Barranquilla,Remota,7,4,12934000.0
+100124,49,Finanzas,3,17.0,16.0,Técnico,Medellín,Híbrida,3,5,8321000.0
+100125,35,Tecnología,2,8.0,5.0,Profesional,Barranquilla,Presencial,2,3,4778000.0
+100126,57,Talento Humano,2,33.0,12.0,Profesional,Barranquilla,Presencial,4,3,7468000.0
+100127,56,Talento Humano,2,25.0,10.0,Profesional,Cali,Híbrida,2,3,5692000.0
+100128,56,Tecnología,3,33.0,13.0,Profesional,Medellín,Remota,0,2,9451000.0
+100129,39,Operaciones,1,19.0,3.0,Profesional,Medellín,Presencial,4,2,5353000.0
+100130,29,Tecnología,2,6.0,6.0,Profesional,Bogotá,Híbrida,3,3,4952000.0
+100131,33,Tecnología,1,7.0,2.0,Profesional,Medellín,Presencial,11,4,4512000.0
+100132,35,Tecnología,4,12.0,12.0,Profesional,Cali,Híbrida,5,4,10552000.0
+100133,44,Tecnología,3,12.0,12.0,Especialización,Bogotá,Presencial,5,2,7564000.0
+100134,29,Operaciones,4,5.0,5.0,Especialización,Bogotá,Híbrida,8,4,7631000.0
+100135,40,Tecnología,4,8.0,8.0,Bachillerato,Cali,Híbrida,8,1,7357000.0
+100136,44,Comercial,3,20.0,13.0,Bachillerato,Bogotá,Híbrida,5,5,5841000.0
+100137,58,Finanzas,3,37.0,3.0,,Bogotá,Presencial,6,3,9732000.0
+100138,39,Operaciones,2,18.0,4.0,Profesional,Bogotá,Híbrida,3,3,5508000.0
+100139,29,Operaciones,5,2.0,2.0,Técnico,Barranquilla,Híbrida,6,4,8810000.0
+100140,58,Tecnología,3,36.0,15.0,Especialización,Bogotá,Híbrida,3,4,11283000.0
+100141,44,Operaciones,3,23.0,15.0,Profesional,Medellín,Presencial,2,4,6856000.0
+100142,32,Operaciones,3,9.0,9.0,Especialización,Bogotá,Presencial,5,5,5634000.0
+100143,40,Operaciones,3,10.0,0.0,Profesional,Bogotá,Híbrida,4,2,5417000.0
+100144,90,Operaciones,3,16.0,0.0,Especialización,Bogotá,Híbrida,4,4,7751000.0
+100145,56,Operaciones,1,23.0,8.0,Bachillerato,Bogotá,Híbrida,9,4,5983000.0
+100146,38,Tecnología,4,10.0,1.0,Profesional,Medellín,Híbrida,2,5,8774000.0
+100147,31,Tecnología,4,9.0,4.0,Profesional,Bogotá,Remota,3,3,9570000.0
+100148,46,Operaciones,3,16.0,3.0,Profesional,Bogotá,Presencial,7,1,6849000.0
+100149,33,Comercial,3,10.0,6.0,Técnico,Medellín,Presencial,6,4,5487000.0
+100150,36,Comercial,4,7.0,0.0,Técnico,Bogotá,Presencial,5,2,5788000.0
+100151,32,Talento Humano,2,10.0,10.0,Especialización,Medellín,Presencial,5,4,4219000.0
+100152,52,Comercial,2,28.0,16.0,Bachillerato,Bogotá,Presencial,6,4,7759000.0
+100153,30,Operaciones,1,8.0,8.0,Profesional,Medellín,Presencial,3,2,3995000.0
+100154,30,Operaciones,2,6.0,6.0,Bachillerato,Bogotá,Presencial,3,2,4943000.0
+100155,57,Operaciones,1,31.0,11.0,Profesional,Bogotá,Remota,4,4,6374000.0
+100156,53,Tecnología,4,30.0,0.0,Profesional,Bogotá,Híbrida,3,5,10073000.0
+100157,59,Finanzas,2,39.0,8.0,Bachillerato,Bogotá,Presencial,4,4,7955000.0
+100158,42,Operaciones,3,12.0,11.0,Profesional,Barranquilla,Híbrida,5,4,5901000.0
+100159,41,Finanzas,1,11.0,4.0,Profesional,Bogotá,Presencial,4,4,1300000.0
+100160,42,Finanzas,4,10.0,10.0,Profesional,Bogotá,Presencial,4,4,9006000.0
+100161,54,Operaciones,3,27.0,1.0,Profesional,Bogotá,Presencial,7,4,7260000.0
+100162,32,Tecnología,3,4.0,4.0,Bachillerato,Cali,Presencial,4,5,5921000.0
+100163,42,Operaciones,2,9.0,9.0,,Bogotá,Remota,3,5,3290000.0
+100164,22,Operaciones,3,0.0,0.0,Técnico,Bogotá,Remota,5,4,4117000.0
+100165,47,Operaciones,1,22.0,1.0,Profesional,Bogotá,Presencial,4,3,5817000.0
+100166,59,Tecnología,4,34.0,16.0,Técnico,Bogotá,Remota,4,2,10856000.0
+100167,34,Comercial,2,8.0,5.0,Bachillerato,Bogotá,Presencial,5,3,3663000.0
+100168,55,Tecnología,1,24.0,7.0,Técnico,Barranquilla,Presencial,6,5,6498000.0
+100169,38,Comercial,3,18.0,7.0,Profesional,Bogotá,Híbrida,5,4,5173000.0
+100170,32,Comercial,3,0.0,0.0,Profesional,Bogotá,Híbrida,2,4,6265000.0
+100171,27,Talento Humano,4,5.0,5.0,Especialización,Barranquilla,Híbrida,1,3,6553000.0
+100172,50,Operaciones,1,18.0,8.0,Técnico,Medellín,Presencial,7,2,3762000.0
+100173,24,Talento Humano,1,3.0,0.0,Profesional,Cali,Presencial,3,2,3542000.0
+100174,45,Operaciones,3,24.0,4.0,Profesional,Cali,Híbrida,6,3,6432000.0
+100175,32,Operaciones,2,11.0,11.0,Profesional,Bogotá,Híbrida,7,5,4968000.0
+100176,22,Tecnología,2,0.0,0.0,Profesional,Bogotá,Presencial,6,3,3649000.0
+100177,32,Finanzas,2,9.0,9.0,Especialización,Bogotá,Presencial,6,4,5734000.0
+100178,54,Operaciones,2,25.0,2.0,Maestría,Bogotá,Presencial,2,2,5364000.0
+100179,27,Tecnología,2,0.0,0.0,Bachillerato,Medellín,Remota,5,4,2984000.0
+100180,49,Operaciones,1,21.0,3.0,Profesional,Bogotá,Presencial,4,5,5104000.0
+100181,48,Operaciones,4,19.0,4.0,Profesional,Bogotá,Presencial,7,3,9087000.0
+100182,47,Operaciones,3,26.0,3.0,Técnico,Medellín,Presencial,5,4,6400000.0
+100183,30,Finanzas,2,0.0,0.0,Profesional,Medellín,Presencial,5,2,4150000.0
+100184,44,Tecnología,3,23.0,7.0,Profesional,Bogotá,Presencial,5,3,6823000.0
+100185,22,Talento Humano,2,0.0,0.0,Maestría,Cali,Remota,6,4,4142000.0
+100186,32,Operaciones,3,7.0,7.0,Maestría,Bogotá,Remota,7,4,6518000.0
+100187,45,Tecnología,4,14.0,11.0,Técnico,Bogotá,Híbrida,6,3,7741000.0
+100188,42,Talento Humano,4,13.0,13.0,Especialización,Bogotá,Presencial,5,1,9501000.0
+100189,50,Comercial,1,19.0,16.0,Bachillerato,Bogotá,Remota,3,4,4777000.0
+100190,31,Finanzas,4,11.0,2.0,Profesional,Bogotá,Presencial,5,4,7372000.0
+100191,51,Comercial,1,19.0,16.0,Profesional,Bogotá,Híbrida,3,4,3786000.0
+100192,41,Tecnología,2,12.0,12.0,Especialización,Bogotá,Híbrida,3,3,7315000.0
+100193,35,Tecnología,3,14.0,9.0,Profesional,Medellín,Híbrida,0,3,7294000.0
+100194,26,Tecnología,2,6.0,6.0,Técnico,Bogotá,Presencial,2,4,5431000.0
+100195,29,Finanzas,4,6.0,6.0,Especialización,Medellín,Híbrida,10,4,8701000.0
+100196,28,Finanzas,1,7.0,6.0,Profesional,Barranquilla,Remota,3,2,3404000.0
+100197,47,Operaciones,3,25.0,0.0,Profesional,Bogotá,Remota,6,4,7234000.0
+100198,50,Tecnología,3,20.0,14.0,Profesional,Bogotá,Híbrida,7,4,7511000.0
+100199,55,Finanzas,4,26.0,5.0,Bachillerato,Medellín,Remota,4,3,10122000.0
+100200,54,Operaciones,1,30.0,12.0,Técnico,Medellín,Híbrida,3,1,5059000.0
+100201,55,Tecnología,2,29.0,9.0,Bachillerato,Medellín,Híbrida,5,4,6633000.0
+100202,23,Comercial,4,0.0,0.0,Profesional,Cali,Híbrida,3,3,5262000.0
+100203,21,Operaciones,2,0.0,0.0,Bachillerato,Bogotá,Presencial,7,3,3264000.0
+100204,53,Finanzas,3,24.0,9.0,Profesional,Barranquilla,Remota,4,4,9131000.0
+100205,44,Operaciones,4,11.0,2.0,Profesional,Bogotá,Híbrida,5,4,7041000.0
+100206,47,Operaciones,2,25.0,15.0,Profesional,Bogotá,Híbrida,5,2,5649000.0
+100207,32,Tecnología,3,5.0,5.0,Técnico,Medellín,Presencial,3,2,7249000.0
+100208,30,Tecnología,1,2.0,2.0,Bachillerato,Bogotá,Presencial,8,2,2000000.0
+100209,22,Finanzas,3,0.0,0.0,Bachillerato,Medellín,Presencial,6,3,3929000.0
+100210,51,Tecnología,1,20.0,6.0,Bachillerato,Barranquilla,Remota,5,3,4003000.0
+100211,24,Tecnología,4,1.0,1.0,Bachillerato,Bogotá,Híbrida,8,3,6673000.0
+100212,22,Tecnología,2,2.0,1.0,Profesional,Bogotá,Híbrida,8,3,3313000.0
+100213,56,Talento Humano,3,27.0,9.0,Profesional,Bogotá,Híbrida,4,2,8380000.0
+100214,30,Operaciones,1,0.0,0.0,,Bogotá,Remota,1,3,2467000.0
+100215,21,Finanzas,1,0.0,0.0,Técnico,Bogotá,Híbrida,7,5,1870000.0
+100216,32,Talento Humano,2,7.0,7.0,Especialización,Bogotá,Presencial,10,4,3600000.0
+100217,55,Tecnología,1,25.0,13.0,Técnico,Bogotá,Híbrida,2,4,5101000.0
+100218,48,Operaciones,2,21.0,11.0,Maestría,Bogotá,Presencial,3,3,5784000.0
+100219,51,Comercial,3,28.0,0.0,Bachillerato,Bogotá,Presencial,5,4,7445000.0
+100220,41,Tecnología,3,10.0,2.0,Técnico,Cali,Presencial,6,4,0.0
+100221,43,Operaciones,2,21.0,11.0,Técnico,Medellín,Híbrida,1,4,5846000.0
+100222,47,Talento Humano,3,22.0,5.0,Técnico,Bogotá,Híbrida,6,5,6488000.0
+100223,52,Operaciones,4,32.0,3.0,Técnico,Bogotá,Presencial,4,5,11271000.0
+100224,24,Talento Humano,4,0.0,0.0,Especialización,Bogotá,Presencial,2,4,7471000.0
+100225,34,Operaciones,2,10.0,9.0,Especialización,Bogotá,Híbrida,4,3,4138000.0
+100226,25,Finanzas,3,4.0,2.0,Maestría,Medellín,Remota,6,4,6513000.0
+100227,41,Tecnología,1,13.0,13.0,Bachillerato,Medellín,Remota,6,2,4642000.0
+100228,30,Tecnología,3,4.0,2.0,Técnico,Medellín,Presencial,4,3,4519000.0
+100229,39,Tecnología,4,15.0,13.0,Profesional,Bogotá,Remota,2,1,9112000.0
+100230,50,Comercial,3,30.0,7.0,Maestría,Cali,Presencial,2,5,11526000.0
+100231,26,Operaciones,3,4.0,2.0,Maestría,Cali,Híbrida,9,2,4747000.0
+100232,38,Tecnología,2,16.0,15.0,Bachillerato,Bogotá,Híbrida,4,2,5715000.0
+100233,32,Operaciones,2,1.0,1.0,Especialización,Bogotá,Híbrida,6,4,3839000.0
+100234,27,Tecnología,2,0.0,0.0,Especialización,Bogotá,Presencial,1,5,4597000.0
+100235,52,,3,24.0,7.0,Maestría,Bogotá,Presencial,3,3,6864000.0
+100236,21,Operaciones,4,0.0,0.0,Bachillerato,Bogotá,Presencial,9,4,5224000.0
+100237,41,Operaciones,3,14.0,14.0,Bachillerato,Bogotá,Presencial,7,5,6162000.0
+100238,27,Operaciones,3,0.0,0.0,Técnico,Cali,Híbrida,10,4,3575000.0
+100239,55,Operaciones,3,29.0,5.0,Especialización,Bogotá,Presencial,9,1,9284000.0
+100240,34,Talento Humano,1,6.0,6.0,Bachillerato,Bogotá,Híbrida,2,4,2085000.0
+100241,51,Tecnología,2,31.0,12.0,Especialización,Bogotá,Híbrida,3,5,8841000.0
+100242,55,Tecnología,3,23.0,4.0,Profesional,Bogotá,Híbrida,5,5,7277000.0
+100243,41,Comercial,3,10.0,9.0,Especialización,Cali,Remota,6,4,6753000.0
+100244,39,Talento Humano,2,19.0,11.0,Técnico,Bogotá,Remota,6,3,5979000.0
+100245,38,Tecnología,2,17.0,14.0,Especialización,Bogotá,Híbrida,5,2,6307000.0
+100246,34,Operaciones,2,14.0,14.0,Técnico,Medellín,Híbrida,4,4,2943000.0
+100247,43,Operaciones,2,10.0,5.0,Profesional,Bogotá,Presencial,5,4,4953000.0
+100248,36,Tecnología,4,8.0,8.0,Profesional,Bogotá,Remota,4,4,8501000.0
+100249,55,Comercial,4,30.0,8.0,Bachillerato,Bogotá,Híbrida,6,2,10685000.0
+100250,61,Comercial,3,36.0,6.0,Bachillerato,Bogotá,Presencial,6,5,9120000.0
+100251,21,Operaciones,5,0.0,0.0,Bachillerato,Medellín,Híbrida,5,3,9495000.0
+100252,58,Operaciones,2,33.0,0.0,Maestría,Bogotá,Híbrida,3,5,8945000.0
+100253,37,Tecnología,2,16.0,7.0,Profesional,Cali,Presencial,1,3,7206000.0
+100254,32,Tecnología,2,11.0,10.0,Especialización,Bogotá,Presencial,3,5,6375000.0
+100255,47,Tecnología,3,24.0,16.0,Profesional,Barranquilla,Híbrida,5,2,8430000.0
+100256,44,Tecnología,2,19.0,7.0,Profesional,Bogotá,Presencial,3,3,5543000.0
+100257,42,Operaciones,2,11.0,8.0,Bachillerato,Bogotá,Presencial,3,4,4959000.0
+100258,35,Finanzas,1,10.0,2.0,Bachillerato,Bogotá,Híbrida,5,3,4671000.0
+100259,36,Operaciones,2,14.0,12.0,Profesional,Bogotá,Híbrida,5,4,5305000.0
+100260,45,Talento Humano,2,22.0,16.0,Especialización,Bogotá,Presencial,5,4,5465000.0
+100261,23,Operaciones,4,2.0,2.0,Profesional,Barranquilla,Presencial,9,4,6098000.0
+100262,35,Operaciones,3,6.0,1.0,Bachillerato,Cali,Presencial,5,3,3932000.0
+100263,59,Operaciones,4,33.0,6.0,Bachillerato,Cali,Presencial,7,5,9750000.0
+100264,49,Finanzas,1,19.0,15.0,Especialización,Bogotá,Presencial,6,2,5152000.0
+100265,28,Tecnología,5,4.0,1.0,Técnico,Medellín,Híbrida,5,5,10015000.0
+100266,29,Tecnología,2,8.0,3.0,Especialización,Bogotá,Presencial,4,3,4431000.0
+100267,37,Operaciones,3,8.0,8.0,Maestría,Bogotá,Remota,6,3,5219000.0
+100268,53,Tecnología,3,23.0,5.0,Maestría,Cali,Presencial,1,2,8328000.0
+100269,40,Tecnología,4,20.0,3.0,Especialización,Bogotá,Remota,4,2,10618000.0
+100270,34,Operaciones,3,11.0,0.0,Profesional,Bogotá,Híbrida,5,4,4928000.0
+100271,43,Operaciones,1,16.0,5.0,Especialización,Bogotá,Híbrida,6,2,4281000.0
+100272,57,Tecnología,1,24.0,11.0,Técnico,Cali,Presencial,3,4,6269000.0
+100273,53,Tecnología,1,21.0,1.0,Bachillerato,Bogotá,Remota,9,3,4747000.0
+100274,33,Operaciones,3,3.0,3.0,Técnico,Barranquilla,Presencial,5,3,2794000.0
+100275,48,Talento Humano,3,25.0,13.0,Técnico,Medellín,Presencial,5,2,8711000.0
+100276,53,Finanzas,1,28.0,4.0,Técnico,Bogotá,Presencial,5,4,5300000.0
+100277,52,Comercial,2,20.0,6.0,Técnico,Bogotá,Presencial,2,5,6473000.0
+100278,28,Operaciones,4,4.0,4.0,Bachillerato,Bogotá,Híbrida,7,4,5605000.0
+100279,26,Talento Humano,2,1.0,1.0,Profesional,Medellín,Híbrida,10,5,3451000.0
+100280,48,Operaciones,4,28.0,14.0,Profesional,Bogotá,Híbrida,3,1,9685000.0
+100281,54,Comercial,4,32.0,1.0,Técnico,Cali,Híbrida,10,3,10010000.0
+100282,28,Tecnología,2,3.0,0.0,Técnico,Bogotá,Presencial,4,3,4673000.0
+100283,33,Comercial,1,4.0,4.0,Técnico,Bogotá,Híbrida,6,4,3812000.0
+100284,43,Operaciones,4,19.0,11.0,Profesional,Barranquilla,Presencial,6,3,7511000.0
+100285,54,Comercial,1,30.0,13.0,Bachillerato,Medellín,Presencial,4,3,7641000.0
+100286,53,Talento Humano,3,24.0,0.0,Técnico,Cali,Remota,6,3,6882000.0
+100287,24,Tecnología,1,3.0,3.0,Profesional,Medellín,Presencial,4,5,2165000.0
+100288,59,Comercial,2,37.0,13.0,Maestría,Medellín,Remota,8,4,8950000.0
+100289,45,Talento Humano,4,16.0,4.0,Profesional,Bogotá,Remota,3,4,9330000.0
+100290,31,Comercial,2,4.0,4.0,Bachillerato,Bogotá,Remota,3,5,4040000.0
+100291,32,Talento Humano,3,7.0,7.0,Especialización,Cali,Presencial,4,1,4180000.0
+100292,55,Operaciones,2,28.0,3.0,Especialización,Bogotá,Híbrida,6,1,7035000.0
+100293,49,Tecnología,3,21.0,12.0,Especialización,Bogotá,Presencial,3,5,6443000.0
+100294,33,Tecnología,1,0.0,0.0,Bachillerato,Bogotá,Híbrida,3,5,2201000.0
+100295,30,Finanzas,1,9.0,9.0,Especialización,Bogotá,Presencial,6,4,5062000.0
+100296,52,Operaciones,2,28.0,15.0,Técnico,Bogotá,Presencial,3,3,7110000.0
+100297,51,Tecnología,3,18.0,15.0,Profesional,Medellín,Híbrida,6,4,8128000.0
+100298,50,Tecnología,1,30.0,4.0,Bachillerato,Bogotá,Híbrida,6,3,6447000.0
+100299,37,Tecnología,3,11.0,8.0,Especialización,Medellín,Presencial,5,2,7943000.0
+100300,28,Operaciones,1,0.0,0.0,Técnico,Bogotá,Presencial,8,4,1996000.0
+100301,50,Finanzas,3,18.0,9.0,Profesional,Bogotá,Presencial,5,2,8797000.0
+100302,28,Tecnología,4,0.0,0.0,Profesional,Cali,Híbrida,5,5,7106000.0
+100303,52,Operaciones,2,28.0,3.0,Especialización,Bogotá,Presencial,4,5,6127000.0
+100304,30,Finanzas,3,10.0,10.0,Profesional,Cali,Híbrida,3,5,5876000.0
+100305,35,Finanzas,1,10.0,6.0,Profesional,Cali,Remota,3,2,3683000.0
+100306,40,Finanzas,3,20.0,13.0,Profesional,Bogotá,Presencial,2,1,7702000.0
+100307,59,Talento Humano,2,30.0,8.0,Especialización,Medellín,Presencial,9,4,6839000.0
+100308,37,Operaciones,2,17.0,10.0,Profesional,Medellín,Híbrida,2,5,5137000.0
+100309,59,Operaciones,3,37.0,14.0,Técnico,Medellín,Híbrida,6,4,7179000.0
+100310,28,Operaciones,3,2.0,2.0,Profesional,Bogotá,Presencial,4,5,4097000.0
+100311,47,Finanzas,4,15.0,10.0,Profesional,Bogotá,Presencial,1,4,8093000.0
+100312,46,Operaciones,4,15.0,1.0,Especialización,Bogotá,Presencial,6,5,7632000.0
+100313,35,Finanzas,1,4.0,3.0,Especialización,Bogotá,Presencial,5,1,2902000.0
+100314,42,Tecnología,4,13.0,13.0,Profesional,Medellín,Presencial,4,2,8547000.0
+100315,41,Finanzas,2,12.0,2.0,Profesional,Bogotá,Presencial,2,3,3981000.0
+100316,23,Operaciones,2,2.0,2.0,Profesional,Bogotá,Remota,4,4,2976000.0
+100317,48,Operaciones,4,24.0,7.0,Profesional,Cali,Presencial,3,4,8760000.0
+100318,23,Operaciones,2,0.0,0.0,Profesional,Bogotá,Híbrida,7,4,3246000.0
+100319,27,Talento Humano,4,0.0,0.0,Bachillerato,Bogotá,Híbrida,3,5,5729000.0
+100320,61,Tecnología,4,28.0,7.0,Profesional,Bogotá,Presencial,4,3,10036000.0
+100321,27,Operaciones,2,0.0,0.0,Profesional,Cali,Híbrida,2,1,99000000.0
+100322,42,Operaciones,2,12.0,12.0,Técnico,Cali,Híbrida,8,5,4151000.0
+100323,57,Operaciones,3,34.0,10.0,Técnico,Bogotá,Híbrida,6,2,8025000.0
+100324,39,Operaciones,2,18.0,10.0,Profesional,Cali,Híbrida,3,3,5894000.0
+100325,26,Finanzas,2,6.0,6.0,Técnico,Bogotá,Remota,8,1,4628000.0
+100326,54,Operaciones,3,33.0,12.0,Especialización,Bogotá,Presencial,5,5,9448000.0
+100327,53,Finanzas,3,27.0,1.0,Especialización,Bogotá,Presencial,5,3,6935000.0
+100328,56,Finanzas,2,31.0,0.0,Técnico,Cali,Híbrida,2,5,7760000.0
+100329,50,Operaciones,1,18.0,11.0,Bachillerato,Bogotá,Híbrida,3,5,2258000.0
+100330,51,Comercial,2,30.0,2.0,Especialización,Medellín,Presencial,3,4,4755000.0
+100331,47,Finanzas,4,26.0,14.0,Especialización,Bogotá,Híbrida,3,5,10010000.0
+100332,38,Tecnología,2,13.0,4.0,Profesional,Bogotá,Presencial,5,2,6233000.0
+100333,30,Finanzas,2,10.0,5.0,Bachillerato,Bogotá,Presencial,7,4,5180000.0
+100334,57,Operaciones,2,26.0,5.0,Profesional,Medellín,Remota,2,4,7189000.0
+100335,41,Comercial,3,21.0,8.0,Profesional,Bogotá,Remota,3,4,7179000.0
+100336,46,Operaciones,2,22.0,12.0,Profesional,Medellín,Remota,2,3,4915000.0
+100337,58,Finanzas,2,26.0,1.0,Profesional,Barranquilla,Presencial,3,4,6054000.0
+100338,38,Operaciones,2,7.0,7.0,Profesional,Cali,Híbrida,4,3,5033000.0
+100339,35,Tecnología,3,5.0,5.0,Profesional,Bogotá,Remota,3,5,6650000.0
+100340,39,Comercial,2,14.0,13.0,Especialización,Bogotá,Híbrida,3,3,7432000.0
+100341,23,Comercial,3,0.0,0.0,Profesional,Cali,Presencial,5,1,3812000.0
+100342,30,Finanzas,2,5.0,5.0,Profesional,Medellín,Presencial,2,5,3777000.0
+100343,42,Comercial,4,22.0,15.0,Profesional,Bogotá,Remota,4,5,9935000.0
+100344,46,Finanzas,3,26.0,16.0,Especialización,Cali,Presencial,6,2,9563000.0
+100345,45,Talento Humano,3,14.0,12.0,Especialización,Bogotá,Presencial,7,4,5325000.0
+100346,57,Tecnología,1,25.0,12.0,Bachillerato,Bogotá,Híbrida,8,4,5741000.0
+100347,49,Operaciones,5,18.0,1.0,Bachillerato,Bogotá,Presencial,4,5,10651000.0
+100348,21,Tecnología,1,0.0,0.0,Profesional,Bogotá,Remota,4,5,3234000.0
+100349,52,Operaciones,4,31.0,6.0,Especialización,Barranquilla,Remota,5,5,10486000.0
+100350,33,Tecnología,1,4.0,4.0,Especialización,Barranquilla,Remota,6,3,2221000.0
+100351,41,Tecnología,3,12.0,6.0,Especialización,Cali,Remota,3,2,5678000.0
+100352,56,Tecnología,2,30.0,9.0,Bachillerato,Bogotá,Remota,4,3,6478000.0
+100353,49,Tecnología,3,18.0,2.0,Bachillerato,Cali,Híbrida,6,4,5859000.0
+100354,59,Tecnología,3,26.0,1.0,Técnico,Cali,Presencial,8,5,7782000.0
+100355,48,Tecnología,3,28.0,13.0,Profesional,Barranquilla,Presencial,7,4,9332000.0
+100356,39,Tecnología,5,16.0,14.0,Profesional,Barranquilla,Presencial,5,5,11309000.0
+100357,31,Tecnología,3,8.0,8.0,Bachillerato,Bogotá,Híbrida,7,4,5124000.0
+100358,59,Operaciones,2,37.0,12.0,Técnico,Barranquilla,Presencial,7,5,9477000.0
+100359,41,Tecnología,3,16.0,0.0,Técnico,Bogotá,Presencial,6,2,6813000.0
+100360,24,Tecnología,2,0.0,0.0,Bachillerato,Cali,Remota,4,3,3579000.0
+100361,61,Comercial,2,32.0,6.0,Profesional,Bogotá,Presencial,6,3,6949000.0
+100362,25,Tecnología,2,0.0,0.0,Profesional,Medellín,Remota,2,5,2847000.0
+100363,27,Tecnología,2,5.0,5.0,Técnico,Bogotá,Híbrida,3,4,5448000.0
+100364,59,Finanzas,2,34.0,5.0,Especialización,Cali,Híbrida,5,2,7498000.0
+100365,50,Operaciones,2,23.0,6.0,Bachillerato,Bogotá,Híbrida,2,4,4942000.0
+100366,36,Comercial,2,4.0,2.0,Especialización,Medellín,Remota,3,2,2463000.0
+100367,45,Operaciones,3,25.0,16.0,Maestría,Bogotá,Remota,7,4,8989000.0
+100368,51,Operaciones,2,18.0,12.0,Especialización,Bogotá,Remota,6,4,5508000.0
+100369,37,Talento Humano,2,6.0,5.0,Maestría,Bogotá,Híbrida,3,4,4492000.0
+100370,29,Comercial,1,0.0,0.0,Profesional,Medellín,Presencial,5,2,2883000.0
+100371,38,Finanzas,4,13.0,12.0,Profesional,Medellín,Remota,2,3,7254000.0
+100372,31,Talento Humano,1,5.0,0.0,Profesional,Cali,Presencial,5,4,2324000.0
+100373,51,Operaciones,3,22.0,16.0,Bachillerato,Bogotá,Híbrida,7,4,8181000.0
+100374,44,Tecnología,2,14.0,13.0,Profesional,Bogotá,Híbrida,7,3,6086000.0
+100375,29,Comercial,1,0.0,0.0,Maestría,Bogotá,Presencial,7,1,2715000.0
+100376,43,Operaciones,4,17.0,13.0,Especialización,Bogotá,Híbrida,6,5,8900000.0
+100377,50,Tecnología,3,27.0,4.0,Profesional,Bogotá,Híbrida,7,4,9349000.0
+100378,60,Comercial,2,33.0,13.0,Especialización,Bogotá,Híbrida,7,3,8016000.0
+100379,56,Operaciones,3,29.0,16.0,Especialización,Barranquilla,Presencial,10,5,9762000.0
+100380,57,Comercial,2,37.0,13.0,Técnico,Bogotá,Híbrida,6,4,9759000.0
+100381,37,Tecnología,1,16.0,11.0,Profesional,Bogotá,Remota,5,4,4864000.0
+100382,29,Tecnología,3,6.0,6.0,Profesional,Cali,Presencial,7,2,6075000.0
+100383,46,Finanzas,3,21.0,8.0,Especialización,Medellín,Presencial,5,3,7839000.0
+100384,25,Comercial,1,0.0,0.0,Bachillerato,Cali,Remota,7,4,2919000.0
+100385,38,Talento Humano,2,8.0,8.0,Profesional,Bogotá,Remota,8,3,2517000.0
+100386,21,Tecnología,1,0.0,0.0,Profesional,Bogotá,Híbrida,5,3,3968000.0
+100387,50,Talento Humano,3,25.0,13.0,Profesional,Cali,Híbrida,2,4,5910000.0
+100388,44,Operaciones,4,20.0,0.0,Maestría,Medellín,Híbrida,3,4,9279000.0
+100389,61,Operaciones,2,32.0,3.0,Bachillerato,Bogotá,Híbrida,4,4,5874000.0
+100390,24,Comercial,3,2.0,2.0,Profesional,Medellín,Híbrida,8,3,5501000.0
+100391,42,Comercial,2,20.0,3.0,Bachillerato,Bogotá,Presencial,10,3,6973000.0
+100392,46,Operaciones,4,15.0,3.0,Especialización,Medellín,Híbrida,11,3,7453000.0
+100393,57,Talento Humano,1,26.0,11.0,Profesional,Bogotá,Remota,7,4,5946000.0
+100394,41,Talento Humano,2,13.0,6.0,Bachillerato,Barranquilla,Presencial,5,4,3009000.0
+100395,26,Operaciones,3,0.0,0.0,Profesional,Bogotá,Híbrida,3,3,4624000.0
+100396,59,Tecnología,2,29.0,0.0,Profesional,Cali,Híbrida,4,3,6345000.0
+100397,33,Tecnología,3,12.0,12.0,Bachillerato,Bogotá,Presencial,5,5,6175000.0
+100398,32,Comercial,1,1.0,1.0,Especialización,Medellín,Híbrida,5,5,3558000.0
+100399,55,Tecnología,2,24.0,4.0,Especialización,Medellín,Presencial,1,2,8146000.0
+100400,42,Operaciones,5,14.0,11.0,Profesional,Bogotá,Remota,3,5,10432000.0
+100401,59,Finanzas,4,35.0,7.0,Profesional,Bogotá,Presencial,4,2,11115000.0
+100402,55,Tecnología,3,30.0,7.0,Bachillerato,Bogotá,Híbrida,5,3,7968000.0
+100403,49,Comercial,1,21.0,15.0,Maestría,Bogotá,Presencial,5,5,6037000.0
+100404,47,Comercial,1,15.0,6.0,Técnico,Bogotá,Híbrida,5,4,2871000.0
+100405,52,Talento Humano,2,26.0,16.0,Técnico,Medellín,Presencial,1,3,8352000.0
+100406,28,Finanzas,2,0.0,0.0,Profesional,Bogotá,Remota,2,2,3512000.0
+100407,24,Operaciones,1,0.0,0.0,Especialización,Barranquilla,Remota,3,4,3259000.0
+100408,58,Tecnología,2,30.0,5.0,Profesional,Bogotá,Presencial,3,4,7476000.0
+100409,22,Tecnología,3,-5.0,0.0,Profesional,Bogotá,Presencial,5,3,4725000.0
+100410,58,Tecnología,3,37.0,11.0,Maestría,Bogotá,Presencial,4,5,10179000.0
+100411,56,Tecnología,2,24.0,10.0,Técnico,Bogotá,Presencial,4,4,6827000.0
+100412,46,Operaciones,2,23.0,3.0,,Bogotá,Presencial,3,3,5909000.0
+100413,25,Tecnología,5,2.0,2.0,Profesional,Bogotá,Remota,2,4,8871000.0
+100414,42,Tecnología,5,12.0,8.0,Especialización,Bogotá,Remota,10,3,12912000.0
+100415,46,Tecnología,4,22.0,7.0,Técnico,Medellín,Presencial,3,5,8980000.0
+100416,35,Tecnología,2,4.0,4.0,Bachillerato,Bogotá,Híbrida,4,3,5533000.0
+100417,34,Talento Humano,2,10.0,10.0,Técnico,Barranquilla,Híbrida,5,4,3932000.0
+100418,49,Comercial,2,17.0,14.0,Técnico,Medellín,Presencial,2,2,5971000.0
+100419,45,Operaciones,2,13.0,10.0,Especialización,Cali,Presencial,3,3,6379000.0
+100420,38,Finanzas,4,13.0,7.0,Técnico,Bogotá,Presencial,5,5,7487000.0
+100421,42,Operaciones,4,12.0,10.0,Especialización,Bogotá,Híbrida,2,3,7309000.0
+100422,45,Talento Humano,2,19.0,13.0,Especialización,Bogotá,Presencial,7,4,6138000.0
+100423,47,Talento Humano,2,24.0,13.0,Técnico,Bogotá,Presencial,7,4,5638000.0
+100424,27,Comercial,3,0.0,0.0,Técnico,Bogotá,Presencial,3,3,4638000.0
+100425,27,Tecnología,2,0.0,0.0,Maestría,Medellín,Híbrida,5,2,5240000.0
+100426,45,Finanzas,3,24.0,16.0,Técnico,Cali,Presencial,4,3,7719000.0
+100427,56,Tecnología,1,32.0,2.0,Bachillerato,Bogotá,Presencial,4,3,5642000.0
+100428,34,Operaciones,3,2.0,2.0,Profesional,Medellín,Presencial,3,3,4712000.0
+100429,57,Comercial,2,33.0,6.0,Bachillerato,Bogotá,Presencial,3,3,7862000.0
+100430,30,Finanzas,3,6.0,1.0,Técnico,Cali,Presencial,5,5,3465000.0
+100431,23,Tecnología,2,3.0,1.0,Bachillerato,Medellín,Remota,8,5,4970000.0
+100432,61,Operaciones,3,28.0,9.0,Especialización,Bogotá,Híbrida,5,3,7979000.0
+100433,50,Tecnología,5,20.0,2.0,Profesional,Bogotá,Remota,3,3,13940000.0
+100434,47,Finanzas,4,19.0,13.0,Especialización,Barranquilla,Híbrida,6,1,7676000.0
+100435,32,Operaciones,2,7.0,4.0,Profesional,Bogotá,Presencial,4,4,4815000.0
+100436,48,Comercial,2,23.0,15.0,Maestría,Bogotá,Remota,2,1,7387000.0
+100437,23,Tecnología,2,2.0,0.0,Maestría,Bogotá,Presencial,6,3,4463000.0
+100438,60,Tecnología,1,36.0,10.0,Técnico,Cali,Presencial,3,5,7428000.0
+100439,59,Operaciones,3,33.0,5.0,Profesional,Bogotá,Híbrida,10,5,9473000.0
+100440,22,Operaciones,1,0.0,0.0,Profesional,Barranquilla,Híbrida,3,2,2520000.0
+100441,58,Comercial,1,37.0,8.0,Bachillerato,Barranquilla,Remota,3,4,4531000.0
+100442,40,Operaciones,1,15.0,11.0,Técnico,Medellín,Híbrida,0,4,4415000.0
+100443,59,Tecnología,2,27.0,13.0,Técnico,Medellín,Híbrida,3,3,7318000.0
+100444,47,Comercial,1,23.0,2.0,Especialización,Medellín,Híbrida,4,3,4912000.0
+100445,24,Tecnología,2,0.0,0.0,Técnico,Medellín,Híbrida,1,4,4905000.0
+100446,39,Comercial,3,18.0,16.0,Especialización,Medellín,Híbrida,7,3,8173000.0
+100447,48,Comercial,2,16.0,12.0,Profesional,Medellín,Presencial,3,4,4868000.0
+100448,48,Operaciones,4,24.0,2.0,Profesional,Bogotá,Presencial,5,4,9193000.0
+100449,56,Tecnología,2,24.0,16.0,Profesional,Medellín,Presencial,7,4,5289000.0
+100450,36,Operaciones,2,16.0,10.0,Maestría,Bogotá,Híbrida,7,5,6971000.0
+100451,44,Comercial,2,12.0,7.0,Profesional,Medellín,Presencial,7,3,4976000.0
+100452,53,Tecnología,4,27.0,11.0,Profesional,Bogotá,Presencial,2,4,10169000.0
+100453,50,Tecnología,2,24.0,15.0,Profesional,Bogotá,Híbrida,9,3,7217000.0
+100454,50,Tecnología,2,17.0,10.0,Técnico,Barranquilla,Híbrida,7,5,5839000.0
+100455,49,Operaciones,3,17.0,1.0,Bachillerato,Cali,Híbrida,3,1,4957000.0
+100456,29,Tecnología,3,0.0,0.0,Bachillerato,Bogotá,Híbrida,3,4,5514000.0
+100457,58,Tecnología,3,31.0,4.0,Profesional,Bogotá,Híbrida,3,5,8615000.0
+100458,57,Talento Humano,2,32.0,0.0,Técnico,Bogotá,Híbrida,6,4,6078000.0
+100459,38,Operaciones,3,17.0,3.0,Especialización,Bogotá,Híbrida,8,3,6037000.0
+100460,46,Talento Humano,2,19.0,2.0,Maestría,Cali,Híbrida,7,4,5796000.0
+100461,43,Finanzas,1,15.0,4.0,Maestría,Bogotá,Remota,8,2,4954000.0
+100462,54,Operaciones,2,29.0,1.0,Profesional,Medellín,Remota,2,5,7209000.0
+100463,28,Operaciones,3,3.0,3.0,Profesional,Bogotá,Presencial,5,4,6651000.0
+100464,44,Tecnología,2,12.0,12.0,Profesional,Bogotá,Remota,3,1,5570000.0
+100465,48,Tecnología,3,15.0,2.0,Profesional,Medellín,Híbrida,3,4,7635000.0
+100466,31,Operaciones,4,6.0,0.0,Maestría,Bogotá,Híbrida,4,1,7583000.0
+100467,49,Operaciones,3,26.0,5.0,Profesional,Barranquilla,Presencial,5,4,7070000.0
+100468,58,Comercial,3,36.0,6.0,Bachillerato,Barranquilla,Remota,5,5,8801000.0
+100469,39,Tecnología,3,8.0,8.0,Bachillerato,Bogotá,Híbrida,5,4,5758000.0
+100470,23,Finanzas,4,0.0,0.0,Profesional,Medellín,Presencial,8,5,7207000.0
+100471,27,Operaciones,1,0.0,0.0,Técnico,Cali,Remota,3,4,1835000.0
+100472,23,Tecnología,4,0.0,0.0,Técnico,Bogotá,Presencial,3,5,6398000.0
+100473,58,Tecnología,2,36.0,9.0,Profesional,Bogotá,Híbrida,5,2,8226000.0
+100474,46,Tecnología,5,17.0,7.0,Especialización,Cali,Presencial,5,3,14842000.0
+100475,55,Tecnología,2,35.0,0.0,Bachillerato,Medellín,Remota,7,4,8243000.0
+100476,54,Finanzas,4,31.0,6.0,Técnico,Medellín,Presencial,3,3,10999000.0
+100477,45,Finanzas,3,20.0,2.0,Técnico,Barranquilla,Presencial,2,5,7380000.0
+100478,31,Talento Humano,1,10.0,9.0,Especialización,Bogotá,Presencial,2,5,3918000.0
+100479,25,Comercial,4,0.0,0.0,Maestría,Bogotá,Híbrida,7,1,7271000.0
+100480,36,Finanzas,3,13.0,4.0,Especialización,Bogotá,Presencial,5,4,7754000.0
+100481,49,Comercial,2,29.0,14.0,Profesional,Medellín,Híbrida,3,3,8428000.0
+100482,48,Operaciones,2,25.0,12.0,Bachillerato,Bogotá,Híbrida,9,3,6022000.0
+100483,32,Talento Humano,3,11.0,11.0,Técnico,Bogotá,Presencial,7,3,6962000.0
+100484,28,Finanzas,1,3.0,3.0,Profesional,Bogotá,Híbrida,7,4,2930000.0
+100485,38,Operaciones,1,,3.0,Bachillerato,Bogotá,Híbrida,2,3,1302000.0
+100486,34,Tecnología,4,4.0,4.0,Profesional,Medellín,Híbrida,1,3,8457000.0
+100487,42,Operaciones,2,11.0,5.0,Técnico,Bogotá,Remota,7,3,4326000.0
+100488,53,Finanzas,1,29.0,2.0,Profesional,Bogotá,Híbrida,5,4,8194000.0
+100489,34,Tecnología,1,8.0,8.0,Profesional,Bogotá,Presencial,4,3,3111000.0
+100490,30,Tecnología,2,2.0,2.0,Técnico,Bogotá,Presencial,6,4,5993000.0
+100491,50,Operaciones,2,18.0,1.0,Técnico,Bogotá,Híbrida,0,2,5556000.0
+100492,55,Operaciones,1,25.0,6.0,Especialización,Bogotá,Remota,5,4,6018000.0
+100493,48,Finanzas,2,25.0,11.0,Profesional,Cali,Presencial,4,2,7585000.0
+100494,47,Comercial,4,24.0,7.0,Profesional,Bogotá,Híbrida,7,2,10345000.0
+100495,55,Tecnología,3,,2.0,Especialización,Medellín,Remota,3,5,8528000.0
+100496,41,Finanzas,2,14.0,7.0,Bachillerato,Medellín,Remota,9,4,3045000.0
+100497,32,Talento Humano,1,4.0,3.0,Bachillerato,Bogotá,Remota,6,3,1403000.0
+100498,40,Comercial,2,19.0,16.0,Especialización,Cali,Remota,1,5,6232000.0
+100499,39,Operaciones,3,8.0,8.0,Maestría,Medellín,Presencial,9,3,7753000.0
+100500,44,Tecnología,2,21.0,11.0,Maestría,Medellín,Presencial,6,3,6822000.0
+100501,61,Tecnología,2,37.0,8.0,Maestría,Cali,Híbrida,1,5,7022000.0
+100502,53,Tecnología,2,29.0,8.0,Profesional,Bogotá,Híbrida,3,2,7065000.0
+100503,35,Talento Humano,1,2.0,2.0,Especialización,Medellín,Híbrida,4,3,3536000.0
+100504,50,Operaciones,3,25.0,8.0,Especialización,Barranquilla,Remota,1,3,8335000.0
+100505,24,Tecnología,2,2.0,2.0,Profesional,Cali,Híbrida,4,2,3476000.0
+100506,54,Finanzas,3,26.0,2.0,Bachillerato,Bogotá,Presencial,6,3,6873000.0
+100507,39,Operaciones,1,10.0,1.0,Bachillerato,Medellín,Presencial,3,4,3320000.0
+100508,29,Tecnología,1,2.0,2.0,Profesional,Cali,Híbrida,4,2,2478000.0
+100509,26,Tecnología,4,5.0,5.0,Profesional,Bogotá,Híbrida,5,3,8942000.0
+100510,54,Finanzas,2,-2.0,11.0,Especialización,Bogotá,Remota,5,5,9171000.0
+100511,56,Operaciones,2,35.0,4.0,Profesional,Bogotá,Presencial,10,5,7553000.0
+100512,44,Comercial,5,18.0,9.0,Bachillerato,Bogotá,Híbrida,4,4,11293000.0
+100513,56,Operaciones,2,29.0,2.0,Profesional,Bogotá,Presencial,3,5,5227000.0
+100514,57,Finanzas,1,35.0,2.0,Profesional,Medellín,Remota,2,4,6910000.0
+100515,37,Tecnología,1,15.0,4.0,Profesional,Bogotá,Híbrida,5,2,5201000.0
+100516,46,Operaciones,1,17.0,16.0,Profesional,Medellín,Presencial,4,4,3588000.0
+100517,22,Finanzas,1,0.0,0.0,Maestría,Bogotá,Presencial,10,2,3207000.0
+100518,42,Comercial,2,10.0,7.0,Especialización,Cali,Presencial,4,5,4477000.0
+100519,44,Comercial,4,11.0,11.0,Especialización,Bogotá,Híbrida,5,1,8987000.0
+100520,21,Operaciones,2,0.0,0.0,Profesional,Bogotá,Presencial,2,2,4754000.0
+100521,46,Tecnología,3,23.0,1.0,Profesional,Bogotá,Presencial,7,4,7344000.0
+100522,54,Tecnología,3,27.0,5.0,Profesional,Bogotá,Presencial,3,5,8719000.0
+100523,26,Comercial,4,3.0,3.0,Maestría,Bogotá,Presencial,5,4,7310000.0
+100524,30,Operaciones,3,10.0,10.0,Técnico,Bogotá,Híbrida,2,2,4647000.0
+100525,22,Tecnología,3,0.0,0.0,Maestría,Medellín,Híbrida,5,4,4425000.0
+100526,48,Talento Humano,2,20.0,3.0,Profesional,Bogotá,Híbrida,2,2,5568000.0
+100527,24,Talento Humano,3,0.0,0.0,Profesional,Bogotá,Remota,2,5,3469000.0
+100528,21,Comercial,3,0.0,0.0,Profesional,Medellín,Presencial,0,4,4262000.0
+100529,44,Operaciones,1,21.0,6.0,Técnico,Barranquilla,Híbrida,5,3,4256000.0
+100530,45,Tecnología,2,18.0,6.0,Bachillerato,Bogotá,Presencial,4,3,5813000.0
+100531,43,Finanzas,2,23.0,2.0,Bachillerato,Medellín,Remota,6,4,6914000.0
+100532,30,Operaciones,1,3.0,0.0,Bachillerato,Cali,Presencial,5,5,2290000.0
+100533,44,Operaciones,2,17.0,15.0,Profesional,Medellín,Presencial,2,5,4020000.0
+100534,44,Tecnología,3,17.0,10.0,Profesional,Medellín,Presencial,4,4,8003000.0
+100535,27,Finanzas,2,0.0,0.0,Especialización,Medellín,Presencial,7,5,4617000.0
+100536,22,Talento Humano,3,0.0,0.0,Técnico,Barranquilla,Presencial,7,5,3545000.0
+100537,29,Operaciones,4,5.0,5.0,Profesional,Cali,Remota,2,3,7606000.0
+100538,55,Operaciones,3,26.0,14.0,Profesional,Barranquilla,Híbrida,6,2,8309000.0
+100539,53,Finanzas,5,31.0,7.0,Especialización,Bogotá,Remota,6,1,13872000.0
+100540,47,Tecnología,2,20.0,2.0,Profesional,Bogotá,Remota,5,5,6669000.0
+100541,37,Finanzas,3,15.0,14.0,Profesional,Medellín,Híbrida,7,4,7180000.0
+100542,50,Finanzas,4,30.0,12.0,Bachillerato,Bogotá,Presencial,9,4,11934000.0
+100543,35,Talento Humano,4,13.0,0.0,Especialización,Bogotá,Híbrida,5,5,8260000.0
+100544,53,Operaciones,2,28.0,9.0,Especialización,Cali,Remota,2,3,6545000.0
+100545,27,Comercial,2,0.0,0.0,Profesional,Cali,Híbrida,7,4,3028000.0
+100546,42,Operaciones,2,19.0,14.0,Profesional,Bogotá,Presencial,4,5,5167000.0
+100547,61,Operaciones,3,29.0,15.0,Profesional,Cali,Presencial,6,4,8153000.0
+100548,39,Finanzas,5,9.0,3.0,Profesional,Bogotá,Presencial,4,4,10113000.0
+100549,47,Finanzas,2,22.0,14.0,Maestría,Bogotá,Híbrida,3,4,6447000.0
+100550,54,Operaciones,2,22.0,11.0,Técnico,Bogotá,Híbrida,10,3,4815000.0
+100551,27,Finanzas,2,6.0,6.0,Profesional,Medellín,Presencial,7,5,4843000.0
+100552,53,Tecnología,3,28.0,16.0,Técnico,Medellín,Presencial,6,4,9444000.0
+100553,50,Operaciones,2,20.0,9.0,Técnico,Bogotá,Presencial,8,1,5455000.0
+100554,61,Finanzas,2,40.0,10.0,Especialización,Bogotá,Híbrida,4,4,8994000.0
+100555,29,Tecnología,2,9.0,0.0,Técnico,Medellín,Presencial,3,4,4034000.0
+100556,23,Talento Humano,4,2.0,1.0,Especialización,Bogotá,Remota,3,3,8011000.0
+100557,31,Comercial,2,3.0,3.0,Profesional,Bogotá,Híbrida,3,5,3931000.0
+100558,53,Comercial,3,27.0,3.0,Profesional,Bogotá,Presencial,2,4,7653000.0
+100559,42,Talento Humano,2,12.0,7.0,Profesional,Bogotá,Híbrida,5,4,4913000.0
+100560,48,Operaciones,2,23.0,16.0,Especialización,Bogotá,Híbrida,8,3,8102000.0
+100561,22,Operaciones,2,0.0,0.0,Especialización,Bogotá,Presencial,7,5,3178000.0
+100562,40,Operaciones,2,9.0,9.0,Especialización,Bogotá,Remota,6,4,4060000.0
+100563,35,Operaciones,2,14.0,8.0,Especialización,Cali,Presencial,6,2,5124000.0
+100564,37,Comercial,2,5.0,5.0,Profesional,Bogotá,Presencial,3,2,2331000.0
+100565,60,Operaciones,3,28.0,4.0,Técnico,Barranquilla,Presencial,5,1,6824000.0
+100566,35,Operaciones,1,13.0,10.0,Profesional,Medellín,Híbrida,6,1,2736000.0
+100567,47,Tecnología,4,19.0,10.0,Técnico,Bogotá,Presencial,5,2,9034000.0
+100568,57,Tecnología,2,27.0,12.0,Profesional,Bogotá,Remota,2,2,7562000.0
+100569,29,Tecnología,2,0.0,0.0,Profesional,Bogotá,Remota,6,4,3307000.0
+100570,36,Operaciones,2,14.0,14.0,Especialización,Cali,Híbrida,1,2,6981000.0
+100571,31,Operaciones,1,5.0,0.0,Técnico,Medellín,Presencial,2,5,2010000.0
+100572,39,Tecnología,1,10.0,5.0,Técnico,Cali,Presencial,4,4,3972000.0
+100573,41,Talento Humano,1,8.0,8.0,Profesional,Bogotá,Híbrida,9,3,2531000.0
+100574,58,Finanzas,1,31.0,3.0,Técnico,Cali,Presencial,2,3,5812000.0
+100575,48,Operaciones,3,27.0,4.0,Profesional,Bogotá,Presencial,4,4,7911000.0
+100576,33,Tecnología,3,5.0,0.0,Técnico,Bogotá,Híbrida,4,4,5287000.0
+100577,51,Tecnología,3,20.0,15.0,Maestría,Bogotá,Presencial,10,3,10941000.0
+100578,50,Operaciones,3,30.0,1.0,Profesional,Medellín,Híbrida,6,4,6888000.0
+100579,52,Comercial,1,26.0,2.0,Profesional,Bogotá,Híbrida,8,5,7359000.0
+100580,39,Tecnología,2,18.0,8.0,Técnico,Bogotá,Remota,8,3,6027000.0
+100581,23,Finanzas,3,0.0,0.0,Bachillerato,Cali,Presencial,4,3,5457000.0
+100582,42,Talento Humano,5,15.0,15.0,Profesional,Cali,Híbrida,4,5,9671000.0
+100583,34,Operaciones,2,3.0,3.0,Profesional,Medellín,Híbrida,4,4,4325000.0
+100584,61,Tecnología,2,41.0,1.0,Técnico,Cali,Presencial,4,4,7993000.0
+100585,21,Tecnología,2,0.0,0.0,Profesional,Medellín,Híbrida,3,3,2089000.0
+100586,52,Finanzas,1,20.0,10.0,Técnico,Bogotá,Híbrida,2,5,4869000.0
+100587,51,Tecnología,2,31.0,10.0,Especialización,Bogotá,Híbrida,3,5,9772000.0
+100588,37,Comercial,2,10.0,8.0,Técnico,Bogotá,Híbrida,3,4,3548000.0
+100589,58,Finanzas,3,32.0,3.0,Profesional,Medellín,Remota,6,3,9675000.0
+100590,50,Operaciones,2,26.0,7.0,,Bogotá,Presencial,3,3,5390000.0
+100591,31,Operaciones,2,1.0,0.0,Profesional,Cali,Presencial,4,4,4284000.0
+100592,35,Operaciones,4,6.0,6.0,Profesional,Bogotá,Presencial,3,3,7506000.0
+100593,52,Tecnología,2,29.0,0.0,Especialización,Medellín,Híbrida,3,5,8657000.0
+100594,54,Tecnología,3,30.0,15.0,Profesional,Bogotá,Presencial,10,4,10111000.0
+100595,21,Comercial,1,0.0,0.0,Maestría,Bogotá,Presencial,10,3,2781000.0
+100596,52,Operaciones,1,19.0,8.0,Técnico,Medellín,Presencial,5,2,3091000.0
+100597,60,Tecnología,2,35.0,16.0,Especialización,Medellín,Híbrida,4,4,10150000.0
+100598,23,Tecnología,1,2.0,0.0,Técnico,Bogotá,Remota,3,4,2311000.0
+100599,46,Talento Humano,3,22.0,4.0,Especialización,Barranquilla,Presencial,3,4,6852000.0
+100600,56,Tecnología,4,24.0,13.0,Profesional,Cali,Remota,5,4,9557000.0
+100601,34,Talento Humano,3,10.0,10.0,Bachillerato,Cali,Híbrida,7,3,5559000.0
+100602,24,Tecnología,4,0.0,0.0,Profesional,Bogotá,Presencial,9,4,99000000.0
+100603,21,Talento Humano,3,1.0,1.0,Profesional,Cali,Presencial,3,5,4071000.0
+100604,39,Operaciones,1,12.0,0.0,Especialización,Medellín,Presencial,4,4,3924000.0
+100605,52,Tecnología,3,23.0,3.0,Maestría,Bogotá,Híbrida,3,4,9414000.0
+100606,22,Tecnología,2,0.0,0.0,Profesional,Medellín,Presencial,6,1,3300000.0
+100607,39,Operaciones,3,6.0,6.0,Maestría,Bogotá,Presencial,5,4,6360000.0
+100608,38,Finanzas,3,12.0,12.0,Técnico,Bogotá,Híbrida,1,4,6656000.0
+100609,32,Comercial,3,9.0,0.0,Especialización,Medellín,Presencial,6,2,5521000.0
+100610,41,Tecnología,1,20.0,13.0,Especialización,Bogotá,Remota,3,3,6442000.0
+100611,25,Finanzas,4,0.0,0.0,Técnico,Bogotá,Presencial,4,4,8202000.0
+100612,31,Operaciones,3,10.0,1.0,Bachillerato,Cali,Híbrida,6,2,5524000.0
+100613,52,Talento Humano,5,29.0,16.0,Especialización,Bogotá,Híbrida,6,2,12643000.0
+100614,59,Finanzas,3,26.0,14.0,Profesional,Bogotá,Remota,3,1,8309000.0
+100615,52,Operaciones,5,31.0,2.0,Profesional,Bogotá,Presencial,5,4,12432000.0
+100616,37,Finanzas,2,11.0,6.0,Técnico,Bogotá,Híbrida,4,4,4378000.0
+100617,53,Operaciones,1,30.0,4.0,Profesional,Bogotá,Remota,5,5,5479000.0
+100618,61,Tecnología,1,33.0,10.0,Profesional,Medellín,Presencial,3,5,8242000.0
+100619,40,Talento Humano,4,8.0,8.0,Técnico,Cali,Presencial,4,4,6697000.0
+100620,59,Tecnología,2,26.0,6.0,Bachillerato,Barranquilla,Presencial,6,4,6760000.0
+100621,31,Operaciones,2,0.0,0.0,Especialización,Bogotá,Híbrida,4,4,2763000.0
+100622,39,Finanzas,2,10.0,2.0,Profesional,Cali,Presencial,4,3,3634000.0
+100623,35,Operaciones,3,8.0,7.0,Maestría,Cali,Presencial,3,4,5650000.0
+100624,34,Operaciones,2,3.0,3.0,Profesional,Bogotá,Remota,3,3,4378000.0
+100625,52,Comercial,2,25.0,5.0,Especialización,Cali,Híbrida,6,3,7164000.0
+100626,38,Operaciones,4,15.0,14.0,Técnico,Bogotá,Híbrida,4,2,7771000.0
+100627,31,Comercial,4,8.0,8.0,Profesional,Cali,Presencial,5,4,8073000.0
+100628,29,Finanzas,2,8.0,8.0,Profesional,Bogotá,Remota,6,3,4404000.0
+100629,45,Operaciones,4,20.0,3.0,Técnico,Bogotá,Presencial,2,4,8366000.0
+100630,34,Operaciones,2,4.0,4.0,Especialización,Medellín,Híbrida,5,4,4848000.0
+100631,41,Tecnología,4,21.0,8.0,Maestría,Medellín,Híbrida,4,4,10313000.0
+100632,45,Tecnología,4,20.0,16.0,Técnico,Bogotá,Híbrida,7,4,10691000.0
+100633,48,Comercial,2,20.0,2.0,Bachillerato,Bogotá,Híbrida,3,3,5743000.0
+100634,32,Operaciones,1,3.0,2.0,Especialización,Bogotá,Presencial,6,4,2390000.0
+100635,25,Operaciones,2,3.0,3.0,Maestría,Bogotá,Híbrida,3,4,3419000.0
+100636,49,Tecnología,2,26.0,1.0,Profesional,Cali,Remota,7,5,8059000.0
+100637,49,Comercial,1,25.0,15.0,Técnico,Bogotá,Híbrida,5,3,5450000.0
+100638,22,Operaciones,2,2.0,0.0,Profesional,Medellín,Presencial,8,2,3435000.0
+100639,56,Tecnología,3,25.0,12.0,Técnico,Cali,Presencial,5,4,7610000.0
+100640,37,Talento Humano,2,17.0,13.0,Maestría,Barranquilla,Híbrida,5,3,5345000.0
+100641,45,Tecnología,4,21.0,1.0,Profesional,Medellín,Remota,3,4,7528000.0
+100642,61,Tecnología,1,39.0,1.0,Especialización,Cali,Presencial,5,5,7811000.0
+100643,34,Tecnología,2,8.0,1.0,Profesional,Bogotá,Híbrida,6,4,4034000.0
+100644,50,Operaciones,4,30.0,14.0,Profesional,Bogotá,Presencial,6,4,9810000.0
+100645,38,Tecnología,4,10.0,10.0,Maestría,Medellín,Presencial,6,4,8704000.0
+100646,27,Comercial,2,1.0,1.0,Profesional,Cali,Presencial,5,3,3991000.0
+100647,34,Tecnología,1,7.0,7.0,Especialización,Bogotá,Híbrida,3,4,
+100648,53,Tecnología,2,30.0,7.0,Profesional,Barranquilla,Híbrida,4,3,7187000.0
+100649,45,Tecnología,4,23.0,11.0,Profesional,Bogotá,Híbrida,5,4,10586000.0
+100650,41,Talento Humano,2,13.0,13.0,Maestría,Barranquilla,Híbrida,5,4,6197000.0
+100651,60,Operaciones,3,34.0,3.0,Especialización,Cali,Presencial,5,3,8971000.0
+100652,41,Tecnología,4,12.0,1.0,Especialización,Medellín,Híbrida,7,3,7850000.0
+100653,30,Operaciones,4,5.0,1.0,Técnico,Bogotá,Presencial,6,2,6556000.0
+100654,39,Tecnología,2,7.0,7.0,Bachillerato,Bogotá,Remota,0,3,5134000.0
+100655,43,Tecnología,2,14.0,7.0,Profesional,Medellín,Presencial,6,3,5002000.0
+100656,39,Operaciones,1,10.0,10.0,Especialización,Bogotá,Híbrida,8,3,3267000.0
+100657,36,Finanzas,2,4.0,0.0,Técnico,Bogotá,Presencial,2,2,3124000.0
+100658,44,Comercial,1,16.0,16.0,Profesional,Medellín,Presencial,3,3,5527000.0
+100659,37,Comercial,4,12.0,8.0,Especialización,Bogotá,Remota,4,4,7319000.0
+100660,35,Finanzas,1,15.0,6.0,Profesional,Bogotá,Presencial,13,5,6038000.0
+100661,50,Tecnología,2,26.0,4.0,Especialización,Bogotá,Presencial,6,4,7451000.0
+100662,58,Finanzas,4,28.0,16.0,Profesional,Barranquilla,Híbrida,3,5,10049000.0
+100663,31,Tecnología,2,6.0,6.0,Técnico,Bogotá,Remota,3,4,4529000.0
+100664,23,Finanzas,3,0.0,0.0,Técnico,Barranquilla,Híbrida,4,4,4247000.0
+100665,44,Operaciones,1,15.0,14.0,Profesional,Medellín,Remota,6,2,4166000.0
+100666,41,Operaciones,1,15.0,15.0,Especialización,Bogotá,Híbrida,5,4,5121000.0
+100667,45,Operaciones,3,,11.0,Profesional,Bogotá,Remota,0,4,7467000.0
+100668,38,Operaciones,3,14.0,9.0,Maestría,Bogotá,Presencial,4,1,6671000.0
+100669,32,Finanzas,3,4.0,4.0,Técnico,Barranquilla,Remota,8,5,6270000.0
+100670,21,Talento Humano,2,0.0,0.0,,Bogotá,Presencial,8,4,3761000.0
+100671,23,Comercial,3,0.0,0.0,Profesional,Bogotá,Híbrida,6,4,4234000.0
+100672,47,,3,15.0,4.0,Bachillerato,Bogotá,Presencial,9,5,5023000.0
+100673,61,Talento Humano,1,41.0,10.0,Profesional,Medellín,Presencial,3,4,7548000.0
+100674,42,Operaciones,3,13.0,10.0,Profesional,Bogotá,Híbrida,3,4,5504000.0
+100675,22,Finanzas,3,0.0,0.0,Profesional,Medellín,Remota,4,3,4794000.0
+100676,21,Tecnología,2,0.0,0.0,Bachillerato,Cali,Presencial,2,1,1701000.0
+100677,45,Operaciones,3,21.0,5.0,Profesional,Cali,Híbrida,5,3,7959000.0
+100678,26,Tecnología,3,0.0,0.0,Profesional,Bogotá,Presencial,10,3,3459000.0
+100679,34,Finanzas,2,13.0,13.0,Maestría,Bogotá,Presencial,6,3,7047000.0
+100680,31,Operaciones,2,6.0,6.0,Profesional,Bogotá,Remota,8,3,3498000.0
+100681,49,Tecnología,4,21.0,4.0,,Bogotá,Presencial,8,4,10215000.0
+100682,55,Tecnología,1,23.0,15.0,Técnico,Cali,Híbrida,4,5,4778000.0
+100683,45,Operaciones,4,13.0,5.0,Especialización,Cali,Híbrida,6,4,9654000.0
+100684,45,Comercial,1,23.0,13.0,Profesional,Medellín,Presencial,5,2,6492000.0
+100685,52,,5,25.0,6.0,Especialización,Bogotá,Presencial,5,5,11494000.0
+100686,37,Operaciones,2,10.0,8.0,Profesional,Bogotá,Presencial,7,5,4153000.0
+100687,21,Tecnología,1,0.0,0.0,Especialización,Cali,Remota,5,3,3703000.0
+100688,37,Talento Humano,1,12.0,9.0,Especialización,Medellín,Presencial,2,1,4018000.0
+100689,31,Talento Humano,3,4.0,4.0,Especialización,Medellín,Híbrida,3,4,5315000.0
+100690,45,Tecnología,3,15.0,9.0,Bachillerato,Bogotá,Presencial,8,2,6866000.0
+100691,45,Operaciones,3,12.0,1.0,Especialización,Cali,Presencial,3,3,6281000.0
+100692,49,Operaciones,5,19.0,14.0,Técnico,Bogotá,Remota,5,3,10755000.0
+100693,43,Operaciones,4,22.0,7.0,Profesional,Bogotá,Presencial,3,2,9558000.0
+100694,55,Tecnología,3,22.0,15.0,Profesional,Medellín,Presencial,1,2,8036000.0
+100695,45,Comercial,4,21.0,4.0,Especialización,Bogotá,Híbrida,4,3,9131000.0
+100696,26,Operaciones,1,0.0,0.0,Profesional,Barranquilla,Híbrida,4,3,1300000.0
+100697,29,Operaciones,1,0.0,0.0,Bachillerato,Bogotá,Presencial,10,5,1538000.0
+100698,33,Finanzas,4,4.0,4.0,Bachillerato,Cali,Híbrida,3,4,7864000.0
+100699,42,Operaciones,3,9.0,9.0,Profesional,Bogotá,Presencial,3,5,6293000.0
+100700,40,Operaciones,1,18.0,13.0,Profesional,Bogotá,Remota,6,4,6453000.0
+100701,60,Finanzas,3,27.0,12.0,Bachillerato,Medellín,Remota,4,5,8943000.0
+100702,40,,3,13.0,5.0,Profesional,Bogotá,Remota,3,3,7488000.0
+100703,56,Comercial,1,24.0,10.0,Especialización,Bogotá,Presencial,6,4,5726000.0
+100704,28,Comercial,2,8.0,8.0,Especialización,Bogotá,Híbrida,2,4,4009000.0
+100705,48,Operaciones,4,20.0,3.0,Técnico,Bogotá,Presencial,4,3,6991000.0
+100706,56,Tecnología,1,27.0,5.0,Especialización,Medellín,Remota,6,3,6526000.0
+100707,47,Tecnología,4,16.0,9.0,Maestría,Cali,Presencial,4,4,9129000.0
+100708,46,Finanzas,3,20.0,9.0,Profesional,Medellín,Presencial,6,4,7269000.0
+100709,30,Tecnología,1,3.0,2.0,Técnico,Barranquilla,Presencial,8,5,2857000.0
+100710,58,Tecnología,1,33.0,5.0,Especialización,Bogotá,Híbrida,5,4,8424000.0
+100711,34,Finanzas,2,5.0,5.0,Técnico,Bogotá,Presencial,5,5,4164000.0
+100712,34,Talento Humano,1,10.0,3.0,Bachillerato,Bogotá,Presencial,6,5,3034000.0
+100713,36,Talento Humano,3,13.0,10.0,,Medellín,Remota,6,4,4666000.0
+100714,49,Tecnología,3,20.0,14.0,Técnico,Bogotá,Presencial,5,2,8036000.0
+100715,54,Operaciones,2,23.0,0.0,Profesional,Medellín,Presencial,5,4,5376000.0
+100716,33,Finanzas,2,0.0,0.0,Profesional,Barranquilla,Presencial,5,4,1522000.0
+100717,59,Tecnología,4,,1.0,Especialización,Bogotá,Híbrida,7,2,10934000.0
+100718,34,Operaciones,2,14.0,14.0,Maestría,Bogotá,Presencial,3,5,5551000.0
+100719,27,Tecnología,3,4.0,4.0,Profesional,Cali,Presencial,6,3,6213000.0
+100720,43,Operaciones,5,21.0,4.0,Técnico,Bogotá,Híbrida,5,5,10321000.0
+100721,33,Tecnología,4,6.0,4.0,Bachillerato,Bogotá,Presencial,2,4,7013000.0
+100722,61,Operaciones,3,37.0,8.0,Profesional,Bogotá,Remota,2,4,10576000.0
+100723,49,Talento Humano,2,19.0,4.0,Especialización,Medellín,Híbrida,4,2,6783000.0
+100724,55,Operaciones,3,22.0,5.0,Maestría,Bogotá,Presencial,6,3,7898000.0
+100725,23,Tecnología,2,0.0,0.0,Bachillerato,Medellín,Presencial,8,5,3331000.0
+100726,41,Talento Humano,3,8.0,0.0,Especialización,Barranquilla,Presencial,4,3,4138000.0
+100727,46,Comercial,5,25.0,4.0,Profesional,Cali,Híbrida,5,3,12233000.0
+100728,50,Operaciones,1,17.0,9.0,Profesional,Bogotá,Híbrida,1,3,
+100729,43,Operaciones,2,13.0,7.0,Profesional,Cali,Remota,6,4,3313000.0
+100730,47,Comercial,2,18.0,16.0,Bachillerato,Bogotá,Remota,7,4,5391000.0
+100731,56,Operaciones,3,29.0,8.0,Bachillerato,Bogotá,Híbrida,4,5,8839000.0
+100732,40,Operaciones,2,19.0,12.0,Bachillerato,Bogotá,Híbrida,4,2,4953000.0
+100733,55,Finanzas,2,22.0,16.0,Técnico,Bogotá,Remota,10,4,7127000.0
+100734,23,Talento Humano,3,1.0,1.0,Bachillerato,Medellín,Presencial,7,3,4962000.0
+100735,58,Operaciones,4,32.0,15.0,Bachillerato,Bogotá,Presencial,6,5,10439000.0
+100736,42,Tecnología,3,21.0,16.0,,Bogotá,Remota,10,3,8209000.0
+100737,57,Tecnología,2,35.0,9.0,Profesional,Medellín,Presencial,6,4,9285000.0
+100738,48,Operaciones,5,25.0,8.0,Profesional,Medellín,Remota,6,2,11333000.0
+100739,50,Tecnología,5,27.0,5.0,Técnico,Bogotá,Híbrida,4,5,13661000.0
+100740,34,Tecnología,4,8.0,0.0,Profesional,Medellín,Presencial,5,4,9046000.0
+100741,41,Tecnología,2,21.0,14.0,Técnico,Bogotá,Remota,8,4,7115000.0
+100742,58,Operaciones,1,25.0,16.0,Especialización,Bogotá,Presencial,2,5,
+100743,36,Tecnología,4,4.0,4.0,Técnico,Bogotá,Presencial,7,4,8150000.0
+100744,24,Operaciones,2,0.0,0.0,Especialización,Medellín,Presencial,6,5,3915000.0
+100745,24,Finanzas,2,0.0,0.0,Profesional,Bogotá,Híbrida,6,4,3313000.0
+100746,53,Operaciones,2,25.0,5.0,Profesional,Bogotá,Híbrida,8,4,6684000.0
+100747,60,Tecnología,2,30.0,10.0,Profesional,Cali,Presencial,2,5,7157000.0
+100748,35,Operaciones,4,15.0,8.0,Profesional,Bogotá,Híbrida,3,2,8069000.0
+100749,57,Tecnología,2,34.0,3.0,Profesional,Barranquilla,Presencial,4,5,8171000.0
+100750,22,Tecnología,4,2.0,2.0,Profesional,Bogotá,Híbrida,3,4,6549000.0
+100751,27,Comercial,3,3.0,3.0,Profesional,Bogotá,Híbrida,7,4,5754000.0
+100752,26,Operaciones,3,5.0,5.0,Profesional,Bogotá,Presencial,4,2,4585000.0
+100753,24,Tecnología,4,0.0,0.0,Profesional,Bogotá,Híbrida,3,4,5447000.0
+100754,21,Tecnología,4,0.0,0.0,Profesional,Bogotá,Presencial,5,5,6390000.0
+100755,58,Operaciones,1,35.0,12.0,Profesional,Medellín,Presencial,3,4,6074000.0
+100756,54,Tecnología,3,23.0,16.0,Especialización,Bogotá,Presencial,8,4,8280000.0
+100757,31,Tecnología,3,0.0,0.0,Especialización,Bogotá,Híbrida,5,4,5699000.0
+100758,58,Comercial,2,36.0,9.0,Especialización,Bogotá,Híbrida,2,4,9489000.0
+100759,22,Operaciones,4,0.0,0.0,Bachillerato,Cali,Híbrida,0,5,5620000.0
+100760,50,Tecnología,2,17.0,16.0,Profesional,Bogotá,Presencial,2,2,8007000.0
+100761,40,Finanzas,5,11.0,11.0,Maestría,Cali,Presencial,8,5,11304000.0
+100762,57,Operaciones,2,35.0,3.0,Especialización,Bogotá,Presencial,5,4,8717000.0
+100763,39,Operaciones,1,12.0,12.0,Técnico,Bogotá,Remota,3,4,2249000.0
+100764,49,Comercial,3,26.0,10.0,Profesional,Bogotá,Presencial,7,4,9098000.0
+100765,31,Finanzas,3,,3.0,Bachillerato,Medellín,Presencial,3,3,5177000.0
+100766,60,Talento Humano,3,33.0,11.0,Especialización,Bogotá,Híbrida,3,5,8559000.0
+100767,49,Operaciones,2,21.0,8.0,Especialización,Barranquilla,Remota,4,4,5810000.0
+100768,51,Talento Humano,3,21.0,16.0,Profesional,Bogotá,Presencial,3,4,6748000.0
+100769,23,Operaciones,5,0.0,0.0,Profesional,Cali,Híbrida,3,5,6694000.0
+100770,58,Comercial,3,26.0,5.0,Especialización,Bogotá,Presencial,7,4,8734000.0
+100771,25,Operaciones,2,0.0,0.0,Especialización,Medellín,Presencial,1,2,2474000.0
+100772,43,Operaciones,3,21.0,14.0,Bachillerato,Bogotá,Presencial,6,4,6106000.0
+100773,37,Operaciones,2,6.0,1.0,Técnico,Medellín,Híbrida,3,2,6151000.0
+100774,25,Tecnología,3,0.0,0.0,Especialización,Bogotá,Remota,2,4,8043000.0
+100775,37,Operaciones,2,16.0,8.0,Técnico,Cali,Presencial,6,3,3135000.0
+100776,26,Finanzas,4,3.0,3.0,Técnico,Medellín,Presencial,4,3,
+100777,29,Finanzas,2,4.0,4.0,Especialización,Bogotá,Remota,7,2,4837000.0
+100778,57,Talento Humano,2,26.0,13.0,Especialización,Bogotá,Presencial,8,4,7012000.0
+100779,42,Talento Humano,1,14.0,1.0,Profesional,Bogotá,Híbrida,5,4,4059000.0
+100780,55,Operaciones,4,29.0,12.0,Profesional,Bogotá,Híbrida,4,4,10158000.0
+100781,25,Finanzas,1,0.0,0.0,Bachillerato,Bogotá,Presencial,5,4,1300000.0
+100782,24,Comercial,3,0.0,0.0,Técnico,Cali,Híbrida,4,1,4731000.0
+100783,44,Tecnología,4,19.0,14.0,Profesional,Bogotá,Presencial,5,2,8836000.0
+100784,60,Talento Humano,2,33.0,8.0,Bachillerato,Medellín,Híbrida,4,4,5915000.0
+100785,38,Finanzas,1,17.0,10.0,Técnico,Bogotá,Remota,7,3,5351000.0
+100786,53,Tecnología,2,28.0,12.0,Técnico,Bogotá,Remota,5,4,7660000.0
+100787,31,Operaciones,1,3.0,3.0,Profesional,Barranquilla,Híbrida,4,3,3088000.0
+100788,21,Comercial,1,0.0,0.0,Especialización,Bogotá,Híbrida,3,5,2776000.0
+100789,34,Finanzas,1,2.0,2.0,Profesional,Bogotá,Presencial,7,4,3695000.0
+100790,51,Tecnología,2,26.0,4.0,Especialización,Bogotá,Presencial,6,5,6965000.0
+100791,45,Talento Humano,3,25.0,3.0,Profesional,Medellín,Presencial,3,3,8474000.0
+100792,54,Talento Humano,1,27.0,7.0,,Cali,Presencial,8,4,5288000.0
+100793,36,Operaciones,2,13.0,11.0,Profesional,Bogotá,Remota,6,2,4237000.0
+100794,22,Finanzas,2,0.0,0.0,Especialización,Bogotá,Presencial,10,2,2947000.0
+100795,49,Tecnología,2,28.0,5.0,Especialización,Medellín,Remota,4,4,6751000.0
+100796,35,Finanzas,1,8.0,5.0,Especialización,Cali,Híbrida,4,4,3120000.0
+100797,25,Comercial,4,2.0,2.0,Técnico,Medellín,Remota,4,5,4964000.0
+100798,33,Operaciones,2,5.0,5.0,Especialización,Medellín,Remota,3,2,3031000.0
+100799,46,Tecnología,1,14.0,2.0,Técnico,Bogotá,Híbrida,1,5,3759000.0
+100800,52,Tecnología,2,19.0,10.0,Especialización,Bogotá,Presencial,5,4,6550000.0
+100801,43,Operaciones,4,20.0,3.0,Profesional,Bogotá,Presencial,2,5,7780000.0
+100802,41,Talento Humano,1,16.0,14.0,Técnico,Cali,Presencial,3,4,3260000.0
+100803,27,Tecnología,2,7.0,7.0,Profesional,Medellín,Híbrida,1,3,5936000.0
+100804,27,Finanzas,2,0.0,0.0,Técnico,Cali,Presencial,4,4,99000000.0
+100805,24,Tecnología,1,0.0,0.0,Bachillerato,Medellín,Híbrida,3,3,2793000.0
+100806,30,Finanzas,1,7.0,6.0,Bachillerato,Bogotá,Presencial,5,2,3851000.0
+100807,45,Talento Humano,3,20.0,15.0,Profesional,Medellín,Híbrida,3,1,6725000.0
+100808,21,Tecnología,3,0.0,0.0,Profesional,Bogotá,Presencial,6,4,5794000.0
+100809,47,Operaciones,1,,16.0,Bachillerato,Bogotá,Híbrida,7,4,5136000.0
+100810,51,Finanzas,1,21.0,8.0,Profesional,Cali,Híbrida,5,5,6055000.0
+100811,57,Talento Humano,2,26.0,1.0,Técnico,Barranquilla,Remota,2,2,6457000.0
+100812,44,Finanzas,3,16.0,3.0,Especialización,Bogotá,Presencial,7,2,6613000.0
+100813,23,Talento Humano,5,0.0,0.0,Profesional,Bogotá,Remota,0,5,9631000.0
+100814,23,Tecnología,3,2.0,2.0,Técnico,Bogotá,Remota,5,5,4228000.0
+100815,25,Comercial,1,0.0,0.0,Profesional,Bogotá,Híbrida,6,5,2302000.0
+100816,33,Tecnología,3,12.0,0.0,Especialización,Bogotá,Híbrida,7,4,7694000.0
+100817,61,Finanzas,2,37.0,14.0,Bachillerato,Medellín,Presencial,2,4,8365000.0
+100818,38,Comercial,2,8.0,3.0,Especialización,Medellín,Remota,5,3,4317000.0
+100819,53,Operaciones,3,23.0,8.0,Técnico,Bogotá,Presencial,3,3,7362000.0
+100820,23,Talento Humano,2,0.0,0.0,Bachillerato,Bogotá,Remota,4,3,3040000.0
+100821,35,Tecnología,2,9.0,7.0,Técnico,Bogotá,Presencial,8,3,4059000.0
+100822,46,Operaciones,1,20.0,3.0,Profesional,Cali,Presencial,6,2,4625000.0
+100823,60,Comercial,3,32.0,8.0,Técnico,Bogotá,Presencial,3,3,8949000.0
+100824,46,Comercial,2,19.0,4.0,Profesional,Bogotá,Remota,3,3,6754000.0
+100825,52,Talento Humano,1,30.0,11.0,Especialización,Bogotá,Híbrida,5,5,6579000.0
+100826,43,Operaciones,3,18.0,3.0,Profesional,Bogotá,Presencial,3,4,5921000.0
+100827,29,Finanzas,1,3.0,3.0,Profesional,Medellín,Híbrida,5,4,1956000.0
+100828,22,Tecnología,4,2.0,2.0,Maestría,Cali,Presencial,5,2,6529000.0
+100829,61,Operaciones,5,38.0,2.0,Técnico,Medellín,Presencial,5,4,12868000.0
+100830,50,Talento Humano,3,22.0,8.0,Bachillerato,Barranquilla,Presencial,4,4,6962000.0
+100831,33,Comercial,2,2.0,2.0,Técnico,Medellín,Híbrida,2,3,2614000.0
+100832,42,Tecnología,3,15.0,10.0,Profesional,Bogotá,Híbrida,2,4,8063000.0
+100833,35,Tecnología,2,5.0,5.0,Técnico,Cali,Remota,6,3,4307000.0
+100834,44,Talento Humano,2,20.0,12.0,Técnico,Bogotá,Híbrida,5,3,5245000.0
+100835,38,Tecnología,1,5.0,5.0,Bachillerato,Barranquilla,Remota,3,5,1872000.0
+100836,21,Finanzas,3,0.0,0.0,,Medellín,Híbrida,4,4,3592000.0
+100837,51,Operaciones,3,29.0,11.0,Profesional,Bogotá,Presencial,4,2,8024000.0
+100838,24,Operaciones,2,2.0,2.0,Bachillerato,Bogotá,Presencial,4,3,4459000.0
+100839,61,Tecnología,1,41.0,6.0,Profesional,Medellín,Presencial,5,5,7658000.0
+100840,45,Operaciones,2,18.0,11.0,Especialización,Bogotá,Híbrida,8,4,7501000.0
+100841,47,Tecnología,4,17.0,7.0,Bachillerato,Bogotá,Híbrida,3,3,8035000.0
+100842,35,Operaciones,3,6.0,6.0,Maestría,Bogotá,Híbrida,5,3,5134000.0
+100843,59,Tecnología,4,27.0,11.0,Profesional,Cali,Híbrida,3,3,10812000.0
+100844,21,Finanzas,2,1.0,1.0,Técnico,Bogotá,Remota,7,5,2755000.0
+100845,21,Comercial,2,0.0,0.0,Profesional,Bogotá,Híbrida,7,4,2533000.0
+100846,43,Finanzas,1,12.0,12.0,Profesional,Cali,Presencial,7,5,4418000.0
+100847,25,Tecnología,5,0.0,0.0,Profesional,Medellín,Presencial,4,5,9671000.0
+100848,33,Finanzas,3,6.0,1.0,Bachillerato,Bogotá,Presencial,2,3,6088000.0
+100849,34,Finanzas,2,2.0,2.0,Técnico,Cali,Remota,8,4,3097000.0
+100850,47,Finanzas,4,15.0,0.0,Técnico,Medellín,Remota,4,4,9576000.0
+100851,49,Finanzas,1,23.0,6.0,Técnico,Medellín,Presencial,4,4,5098000.0
+100852,26,Comercial,2,5.0,2.0,Profesional,Medellín,Híbrida,3,5,4554000.0
+100853,29,Finanzas,3,0.0,0.0,Profesional,Cali,Presencial,6,4,4784000.0
+100854,38,Tecnología,1,6.0,1.0,Técnico,Cali,Presencial,3,5,4138000.0
+100855,33,Finanzas,4,9.0,9.0,Técnico,Medellín,Híbrida,8,2,8786000.0
+100856,61,Tecnología,1,36.0,2.0,Profesional,Bogotá,Híbrida,3,4,7527000.0
+100857,36,Comercial,3,15.0,14.0,Especialización,Cali,Híbrida,2,3,5789000.0
+100858,37,Comercial,3,14.0,14.0,Profesional,Bogotá,Presencial,7,5,6568000.0
+100859,41,Tecnología,1,20.0,3.0,Profesional,Cali,Híbrida,6,2,5302000.0
+100860,23,Talento Humano,2,0.0,0.0,Profesional,Medellín,Presencial,8,4,2826000.0
+100861,52,Tecnología,1,,16.0,Profesional,Bogotá,Híbrida,1,4,6189000.0
+100862,56,Tecnología,1,30.0,16.0,Especialización,Medellín,Híbrida,3,3,5518000.0
+100863,24,Operaciones,2,0.0,0.0,Técnico,Bogotá,Híbrida,1,5,2372000.0
+100864,57,Comercial,4,26.0,8.0,Profesional,Cali,Remota,5,3,9144000.0
+100865,23,Finanzas,4,0.0,0.0,Profesional,Bogotá,Híbrida,3,3,7491000.0
+100866,56,Comercial,3,24.0,6.0,Bachillerato,Bogotá,Remota,7,3,7080000.0
+100867,38,Finanzas,3,6.0,6.0,Profesional,Barranquilla,Híbrida,11,4,6348000.0
+100868,44,Tecnología,3,15.0,7.0,Técnico,Bogotá,Presencial,6,3,7314000.0
+100869,61,Comercial,2,29.0,9.0,Técnico,Medellín,Presencial,9,4,6737000.0
+100870,34,Operaciones,2,6.0,6.0,Técnico,Cali,Presencial,2,4,2683000.0
+100871,51,Operaciones,3,20.0,6.0,Maestría,Bogotá,Presencial,5,4,7515000.0
+100872,35,Tecnología,2,3.0,3.0,Especialización,Bogotá,Presencial,2,5,4510000.0
+100873,53,Finanzas,2,23.0,5.0,Profesional,Cali,Presencial,6,4,6170000.0
+100874,59,Finanzas,3,36.0,6.0,Profesional,Bogotá,Presencial,6,4,10384000.0
+100875,26,Comercial,2,0.0,0.0,Especialización,Bogotá,Remota,2,1,3619000.0
+100876,42,Operaciones,1,9.0,9.0,Bachillerato,Barranquilla,Remota,4,2,4463000.0
+100877,26,Talento Humano,3,0.0,0.0,Profesional,Bogotá,Híbrida,8,2,3495000.0
+100878,44,Operaciones,1,18.0,14.0,Técnico,Medellín,Híbrida,5,4,4813000.0
+100879,55,Tecnología,1,26.0,9.0,Especialización,Bogotá,Presencial,5,3,7415000.0
+100880,29,,2,8.0,8.0,Profesional,Bogotá,Presencial,7,4,4229000.0
+100881,23,Tecnología,2,3.0,2.0,Profesional,Bogotá,Presencial,3,4,3789000.0
+100882,51,Comercial,4,20.0,1.0,Profesional,Bogotá,Presencial,3,5,10782000.0
+100883,50,Tecnología,2,23.0,6.0,Maestría,Cali,Presencial,4,4,7484000.0
+100884,39,Talento Humano,2,7.0,7.0,Técnico,Medellín,Híbrida,6,4,2928000.0
+100885,30,Operaciones,4,4.0,4.0,Profesional,Medellín,Híbrida,4,2,5882000.0
+100886,31,Tecnología,2,10.0,9.0,Profesional,Bogotá,Híbrida,3,4,5415000.0
+100887,38,Operaciones,2,10.0,10.0,Profesional,Bogotá,Híbrida,4,3,3752000.0
+100888,26,Operaciones,4,0.0,0.0,Bachillerato,Bogotá,Presencial,3,4,6373000.0
+100889,37,Tecnología,4,5.0,2.0,Especialización,Medellín,Presencial,6,5,9679000.0
+100890,26,Comercial,1,2.0,2.0,,Bogotá,Híbrida,4,3,2091000.0
+100891,31,Finanzas,2,9.0,6.0,Técnico,Bogotá,Híbrida,5,3,3759000.0
+100892,48,Comercial,4,26.0,5.0,Técnico,Medellín,Remota,6,2,9959000.0
+100893,59,Tecnología,2,28.0,5.0,Bachillerato,Bogotá,Remota,5,3,7885000.0
+100894,54,Tecnología,3,33.0,2.0,Técnico,Cali,Híbrida,5,2,9399000.0
+100895,24,Operaciones,1,0.0,0.0,Profesional,Bogotá,Híbrida,4,4,2440000.0
+100896,42,Operaciones,3,21.0,15.0,Técnico,Bogotá,Remota,4,5,6529000.0
+100897,25,Finanzas,3,1.0,1.0,Profesional,Bogotá,Remota,8,3,4723000.0
+100898,44,Tecnología,1,15.0,3.0,Bachillerato,Medellín,Híbrida,3,3,4245000.0
+100899,32,Talento Humano,2,2.0,2.0,Especialización,Medellín,Presencial,5,3,2769000.0
+100900,46,Operaciones,3,20.0,0.0,Técnico,Bogotá,Remota,10,3,5536000.0
+100901,61,Finanzas,2,36.0,12.0,Técnico,Bogotá,Presencial,5,4,8011000.0
+100902,24,Tecnología,3,0.0,0.0,Profesional,Barranquilla,Presencial,6,2,3623000.0
+100903,58,Tecnología,1,33.0,11.0,Bachillerato,Cali,Remota,8,4,8452000.0
+100904,33,Finanzas,2,6.0,6.0,Técnico,Bogotá,Remota,4,3,3275000.0
+100905,59,Finanzas,2,37.0,14.0,Técnico,Bogotá,Remota,4,5,9692000.0
+100906,61,Finanzas,2,31.0,1.0,Técnico,Bogotá,Híbrida,5,4,6708000.0
+100907,42,Comercial,2,11.0,11.0,Técnico,Bogotá,Presencial,3,5,4254000.0
+100908,21,Operaciones,2,0.0,0.0,Técnico,Cali,Presencial,4,3,2109000.0
+100909,42,Tecnología,4,20.0,7.0,Profesional,Bogotá,Presencial,4,1,9598000.0
+100910,43,Tecnología,1,21.0,9.0,Especialización,Cali,Híbrida,6,4,6247000.0
+100911,25,Finanzas,2,1.0,1.0,Bachillerato,Barranquilla,Presencial,7,4,1418000.0
+100912,32,Comercial,3,0.0,0.0,Especialización,Cali,Presencial,6,3,5610000.0
+100913,45,Comercial,1,19.0,6.0,Técnico,Barranquilla,Presencial,9,5,5189000.0
+100914,61,Tecnología,4,29.0,2.0,Técnico,Cali,Híbrida,10,3,10764000.0
+100915,46,Tecnología,4,18.0,13.0,Especialización,Bogotá,Híbrida,3,3,10622000.0
+100916,36,Operaciones,4,6.0,2.0,Profesional,Barranquilla,Híbrida,5,4,6559000.0
+100917,33,Tecnología,4,5.0,5.0,Maestría,Cali,Presencial,5,5,7245000.0
+100918,48,Operaciones,1,26.0,0.0,Profesional,Cali,Híbrida,4,3,5022000.0
+100919,48,Tecnología,3,18.0,3.0,Bachillerato,Bogotá,Remota,7,3,7642000.0
+100920,37,Tecnología,2,4.0,4.0,Técnico,Medellín,Híbrida,8,5,3730000.0
+100921,36,Operaciones,2,14.0,6.0,Profesional,Cali,Presencial,2,4,4434000.0
+100922,24,Tecnología,3,0.0,0.0,Profesional,Bogotá,Híbrida,5,2,5621000.0
+100923,29,Comercial,2,3.0,3.0,Técnico,Bogotá,Híbrida,2,4,3030000.0
+100924,59,Finanzas,2,36.0,12.0,Técnico,Bogotá,Híbrida,4,2,8142000.0
+100925,32,Tecnología,3,0.0,0.0,Maestría,Medellín,Presencial,5,5,5537000.0
+100926,23,Comercial,1,0.0,0.0,Especialización,Medellín,Presencial,8,5,1764000.0
+100927,34,Comercial,3,14.0,7.0,Profesional,Bogotá,Remota,4,3,7614000.0
+100928,46,Tecnología,1,15.0,15.0,Profesional,Bogotá,Presencial,3,4,6223000.0
+100929,22,Talento Humano,3,0.0,0.0,Profesional,Barranquilla,Presencial,9,2,3366000.0
+100930,57,Comercial,3,33.0,9.0,Especialización,Bogotá,Presencial,7,4,9379000.0
+100931,45,Tecnología,3,23.0,14.0,Profesional,Bogotá,Híbrida,6,4,7913000.0
+100932,59,Comercial,2,36.0,13.0,Profesional,Bogotá,Remota,5,4,9164000.0
+100933,34,Tecnología,2,5.0,4.0,,Medellín,Presencial,2,5,4694000.0
+100934,39,Finanzas,1,8.0,0.0,Técnico,Bogotá,Remota,5,5,4288000.0
+100935,54,Operaciones,4,27.0,2.0,Profesional,Bogotá,Presencial,2,4,8775000.0
+100936,57,Tecnología,2,24.0,7.0,Técnico,Bogotá,Híbrida,7,4,7409000.0
+100937,41,Operaciones,4,14.0,5.0,Especialización,Bogotá,Remota,6,5,8707000.0
+100938,53,Finanzas,3,26.0,4.0,Especialización,Bogotá,Presencial,2,2,9067000.0
+100939,22,Operaciones,4,0.0,0.0,Técnico,Medellín,Presencial,6,4,6086000.0
+100940,21,Tecnología,4,0.0,0.0,Maestría,Medellín,Presencial,6,4,7426000.0
+100941,25,Tecnología,2,1.0,1.0,Maestría,Medellín,Presencial,8,3,4774000.0
+100942,53,Comercial,2,28.0,3.0,Profesional,Medellín,Híbrida,6,3,6611000.0
+100943,43,Comercial,3,11.0,3.0,,Medellín,Presencial,4,3,5012000.0
+100944,61,Tecnología,4,39.0,7.0,Especialización,Bogotá,Híbrida,3,4,11982000.0
+100945,28,Tecnología,1,0.0,0.0,Profesional,Barranquilla,Híbrida,8,2,2463000.0
+100946,22,Tecnología,1,0.0,0.0,Bachillerato,Cali,Presencial,2,5,3254000.0
+100947,54,Talento Humano,2,25.0,0.0,Profesional,Cali,Presencial,6,3,4959000.0
+100948,36,Comercial,2,3.0,3.0,Maestría,Bogotá,Remota,6,4,5127000.0
+100949,37,Operaciones,2,8.0,5.0,Especialización,Cali,Remota,7,5,5119000.0
+100950,42,Operaciones,2,13.0,12.0,Técnico,Medellín,Remota,7,4,5337000.0
+100951,35,Tecnología,2,15.0,7.0,,Bogotá,Híbrida,4,1,5662000.0
+100952,51,Operaciones,2,27.0,3.0,Profesional,Cali,Presencial,5,4,6480000.0
+100953,31,Comercial,2,0.0,0.0,Maestría,Bogotá,Remota,3,4,4590000.0
+100954,25,Finanzas,3,2.0,2.0,Bachillerato,Bogotá,Remota,2,4,3303000.0
+100955,55,Finanzas,1,34.0,2.0,Profesional,Medellín,Remota,5,5,5864000.0
+100956,32,Finanzas,4,3.0,3.0,Profesional,Cali,Híbrida,1,4,7740000.0
+100957,23,Operaciones,2,0.0,0.0,Técnico,Bogotá,Presencial,5,5,2580000.0
+100958,22,Finanzas,1,0.0,0.0,Profesional,Bogotá,Presencial,2,4,1734000.0
+100959,33,Tecnología,3,8.0,4.0,Especialización,Cali,Remota,3,2,6999000.0
+100960,45,Comercial,2,12.0,9.0,,Bogotá,Híbrida,4,4,6617000.0
+100961,35,Operaciones,3,13.0,4.0,Bachillerato,Bogotá,Remota,4,2,5588000.0
+100962,39,Tecnología,1,15.0,13.0,Profesional,Medellín,Remota,2,4,4602000.0
+100963,44,Operaciones,3,20.0,14.0,Especialización,Bogotá,Presencial,2,4,7935000.0
+100964,38,Tecnología,2,5.0,4.0,Maestría,Barranquilla,Híbrida,6,3,5413000.0
+100965,32,Tecnología,2,0.0,0.0,Profesional,Bogotá,Presencial,5,4,5113000.0
+100966,48,Talento Humano,4,22.0,12.0,Profesional,Cali,Presencial,4,1,8655000.0
+100967,36,Operaciones,4,15.0,9.0,Profesional,Cali,Híbrida,3,4,7858000.0
+100968,28,Tecnología,5,0.0,0.0,Técnico,Bogotá,Remota,7,3,9971000.0
+100969,57,Talento Humano,3,25.0,8.0,Especialización,Cali,Presencial,4,5,8496000.0
+100970,36,Finanzas,3,14.0,1.0,Técnico,Bogotá,Presencial,5,4,6498000.0
+100971,25,Operaciones,4,2.0,2.0,Profesional,Cali,Híbrida,4,3,6897000.0
+100972,54,Tecnología,1,26.0,8.0,Técnico,Bogotá,Presencial,3,3,6302000.0
+100973,33,Operaciones,1,1.0,1.0,Técnico,Bogotá,Híbrida,7,4,1876000.0
+100974,36,Comercial,3,11.0,7.0,Especialización,Cali,Presencial,10,4,5483000.0
+100975,42,Tecnología,3,20.0,13.0,Especialización,Cali,Híbrida,2,4,7870000.0
+100976,50,Comercial,4,27.0,1.0,Profesional,Bogotá,Presencial,3,5,10609000.0
+100977,42,Operaciones,4,13.0,13.0,Especialización,Bogotá,Presencial,5,2,8065000.0
+100978,43,Tecnología,3,21.0,9.0,Profesional,Bogotá,Híbrida,4,3,7394000.0
+100979,42,Tecnología,5,17.0,1.0,Especialización,Medellín,Presencial,4,1,12004000.0
+100980,29,Tecnología,3,0.0,0.0,Especialización,Cali,Presencial,7,2,5323000.0
+100981,24,Operaciones,3,1.0,1.0,Profesional,Bogotá,Remota,3,4,6274000.0
+100982,42,Tecnología,2,21.0,0.0,Especialización,Bogotá,Remota,6,3,6923000.0
+100983,22,Comercial,2,0.0,0.0,Profesional,Barranquilla,Remota,7,1,2504000.0
+100984,55,Tecnología,1,33.0,9.0,Profesional,Bogotá,Híbrida,3,4,7279000.0
+100985,38,Operaciones,2,9.0,3.0,Especialización,Medellín,Presencial,4,5,4082000.0
+100986,51,Tecnología,1,22.0,8.0,Profesional,Bogotá,Híbrida,9,2,5511000.0
+100987,41,Tecnología,4,19.0,13.0,Bachillerato,Bogotá,Presencial,3,3,10746000.0
+100988,36,Tecnología,2,10.0,1.0,Técnico,Bogotá,Presencial,7,4,4243000.0
+100989,42,Tecnología,5,20.0,10.0,Bachillerato,Barranquilla,Híbrida,5,5,11886000.0
+100990,38,Tecnología,3,13.0,12.0,Profesional,Bogotá,Híbrida,5,2,7729000.0
+100991,43,Talento Humano,4,18.0,4.0,Maestría,Medellín,Remota,6,2,8631000.0
+100992,45,Talento Humano,3,25.0,3.0,Técnico,Bogotá,Presencial,5,4,7278000.0
+100993,30,Operaciones,3,10.0,0.0,Maestría,Bogotá,Remota,5,2,6437000.0
+100994,35,Tecnología,2,15.0,6.0,Profesional,Bogotá,Presencial,8,2,6055000.0
+100995,58,Tecnología,3,30.0,14.0,Profesional,Bogotá,Presencial,2,4,8163000.0
+100996,58,Tecnología,3,26.0,3.0,Bachillerato,Bogotá,Presencial,7,2,8590000.0
+100997,61,Talento Humano,3,34.0,3.0,Profesional,Bogotá,Presencial,4,5,8966000.0
+100998,26,Finanzas,2,6.0,6.0,Técnico,Barranquilla,Presencial,4,4,3784000.0
+100999,28,Tecnología,2,0.0,0.0,Técnico,Cali,Presencial,2,2,3948000.0
+101000,54,Tecnología,3,28.0,3.0,Especialización,Cali,Híbrida,3,5,7788000.0
+101001,59,Comercial,3,32.0,13.0,Especialización,Bogotá,Híbrida,4,3,9028000.0
+101002,58,Tecnología,4,28.0,10.0,Especialización,Medellín,Remota,5,5,10538000.0
+101003,34,Finanzas,4,8.0,8.0,Especialización,Cali,Híbrida,3,3,7203000.0
+101004,30,Tecnología,3,8.0,3.0,Técnico,Barranquilla,Híbrida,4,5,5818000.0
+101005,45,Tecnología,5,19.0,7.0,Bachillerato,Medellín,Presencial,4,4,11884000.0
+101006,30,Finanzas,2,2.0,2.0,Especialización,Barranquilla,Presencial,5,5,4847000.0
+101007,50,Tecnología,5,30.0,5.0,Maestría,Medellín,Remota,4,4,14697000.0
+101008,42,Finanzas,3,13.0,6.0,Profesional,Medellín,Híbrida,7,4,6907000.0
+101009,24,Comercial,1,0.0,0.0,Profesional,Bogotá,Presencial,2,4,1814000.0
+101010,49,Operaciones,3,20.0,10.0,Profesional,Medellín,Remota,1,3,7452000.0
+101011,46,Operaciones,3,16.0,4.0,Maestría,Cali,Remota,3,3,6529000.0
+101012,58,Tecnología,1,36.0,3.0,Bachillerato,Cali,Presencial,3,4,5940000.0
+101013,55,Tecnología,2,29.0,10.0,Profesional,Bogotá,Híbrida,9,4,8147000.0
+101014,24,Operaciones,3,0.0,0.0,Maestría,Bogotá,Remota,8,2,5256000.0
+101015,34,Operaciones,2,2.0,2.0,Técnico,Cali,Remota,4,5,2438000.0
+101016,46,Operaciones,2,20.0,0.0,Técnico,Bogotá,Híbrida,3,3,5673000.0
+101017,52,Comercial,1,21.0,11.0,Profesional,Bogotá,Presencial,4,4,5961000.0
+101018,55,Finanzas,3,33.0,6.0,Especialización,Bogotá,Presencial,4,3,9091000.0
+101019,37,Tecnología,5,17.0,2.0,Profesional,Bogotá,Híbrida,5,5,12262000.0
+101020,30,Operaciones,3,6.0,4.0,Profesional,Medellín,Remota,5,4,5114000.0
+101021,51,Finanzas,3,22.0,2.0,Especialización,Bogotá,Híbrida,1,4,7814000.0
+101022,48,Operaciones,1,22.0,1.0,Profesional,Barranquilla,Remota,2,2,3897000.0
+101023,50,Comercial,3,25.0,5.0,Bachillerato,Cali,Remota,5,5,6199000.0
+101024,34,Finanzas,4,9.0,1.0,Maestría,Medellín,Presencial,5,1,9333000.0
+101025,56,Comercial,3,26.0,12.0,Especialización,Medellín,Remota,2,4,9622000.0
+101026,24,Finanzas,3,0.0,0.0,Bachillerato,Medellín,Presencial,3,3,4900000.0
+101027,27,Operaciones,1,5.0,5.0,Profesional,Bogotá,Híbrida,4,4,4240000.0
+101028,55,Operaciones,2,24.0,10.0,Profesional,Bogotá,Presencial,4,2,6644000.0
+101029,42,Finanzas,2,22.0,2.0,Especialización,Barranquilla,Presencial,4,3,6124000.0
+101030,37,Tecnología,3,5.0,5.0,Bachillerato,Medellín,Híbrida,2,5,5105000.0
+101031,32,Operaciones,1,2.0,2.0,Bachillerato,Bogotá,Remota,11,4,2083000.0
+101032,57,Tecnología,3,30.0,4.0,Profesional,Bogotá,Presencial,5,5,9661000.0
+101033,29,Operaciones,2,,1.0,Profesional,Cali,Presencial,6,2,2136000.0
+101034,60,Talento Humano,5,32.0,2.0,Especialización,Bogotá,Remota,3,2,12647000.0
+101035,43,Tecnología,4,13.0,13.0,Especialización,Medellín,Presencial,1,3,8711000.0
+101036,55,Operaciones,4,25.0,1.0,Especialización,Bogotá,Remota,6,5,9913000.0
+101037,25,Tecnología,2,0.0,0.0,Especialización,Bogotá,Híbrida,2,4,2788000.0
+101038,27,Comercial,5,5.0,5.0,Bachillerato,Bogotá,Híbrida,6,4,9700000.0
+101039,35,Tecnología,1,5.0,5.0,Profesional,Barranquilla,Híbrida,8,4,2563000.0
+101040,32,Talento Humano,3,11.0,5.0,Técnico,Bogotá,Presencial,0,3,5400000.0
+101041,54,Tecnología,1,33.0,11.0,Profesional,Medellín,Híbrida,4,4,6812000.0
+101042,33,Talento Humano,3,1.0,1.0,Especialización,Bogotá,Híbrida,3,2,4701000.0
+101043,50,Tecnología,3,24.0,7.0,Profesional,Bogotá,Remota,4,3,9863000.0
+101044,30,Operaciones,2,,0.0,Especialización,Bogotá,Híbrida,3,4,6190000.0
+101045,39,Tecnología,3,12.0,12.0,Técnico,Bogotá,Híbrida,5,2,6950000.0
+101046,37,Operaciones,2,9.0,9.0,Especialización,Cali,Híbrida,5,3,4494000.0
+101047,53,Finanzas,3,31.0,13.0,Maestría,Medellín,Remota,4,4,10165000.0
+101048,21,Comercial,3,1.0,1.0,Profesional,Bogotá,Híbrida,7,2,6575000.0
+101049,44,Comercial,3,13.0,10.0,Especialización,Medellín,Remota,3,4,7925000.0
+101050,23,Comercial,3,3.0,3.0,Profesional,Cali,Híbrida,4,2,3685000.0
+101051,53,Tecnología,3,26.0,0.0,Profesional,Bogotá,Híbrida,1,4,7718000.0
+101052,38,Talento Humano,5,12.0,12.0,Especialización,Cali,Presencial,6,4,11155000.0
+101053,30,Finanzas,4,3.0,1.0,Profesional,Cali,Híbrida,2,4,6910000.0
+101054,53,Finanzas,2,29.0,13.0,Profesional,Bogotá,Remota,6,1,7084000.0
+101055,25,,4,0.0,0.0,Maestría,Bogotá,Presencial,9,4,6795000.0
+101056,32,Talento Humano,2,9.0,3.0,Maestría,Bogotá,Híbrida,6,4,5534000.0
+101057,60,Comercial,3,38.0,3.0,Bachillerato,Bogotá,Presencial,9,4,8709000.0
+101058,47,Operaciones,3,24.0,12.0,Profesional,Bogotá,Presencial,5,3,8801000.0
+101059,57,Finanzas,1,33.0,2.0,Especialización,Cali,Híbrida,5,1,8291000.0
+101060,49,Tecnología,5,26.0,9.0,Especialización,Bogotá,Presencial,4,4,14136000.0
+101061,28,Operaciones,2,2.0,2.0,Especialización,Barranquilla,Híbrida,6,3,3760000.0
+101062,56,Talento Humano,1,23.0,15.0,Profesional,Medellín,Híbrida,6,4,4604000.0
+101063,34,Operaciones,1,1.0,1.0,Bachillerato,Medellín,Presencial,9,2,2116000.0
+101064,37,Operaciones,3,16.0,14.0,Bachillerato,Barranquilla,Presencial,8,4,7049000.0
+101065,57,Comercial,1,37.0,11.0,Especialización,Cali,Híbrida,6,3,8011000.0
+101066,59,Operaciones,3,38.0,16.0,Bachillerato,Bogotá,Híbrida,5,4,7440000.0
+101067,44,Tecnología,2,23.0,2.0,Profesional,Barranquilla,Presencial,0,1,5189000.0
+101068,39,Operaciones,3,13.0,12.0,Bachillerato,Bogotá,Presencial,3,3,6209000.0
+101069,32,Tecnología,4,0.0,0.0,Técnico,Cali,Presencial,10,2,4726000.0
+101070,32,Comercial,4,11.0,5.0,Especialización,Bogotá,Presencial,7,5,5930000.0
+101071,43,Finanzas,1,20.0,2.0,Profesional,Medellín,Presencial,6,4,3063000.0
+101072,61,Operaciones,3,30.0,14.0,Especialización,Bogotá,Híbrida,11,5,7312000.0
+101073,44,Operaciones,4,11.0,11.0,Técnico,Medellín,Híbrida,9,3,5973000.0
+101074,35,Finanzas,4,6.0,0.0,Profesional,Medellín,Presencial,8,5,8959000.0
+101075,38,Tecnología,1,9.0,1.0,Técnico,Bogotá,Remota,4,2,4008000.0
+101076,34,Talento Humano,4,5.0,5.0,,Medellín,Híbrida,7,3,7713000.0
+101077,43,Comercial,2,21.0,13.0,Bachillerato,Medellín,Presencial,4,4,7274000.0
+101078,49,Comercial,2,28.0,5.0,Bachillerato,Bogotá,Remota,5,4,5350000.0
+101079,43,Comercial,3,12.0,1.0,Profesional,Medellín,Presencial,2,2,5923000.0
+101080,57,Operaciones,1,37.0,9.0,Profesional,Bogotá,Remota,10,2,7883000.0
+101081,45,Comercial,3,18.0,1.0,Técnico,Bogotá,Presencial,6,3,
+101082,51,Tecnología,3,30.0,14.0,Profesional,Barranquilla,Presencial,4,3,7800000.0
+101083,45,Operaciones,1,24.0,14.0,Maestría,Bogotá,Presencial,5,4,5626000.0
+101084,39,Comercial,1,15.0,6.0,Profesional,Bogotá,Híbrida,4,2,5165000.0
+101085,36,Finanzas,2,9.0,1.0,Bachillerato,Bogotá,Remota,4,4,4746000.0
+101086,29,Tecnología,3,0.0,0.0,Técnico,Medellín,Híbrida,4,3,4882000.0
+101087,37,Operaciones,2,8.0,4.0,Técnico,Cali,Híbrida,2,5,3516000.0
+101088,50,Operaciones,4,22.0,15.0,Profesional,Bogotá,Presencial,4,4,8989000.0
+101089,21,Tecnología,5,0.0,0.0,Bachillerato,Bogotá,Presencial,3,2,9155000.0
+101090,49,Tecnología,1,23.0,14.0,Profesional,Cali,Remota,3,3,5919000.0
+101091,51,Comercial,3,22.0,1.0,Profesional,Bogotá,Híbrida,6,4,7606000.0
+101092,55,Operaciones,4,35.0,2.0,Maestría,Cali,Remota,6,4,8912000.0
+101093,28,Comercial,2,2.0,2.0,Maestría,Bogotá,Remota,4,3,4365000.0
+101094,36,Finanzas,5,14.0,1.0,Profesional,Bogotá,Presencial,9,4,9744000.0
+101095,54,Tecnología,2,31.0,0.0,Técnico,Bogotá,Presencial,4,2,6879000.0
+101096,42,Talento Humano,3,17.0,6.0,Profesional,Bogotá,Presencial,5,3,8829000.0
+101097,24,Tecnología,3,,0.0,Profesional,Bogotá,Híbrida,5,4,4497000.0
+101098,24,Comercial,3,0.0,0.0,Profesional,Barranquilla,Remota,4,3,3585000.0
+101099,58,Operaciones,3,37.0,5.0,Profesional,Barranquilla,Remota,5,5,7703000.0
+101100,43,Tecnología,3,13.0,13.0,Profesional,Bogotá,Híbrida,6,4,6953000.0
+101101,27,Finanzas,3,6.0,6.0,Bachillerato,Bogotá,Remota,3,4,3887000.0
+101102,32,Comercial,5,4.0,4.0,Especialización,Medellín,Híbrida,6,4,9257000.0
+101103,51,Operaciones,1,25.0,2.0,Técnico,Barranquilla,Híbrida,7,1,5441000.0
+101104,46,Operaciones,2,16.0,12.0,Técnico,Bogotá,Presencial,4,5,6685000.0
+101105,30,Comercial,2,9.0,8.0,Especialización,Medellín,Presencial,8,5,4429000.0
+101106,38,Tecnología,4,13.0,9.0,Profesional,Cali,Presencial,7,2,8193000.0
+101107,51,Tecnología,1,23.0,12.0,Maestría,Bogotá,Presencial,6,5,6106000.0
+101108,58,Finanzas,3,32.0,0.0,Profesional,Bogotá,Presencial,6,2,7967000.0
+101109,44,Tecnología,2,22.0,6.0,Especialización,Bogotá,Remota,1,4,6267000.0
+101110,45,Tecnología,2,15.0,9.0,Profesional,Bogotá,Remota,4,5,5936000.0
+101111,41,Talento Humano,4,12.0,12.0,Especialización,Medellín,Presencial,2,4,7500000.0
+101112,21,Tecnología,2,0.0,0.0,Especialización,Bogotá,Presencial,2,3,4000000.0
+101113,27,Comercial,5,7.0,0.0,Bachillerato,Bogotá,Presencial,5,4,11018000.0
+101114,32,Operaciones,4,3.0,3.0,Profesional,Medellín,Híbrida,4,2,7026000.0
+101115,36,Tecnología,3,9.0,4.0,Profesional,Bogotá,Híbrida,7,2,6945000.0
+101116,56,Talento Humano,4,25.0,6.0,Profesional,Cali,Presencial,5,1,8168000.0
+101117,22,Comercial,2,0.0,0.0,Maestría,Bogotá,Remota,3,4,3829000.0
+101118,41,Operaciones,2,18.0,15.0,Bachillerato,Cali,Presencial,5,5,5851000.0
+101119,40,Tecnología,2,15.0,7.0,Especialización,Barranquilla,Híbrida,3,5,6490000.0
+101120,21,Tecnología,4,1.0,1.0,Profesional,Bogotá,Presencial,5,4,6381000.0
+101121,25,Talento Humano,2,0.0,0.0,Profesional,Barranquilla,Remota,9,4,2922000.0
+101122,29,Talento Humano,1,1.0,1.0,Profesional,Barranquilla,Remota,3,4,1300000.0
+101123,25,Tecnología,2,0.0,0.0,Profesional,Bogotá,Híbrida,5,5,3971000.0
+101124,37,Talento Humano,5,4.0,4.0,Especialización,Bogotá,Híbrida,5,4,9020000.0
+101125,32,Comercial,2,5.0,0.0,Maestría,Cali,Presencial,8,5,5188000.0
+101126,37,Operaciones,4,13.0,13.0,Profesional,Bogotá,Híbrida,9,5,7851000.0
+101127,55,Tecnología,3,22.0,6.0,Técnico,Cali,Híbrida,11,5,7257000.0
+101128,22,Talento Humano,4,0.0,0.0,Técnico,Medellín,Presencial,7,4,6169000.0
+101129,40,Talento Humano,2,20.0,2.0,,Medellín,Remota,4,4,6116000.0
+101130,25,Operaciones,1,0.0,0.0,Bachillerato,Medellín,Presencial,9,2,1300000.0
+101131,40,Operaciones,2,15.0,1.0,Profesional,Medellín,Híbrida,7,4,5166000.0
+101132,26,Tecnología,2,0.0,0.0,Técnico,Cali,Presencial,2,4,3776000.0
+101133,33,Operaciones,5,7.0,7.0,Maestría,Medellín,Remota,2,5,10252000.0
+101134,34,Talento Humano,2,1.0,1.0,Profesional,Bogotá,Remota,3,4,3798000.0
+101135,40,Tecnología,1,9.0,8.0,Profesional,Cali,Presencial,6,4,5025000.0
+101136,29,Finanzas,2,5.0,2.0,Técnico,Medellín,Presencial,1,3,3315000.0
+101137,43,Comercial,5,22.0,11.0,Bachillerato,Barranquilla,Híbrida,11,2,12837000.0
+101138,34,Tecnología,2,7.0,7.0,Bachillerato,Bogotá,Híbrida,3,5,5646000.0
+101139,25,Tecnología,2,0.0,0.0,Técnico,Bogotá,Presencial,8,4,4866000.0
+101140,35,Tecnología,1,4.0,4.0,Maestría,Bogotá,Presencial,5,4,4083000.0
+101141,39,Tecnología,3,9.0,1.0,Técnico,Bogotá,Presencial,4,4,6433000.0
+101142,39,Operaciones,5,15.0,14.0,Bachillerato,Bogotá,Híbrida,6,1,12678000.0
+101143,47,Operaciones,3,21.0,13.0,Profesional,Bogotá,Presencial,5,4,5869000.0
+101144,52,Operaciones,2,23.0,5.0,Bachillerato,Bogotá,Híbrida,6,1,5375000.0
+101145,23,Tecnología,3,0.0,0.0,Profesional,Barranquilla,Remota,3,2,6078000.0
+101146,33,Operaciones,1,3.0,3.0,Técnico,Medellín,Híbrida,6,3,4048000.0
+101147,30,Comercial,3,6.0,6.0,Profesional,Bogotá,Híbrida,5,2,6580000.0
+101148,58,Operaciones,2,29.0,1.0,Técnico,Barranquilla,Híbrida,8,5,5910000.0
+101149,46,Finanzas,4,19.0,6.0,Profesional,Bogotá,Híbrida,3,4,9882000.0
+101150,46,Finanzas,3,13.0,3.0,Bachillerato,Cali,Híbrida,6,3,4972000.0
+101151,26,Tecnología,3,0.0,0.0,Técnico,Cali,Remota,5,5,3997000.0
+101152,51,Finanzas,2,23.0,3.0,Profesional,Bogotá,Presencial,6,3,6167000.0
+101153,43,Finanzas,2,22.0,13.0,Profesional,Bogotá,Presencial,4,5,6560000.0
+101154,37,Tecnología,4,5.0,4.0,Técnico,Bogotá,Híbrida,8,4,7401000.0
+101155,60,Operaciones,2,36.0,8.0,Especialización,Cali,Híbrida,7,4,
+101156,34,Comercial,2,1.0,1.0,Profesional,Barranquilla,Presencial,7,3,2443000.0
+101157,24,Tecnología,4,1.0,1.0,Técnico,Medellín,Remota,3,4,6084000.0
+101158,35,Comercial,1,9.0,7.0,Profesional,Medellín,Presencial,6,4,4557000.0
+101159,47,Tecnología,1,27.0,3.0,Maestría,Bogotá,Híbrida,9,5,6240000.0
+101160,51,Talento Humano,2,19.0,9.0,Profesional,Cali,Remota,6,3,5431000.0
+101161,32,Comercial,1,9.0,4.0,Bachillerato,Medellín,Híbrida,2,4,2924000.0
+101162,56,Talento Humano,1,36.0,15.0,Profesional,Bogotá,Presencial,7,3,8182000.0
+101163,44,Tecnología,1,16.0,4.0,Técnico,Bogotá,Remota,6,5,5716000.0
+101164,36,Operaciones,4,15.0,5.0,Especialización,Cali,Presencial,6,4,9388000.0
+101165,42,Tecnología,1,20.0,0.0,Bachillerato,Medellín,Remota,6,4,5442000.0
+101166,42,Talento Humano,2,22.0,5.0,Especialización,Medellín,Presencial,8,1,7249000.0
+101167,57,Operaciones,5,29.0,3.0,Profesional,Bogotá,Presencial,3,3,12697000.0
+101168,48,Comercial,5,18.0,11.0,Profesional,Bogotá,Presencial,6,5,12458000.0
+101169,44,Tecnología,2,14.0,14.0,Profesional,Medellín,Híbrida,2,4,3721000.0
+101170,46,Operaciones,3,17.0,9.0,Bachillerato,Medellín,Híbrida,8,4,5962000.0
+101171,37,Comercial,2,11.0,11.0,Especialización,Bogotá,Presencial,2,4,5353000.0
+101172,34,Tecnología,2,9.0,0.0,Maestría,Barranquilla,Híbrida,5,3,4610000.0
+101173,42,Tecnología,3,10.0,7.0,Técnico,Bogotá,Presencial,6,4,7069000.0
+101174,31,Talento Humano,2,6.0,0.0,Bachillerato,Medellín,Híbrida,3,4,4786000.0
+101175,47,Operaciones,2,17.0,9.0,Profesional,Bogotá,Híbrida,6,4,5047000.0
+101176,58,Operaciones,2,38.0,2.0,Técnico,Bogotá,Presencial,5,5,8841000.0
+101177,34,Operaciones,3,3.0,3.0,Técnico,Bogotá,Híbrida,2,4,4617000.0
+101178,46,Comercial,1,16.0,1.0,Profesional,Bogotá,Presencial,6,4,4186000.0
+101179,51,Comercial,4,24.0,13.0,Profesional,Bogotá,Remota,4,3,8867000.0
+101180,51,Tecnología,4,24.0,3.0,Profesional,Barranquilla,Presencial,7,4,9567000.0
+101181,32,Operaciones,1,1.0,1.0,Profesional,Medellín,Remota,2,5,2025000.0
+101182,21,Tecnología,3,0.0,0.0,Profesional,Bogotá,Presencial,4,4,4955000.0
+101183,53,Tecnología,4,30.0,14.0,Bachillerato,Bogotá,Híbrida,4,2,12324000.0
+101184,50,Comercial,2,21.0,0.0,Maestría,Bogotá,Híbrida,5,3,6368000.0
+101185,59,Tecnología,1,33.0,6.0,Profesional,Medellín,Remota,2,4,6772000.0
+101186,50,Comercial,3,18.0,3.0,Profesional,Medellín,Híbrida,3,2,7000000.0
+101187,60,Talento Humano,4,31.0,14.0,Profesional,Bogotá,Híbrida,3,4,8781000.0
+101188,46,Operaciones,5,21.0,11.0,Especialización,Bogotá,Presencial,7,3,12487000.0
+101189,31,Operaciones,2,0.0,0.0,Profesional,Bogotá,Remota,3,4,1985000.0
+101190,61,Operaciones,4,31.0,7.0,Maestría,Bogotá,Híbrida,3,5,10692000.0
+101191,51,Talento Humano,2,24.0,1.0,Especialización,Bogotá,Presencial,9,3,7729000.0
+101192,37,Tecnología,2,6.0,6.0,Técnico,Bogotá,Remota,4,4,2771000.0
+101193,29,Operaciones,1,7.0,7.0,Profesional,Bogotá,Híbrida,3,2,3208000.0
+101194,61,Comercial,2,36.0,8.0,Bachillerato,Cali,Remota,3,5,6064000.0
+101195,37,Tecnología,3,10.0,5.0,Bachillerato,Bogotá,Híbrida,10,2,5804000.0
+101196,26,Tecnología,3,0.0,0.0,Maestría,Medellín,Híbrida,5,4,4858000.0
+101197,57,Finanzas,1,31.0,0.0,Bachillerato,Cali,Remota,6,1,5402000.0
+101198,53,Tecnología,4,30.0,6.0,Profesional,Bogotá,Híbrida,6,4,10851000.0
+101199,46,Tecnología,2,18.0,14.0,Especialización,Barranquilla,Presencial,6,4,7768000.0
+101200,23,Comercial,4,0.0,0.0,Bachillerato,Barranquilla,Remota,1,3,5036000.0
+101201,47,Operaciones,2,14.0,9.0,Técnico,Bogotá,Presencial,4,3,4599000.0
+101202,56,,3,29.0,5.0,Profesional,Medellín,Presencial,6,4,7101000.0
+101203,37,Tecnología,2,13.0,13.0,Técnico,Medellín,Híbrida,4,3,6100000.0
+101204,54,Comercial,3,31.0,1.0,Profesional,Medellín,Presencial,2,3,8409000.0
+101205,46,Tecnología,2,15.0,1.0,Profesional,Bogotá,Presencial,7,3,3916000.0
+101206,24,Operaciones,4,3.0,3.0,Profesional,Bogotá,Remota,6,4,7126000.0
+101207,50,Tecnología,2,17.0,8.0,Maestría,Cali,Remota,5,5,6581000.0
+101208,37,Operaciones,2,10.0,2.0,Bachillerato,Bogotá,Presencial,9,5,4398000.0
+101209,59,Tecnología,2,38.0,13.0,Especialización,Medellín,Híbrida,3,4,8216000.0
+101210,37,Tecnología,4,11.0,2.0,Profesional,Bogotá,Remota,8,5,8342000.0
+101211,21,Tecnología,2,0.0,0.0,Maestría,Bogotá,Remota,5,2,3315000.0
+101212,48,Tecnología,2,20.0,3.0,Profesional,Bogotá,Remota,2,3,6893000.0
+101213,61,Tecnología,3,37.0,15.0,Técnico,Cali,Presencial,4,4,9445000.0
+101214,24,Tecnología,3,0.0,0.0,Profesional,Bogotá,Presencial,4,5,6330000.0
+101215,59,,4,30.0,16.0,Bachillerato,Bogotá,Remota,5,3,8661000.0
+101216,53,Tecnología,4,21.0,0.0,Profesional,Bogotá,Presencial,5,4,9231000.0
+101217,35,Operaciones,2,3.0,3.0,Profesional,Medellín,Remota,4,5,3978000.0
+101218,53,Finanzas,1,28.0,8.0,Especialización,Bogotá,Remota,6,5,6543000.0
+101219,50,Comercial,2,22.0,3.0,Especialización,Cali,Remota,4,4,6346000.0
+101220,39,Tecnología,2,13.0,5.0,Técnico,Cali,Híbrida,3,3,5317000.0
+101221,33,Talento Humano,3,13.0,13.0,Especialización,Bogotá,Presencial,3,3,7448000.0
+101222,41,Tecnología,3,10.0,0.0,Profesional,Cali,Híbrida,7,3,6317000.0
+101223,51,Tecnología,3,24.0,10.0,Profesional,Cali,Presencial,5,4,9512000.0
+101224,26,Talento Humano,3,0.0,0.0,Maestría,Bogotá,Híbrida,6,1,3982000.0
+101225,38,Comercial,1,9.0,9.0,Profesional,Cali,Presencial,2,1,5256000.0
+101226,28,Finanzas,2,0.0,0.0,Bachillerato,Barranquilla,Híbrida,5,3,3873000.0
+101227,24,Comercial,4,0.0,0.0,Profesional,Barranquilla,Remota,7,3,8088000.0
+101228,41,Operaciones,3,19.0,2.0,Profesional,Cali,Presencial,8,2,7315000.0
+101229,41,Operaciones,3,17.0,4.0,Bachillerato,Bogotá,Híbrida,4,5,5996000.0
+101230,45,Operaciones,2,20.0,7.0,Profesional,Cali,Híbrida,5,5,4604000.0
+101231,50,Comercial,3,17.0,12.0,Profesional,Medellín,Híbrida,3,2,8265000.0
+101232,54,Finanzas,1,27.0,5.0,Especialización,Bogotá,Presencial,5,2,4785000.0
+101233,57,Operaciones,2,33.0,16.0,Bachillerato,Bogotá,Presencial,8,3,7289000.0
+101234,36,Operaciones,2,8.0,8.0,Técnico,Barranquilla,Presencial,3,4,3349000.0
+101235,39,Tecnología,2,17.0,8.0,Especialización,Medellín,Presencial,1,5,6279000.0
+101236,55,Tecnología,2,22.0,13.0,Especialización,Bogotá,Híbrida,6,5,7559000.0
+101237,37,Operaciones,1,5.0,3.0,Técnico,Medellín,Híbrida,3,4,1869000.0
+101238,38,Finanzas,3,13.0,8.0,Profesional,Bogotá,Presencial,2,3,7768000.0
+101239,31,Operaciones,2,7.0,1.0,Especialización,Bogotá,Presencial,4,4,4456000.0
+101240,46,Comercial,2,25.0,0.0,Especialización,Bogotá,Híbrida,7,4,6869000.0
+101241,40,Tecnología,3,10.0,1.0,Profesional,Medellín,Remota,5,4,6189000.0
+101242,54,Comercial,5,22.0,2.0,Profesional,Bogotá,Remota,6,4,11999000.0
+101243,61,Tecnología,1,37.0,9.0,Técnico,Bogotá,Híbrida,5,5,8029000.0
+101244,33,Operaciones,1,11.0,0.0,Profesional,Bogotá,Híbrida,4,4,4202000.0
+101245,40,Finanzas,1,7.0,3.0,Especialización,Barranquilla,Remota,5,4,3831000.0
+101246,36,Tecnología,3,12.0,0.0,Especialización,Medellín,Presencial,7,5,6883000.0
+101247,49,Operaciones,3,18.0,6.0,Especialización,Barranquilla,Híbrida,3,5,6442000.0
+101248,39,Finanzas,5,7.0,2.0,Profesional,Medellín,Remota,7,4,10810000.0
+101249,21,Operaciones,3,0.0,0.0,Bachillerato,Bogotá,Remota,2,5,4920000.0
+101250,42,Operaciones,3,12.0,0.0,Profesional,Medellín,Remota,2,4,5158000.0
+101251,29,Operaciones,1,9.0,9.0,Especialización,Medellín,Presencial,4,4,3212000.0
+101252,21,Finanzas,2,0.0,0.0,,Bogotá,Remota,5,2,2838000.0
+101253,51,Tecnología,2,29.0,15.0,Profesional,Cali,Híbrida,10,3,7622000.0
+101254,50,Operaciones,2,28.0,9.0,Técnico,Barranquilla,Remota,4,1,5583000.0
+101255,34,Operaciones,3,3.0,3.0,Maestría,Cali,Remota,6,4,5005000.0
+101256,50,Tecnología,2,20.0,8.0,Especialización,Medellín,Remota,4,2,6926000.0
+101257,50,Tecnología,5,17.0,10.0,Profesional,Cali,Híbrida,4,2,12172000.0
+101258,31,Comercial,1,0.0,0.0,Bachillerato,Bogotá,Híbrida,4,5,1300000.0
+101259,33,,2,4.0,4.0,Profesional,Bogotá,Presencial,9,5,5052000.0
+101260,48,Operaciones,3,23.0,13.0,Maestría,Medellín,Híbrida,5,4,6738000.0
+101261,36,Finanzas,1,10.0,10.0,,Bogotá,Híbrida,5,1,6178000.0
+101262,51,Operaciones,2,23.0,11.0,Especialización,Cali,Presencial,5,4,7629000.0
+101263,50,Finanzas,4,17.0,10.0,Maestría,Medellín,Híbrida,4,3,10463000.0
+101264,29,Tecnología,1,5.0,2.0,Técnico,Medellín,Remota,3,4,3554000.0
+101265,59,Comercial,1,28.0,2.0,Especialización,Medellín,Presencial,4,4,7529000.0
+101266,36,Comercial,2,9.0,6.0,,Bogotá,Remota,7,4,5033000.0
+101267,57,Operaciones,3,35.0,3.0,Profesional,Medellín,Híbrida,1,3,8530000.0
+101268,45,Tecnología,1,16.0,9.0,Profesional,Bogotá,Remota,6,3,5435000.0
+101269,21,Finanzas,1,0.0,0.0,Bachillerato,Medellín,Híbrida,6,5,1411000.0
+101270,30,Operaciones,1,3.0,3.0,Maestría,Cali,Híbrida,9,2,4205000.0
+101271,21,,3,0.0,0.0,Profesional,Bogotá,Presencial,7,3,4813000.0
+101272,43,Tecnología,2,19.0,10.0,Especialización,Bogotá,Híbrida,4,5,6145000.0
+101273,44,Tecnología,1,12.0,7.0,Profesional,Medellín,Híbrida,3,2,4600000.0
+101274,36,Talento Humano,2,16.0,11.0,Técnico,Medellín,Presencial,4,4,3983000.0
+101275,34,Tecnología,2,8.0,8.0,Profesional,Bogotá,Híbrida,6,4,3771000.0
+101276,45,Operaciones,2,25.0,5.0,Especialización,Bogotá,Híbrida,2,2,6524000.0
+101277,28,Tecnología,3,4.0,4.0,Profesional,Bogotá,Presencial,5,4,6562000.0
+101278,41,Comercial,1,11.0,1.0,Bachillerato,Medellín,Remota,5,5,3224000.0
+101279,46,Operaciones,1,17.0,0.0,Especialización,Bogotá,Presencial,4,2,4024000.0
+101280,57,Tecnología,2,33.0,12.0,Profesional,Barranquilla,Remota,2,4,8616000.0
+101281,30,Operaciones,4,3.0,3.0,Profesional,Bogotá,Remota,6,1,6035000.0
+101282,29,Comercial,3,1.0,1.0,Profesional,Medellín,Presencial,4,2,5560000.0
+101283,25,Finanzas,1,0.0,0.0,Técnico,Bogotá,Híbrida,4,4,2820000.0
+101284,43,Tecnología,3,11.0,0.0,Profesional,Barranquilla,Presencial,6,4,6286000.0
+101285,58,Operaciones,3,34.0,12.0,Profesional,Bogotá,Remota,5,4,9342000.0
+101286,22,Operaciones,2,0.0,0.0,Especialización,Bogotá,Presencial,4,4,3568000.0
+101287,32,Operaciones,3,3.0,3.0,Técnico,Bogotá,Híbrida,6,1,4969000.0
+101288,47,Talento Humano,1,18.0,11.0,Técnico,Bogotá,Híbrida,4,4,6002000.0
+101289,48,Tecnología,1,22.0,10.0,Profesional,Bogotá,Presencial,5,5,5544000.0
+101290,33,Operaciones,2,7.0,3.0,Técnico,Bogotá,Híbrida,4,2,3643000.0
+101291,59,Tecnología,3,30.0,14.0,Bachillerato,Bogotá,Híbrida,7,3,8143000.0
+101292,45,Finanzas,2,12.0,11.0,Profesional,Bogotá,Presencial,4,4,2857000.0
+101293,43,Operaciones,3,13.0,2.0,Maestría,Bogotá,Híbrida,7,5,4828000.0
+101294,24,Operaciones,2,0.0,0.0,Especialización,Bogotá,Remota,1,3,3709000.0
+101295,58,Comercial,3,28.0,14.0,Especialización,Medellín,Híbrida,5,4,8774000.0
+101296,59,Comercial,2,30.0,12.0,Profesional,Medellín,Presencial,5,4,8329000.0
+101297,25,Comercial,3,0.0,0.0,Profesional,Bogotá,Híbrida,2,2,4548000.0
+101298,23,Finanzas,3,0.0,0.0,Profesional,Bogotá,Presencial,6,5,4689000.0
+101299,61,Finanzas,1,31.0,11.0,Especialización,Bogotá,Híbrida,5,4,8486000.0
+101300,48,Tecnología,2,23.0,12.0,Especialización,Bogotá,Presencial,8,4,8312000.0
+101301,32,Tecnología,2,11.0,11.0,Especialización,Barranquilla,Presencial,7,2,5354000.0
+101302,34,Operaciones,5,8.0,8.0,Técnico,Bogotá,Presencial,2,3,9644000.0
+101303,38,Finanzas,5,12.0,12.0,Técnico,Bogotá,Híbrida,1,4,11440000.0
+101304,25,Comercial,2,0.0,0.0,Técnico,Bogotá,Híbrida,6,2,5847000.0
+101305,61,Tecnología,1,28.0,10.0,Técnico,Cali,Híbrida,3,2,7258000.0
+101306,54,Comercial,3,33.0,14.0,Profesional,Bogotá,Presencial,3,3,9497000.0
+101307,25,Operaciones,2,4.0,4.0,Técnico,Bogotá,Híbrida,5,4,2432000.0
+101308,57,Comercial,3,35.0,16.0,Técnico,Bogotá,Híbrida,4,2,9425000.0
+101309,36,Comercial,1,4.0,4.0,Maestría,Medellín,Híbrida,5,3,2586000.0
+101310,38,Operaciones,2,8.0,8.0,Maestría,Cali,Presencial,1,4,4374000.0
+101311,45,Operaciones,2,18.0,6.0,Profesional,Bogotá,Remota,12,4,6180000.0
+101312,34,Operaciones,3,5.0,5.0,Especialización,Barranquilla,Híbrida,3,1,5363000.0
+101313,32,Operaciones,2,8.0,4.0,Profesional,Bogotá,Híbrida,7,5,3656000.0
+101314,44,Finanzas,3,11.0,11.0,Bachillerato,Bogotá,Híbrida,4,4,4686000.0
+101315,49,Comercial,2,28.0,12.0,Maestría,Bogotá,Presencial,2,5,7272000.0
+101316,60,Finanzas,3,35.0,7.0,Especialización,Bogotá,Presencial,4,5,8944000.0
+101317,59,Tecnología,1,36.0,5.0,Bachillerato,Bogotá,Presencial,9,5,6688000.0
+101318,39,Talento Humano,1,18.0,8.0,Maestría,Cali,Presencial,3,3,4181000.0
+101319,42,Tecnología,3,,5.0,Técnico,Cali,Presencial,8,4,6921000.0
+101320,33,Comercial,3,3.0,1.0,Profesional,Bogotá,Presencial,5,4,5301000.0
+101321,42,Tecnología,4,16.0,2.0,Técnico,Medellín,Híbrida,7,5,9194000.0
+101322,39,Finanzas,2,18.0,9.0,Profesional,Bogotá,Remota,2,3,5903000.0
+101323,56,Operaciones,1,35.0,11.0,Técnico,Medellín,Presencial,6,5,5356000.0
+101324,51,,3,21.0,5.0,Profesional,Bogotá,Presencial,7,5,7553000.0
+101325,33,Talento Humano,3,12.0,12.0,Bachillerato,Bogotá,Híbrida,4,4,5348000.0
+101326,49,Operaciones,4,21.0,13.0,Especialización,Bogotá,Presencial,4,5,8086000.0
+101327,27,Talento Humano,1,5.0,5.0,Técnico,Bogotá,Remota,8,4,4243000.0
+101328,43,Operaciones,3,18.0,9.0,Profesional,Bogotá,Presencial,3,4,6055000.0
+101329,54,Comercial,1,28.0,1.0,Profesional,Medellín,Remota,1,4,5253000.0
+101330,55,Finanzas,2,23.0,11.0,Profesional,Cali,Híbrida,6,1,7057000.0
+101331,33,Tecnología,2,10.0,4.0,Técnico,Barranquilla,Híbrida,5,4,4775000.0
+101332,40,Operaciones,3,,3.0,Profesional,Cali,Remota,4,3,6070000.0
+101333,52,Tecnología,4,20.0,3.0,Técnico,Bogotá,Remota,4,1,7922000.0
+101334,22,Tecnología,3,2.0,2.0,Profesional,Medellín,Híbrida,5,5,
+101335,23,Tecnología,2,0.0,0.0,Profesional,Bogotá,Híbrida,5,4,4998000.0
+101336,33,Tecnología,2,4.0,4.0,Profesional,Cali,Presencial,4,4,3710000.0
+101337,59,Operaciones,4,32.0,0.0,Especialización,Bogotá,Híbrida,8,3,9572000.0
+101338,32,Operaciones,2,10.0,10.0,Profesional,Bogotá,Presencial,2,1,3112000.0
+101339,59,Comercial,2,26.0,3.0,Profesional,Medellín,Presencial,1,5,7116000.0
+101340,22,Finanzas,4,0.0,0.0,Profesional,Cali,Remota,5,3,5905000.0
+101341,57,Comercial,1,24.0,8.0,Bachillerato,Medellín,Híbrida,9,4,5174000.0
+101342,33,Talento Humano,2,4.0,4.0,Especialización,Cali,Remota,3,2,4828000.0
+101343,38,Tecnología,2,9.0,4.0,Técnico,Bogotá,Remota,5,4,5064000.0
+101344,37,Tecnología,3,15.0,14.0,Bachillerato,Bogotá,Presencial,8,3,6667000.0
+101345,36,Comercial,3,4.0,4.0,Profesional,Bogotá,Presencial,3,4,5892000.0
+101346,33,Finanzas,1,8.0,8.0,Especialización,Bogotá,Presencial,5,4,4063000.0
+101347,29,Tecnología,4,7.0,2.0,Bachillerato,Bogotá,Híbrida,6,5,7271000.0
+101348,60,Tecnología,4,34.0,6.0,Técnico,Bogotá,Presencial,6,3,10419000.0
+101349,52,Tecnología,2,24.0,12.0,Técnico,Medellín,Remota,7,3,6881000.0
+101350,22,Tecnología,1,1.0,1.0,Profesional,Bogotá,Presencial,6,4,
+101351,44,Tecnología,3,21.0,7.0,Profesional,Cali,Híbrida,6,5,7338000.0
+101352,21,Tecnología,4,0.0,0.0,Especialización,Bogotá,Híbrida,3,3,7216000.0
+101353,33,Operaciones,5,12.0,9.0,Técnico,Bogotá,Híbrida,1,4,11748000.0
+101354,25,Operaciones,1,2.0,2.0,Bachillerato,Bogotá,Híbrida,10,5,1300000.0
+101355,52,Finanzas,1,20.0,6.0,Especialización,Medellín,Híbrida,7,4,5381000.0
+101356,39,Operaciones,2,9.0,8.0,Profesional,Bogotá,Híbrida,5,4,4770000.0
+101357,55,Tecnología,5,22.0,7.0,Técnico,Bogotá,Presencial,4,1,12922000.0
+101358,38,Comercial,2,16.0,7.0,Técnico,Bogotá,Presencial,9,3,4894000.0
+101359,35,Tecnología,4,6.0,6.0,Profesional,Bogotá,Presencial,1,5,8353000.0
+101360,33,Operaciones,3,1.0,1.0,Especialización,Medellín,Presencial,2,5,4657000.0
+101361,22,Tecnología,1,0.0,0.0,Profesional,Medellín,Presencial,8,4,3354000.0
+101362,55,Operaciones,4,22.0,6.0,Maestría,Medellín,Híbrida,4,4,11055000.0
+101363,39,Tecnología,2,11.0,0.0,Profesional,Bogotá,Presencial,7,3,5585000.0
+101364,43,Tecnología,3,16.0,15.0,Profesional,Bogotá,Híbrida,7,4,7906000.0
+101365,21,Tecnología,3,0.0,0.0,Profesional,Bogotá,Presencial,9,3,5004000.0
+101366,59,Tecnología,3,27.0,11.0,Profesional,Cali,Presencial,3,4,7103000.0
+101367,51,Operaciones,1,23.0,9.0,Profesional,Bogotá,Híbrida,9,3,4360000.0
+101368,37,Comercial,5,8.0,8.0,Profesional,Medellín,Remota,8,3,11823000.0
+101369,26,Tecnología,4,0.0,0.0,Profesional,Bogotá,Híbrida,4,3,7466000.0
+101370,50,Tecnología,5,28.0,14.0,Bachillerato,Medellín,Remota,2,3,12220000.0
+101371,37,Comercial,1,13.0,8.0,Técnico,Bogotá,Remota,4,5,4721000.0
+101372,43,Finanzas,2,21.0,10.0,Técnico,Bogotá,Híbrida,4,4,8243000.0
+101373,46,Talento Humano,5,16.0,10.0,Maestría,Medellín,Presencial,2,4,13303000.0
+101374,38,Tecnología,1,9.0,3.0,Profesional,Barranquilla,Remota,8,4,3671000.0
+101375,60,Operaciones,5,40.0,7.0,Técnico,Medellín,Híbrida,7,3,11977000.0
+101376,44,Tecnología,3,14.0,0.0,Profesional,Bogotá,Presencial,3,4,7702000.0
+101377,55,Tecnología,2,35.0,5.0,Especialización,Bogotá,Híbrida,5,2,9656000.0
+101378,43,Comercial,4,23.0,5.0,Profesional,Bogotá,Remota,8,2,10416000.0
+101379,56,Tecnología,2,33.0,9.0,Especialización,Bogotá,Híbrida,8,4,7610000.0
+101380,34,Comercial,3,13.0,13.0,Profesional,Bogotá,Remota,2,4,7077000.0
+101381,21,Finanzas,2,0.0,0.0,Profesional,Bogotá,Presencial,5,4,2237000.0
+101382,54,Operaciones,3,30.0,1.0,Técnico,Barranquilla,Híbrida,4,2,7868000.0
+101383,48,Operaciones,4,28.0,12.0,Profesional,Medellín,Presencial,5,4,10535000.0
+101384,54,Finanzas,2,27.0,16.0,Especialización,Cali,Presencial,3,5,6226000.0
+101385,57,Comercial,3,37.0,7.0,Profesional,Medellín,Híbrida,2,4,8672000.0
+101386,58,Tecnología,3,25.0,5.0,Bachillerato,Bogotá,Remota,4,4,9054000.0
+101387,49,Talento Humano,2,17.0,11.0,Bachillerato,Barranquilla,Remota,6,5,4868000.0
+101388,43,Operaciones,2,23.0,16.0,Profesional,Bogotá,Remota,2,4,7369000.0
+101389,56,Operaciones,3,26.0,16.0,Especialización,Medellín,Remota,5,5,7029000.0
+101390,35,Operaciones,4,5.0,5.0,Técnico,Bogotá,Remota,6,1,6812000.0
+101391,39,Comercial,5,18.0,7.0,Profesional,Barranquilla,Híbrida,3,3,12333000.0
+101392,34,Finanzas,2,9.0,9.0,Profesional,Medellín,Híbrida,1,5,5074000.0
+101393,46,Finanzas,4,16.0,6.0,Profesional,Bogotá,Híbrida,3,3,9137000.0
+101394,47,Talento Humano,3,19.0,14.0,Profesional,Medellín,Híbrida,4,5,8077000.0
+101395,54,Tecnología,3,23.0,12.0,Profesional,Medellín,Híbrida,3,1,8063000.0
+101396,32,Tecnología,2,7.0,7.0,Especialización,Cali,Presencial,6,3,4170000.0
+101397,35,Operaciones,5,12.0,12.0,Profesional,Bogotá,Híbrida,3,3,9991000.0
+101398,52,Tecnología,4,30.0,2.0,Profesional,Bogotá,Presencial,7,3,10242000.0
+101399,31,Tecnología,1,0.0,0.0,Profesional,Cali,Híbrida,4,3,2448000.0
+101400,61,Tecnología,1,40.0,11.0,Especialización,Bogotá,Presencial,6,5,9190000.0
+101401,40,Operaciones,2,16.0,2.0,Profesional,Bogotá,Híbrida,5,4,4678000.0
+101402,28,Finanzas,3,2.0,2.0,Maestría,Bogotá,Presencial,4,5,5624000.0
+101403,34,Talento Humano,4,6.0,4.0,Bachillerato,Medellín,Remota,8,5,7386000.0
+101404,43,Tecnología,1,23.0,16.0,Técnico,Bogotá,Híbrida,4,5,6472000.0
+101405,49,Operaciones,3,17.0,1.0,Especialización,Bogotá,Híbrida,1,5,6736000.0
+101406,47,Operaciones,1,26.0,3.0,Profesional,Bogotá,Híbrida,5,3,5269000.0
+101407,25,Tecnología,5,5.0,1.0,Profesional,Medellín,Presencial,4,4,10552000.0
+101408,49,Finanzas,4,23.0,13.0,Técnico,Cali,Híbrida,4,2,11131000.0
+101409,36,Operaciones,3,13.0,11.0,Profesional,Cali,Remota,4,3,5977000.0
+101410,47,Finanzas,5,18.0,12.0,Bachillerato,Bogotá,Presencial,6,4,12405000.0
+101411,54,Operaciones,1,21.0,14.0,,Medellín,Híbrida,7,2,3623000.0
+101412,32,Operaciones,2,11.0,11.0,Técnico,Medellín,Presencial,6,2,4037000.0
+101413,50,Operaciones,2,26.0,7.0,Profesional,Cali,Remota,3,2,6846000.0
+101414,24,Tecnología,1,0.0,0.0,Bachillerato,Medellín,Presencial,3,2,1682000.0
+101415,54,Tecnología,5,25.0,16.0,Bachillerato,Bogotá,Presencial,1,4,12075000.0
+101416,60,Comercial,5,38.0,4.0,Especialización,Bogotá,Presencial,7,3,14705000.0
+101417,49,Talento Humano,2,18.0,13.0,Técnico,Medellín,Híbrida,2,4,4834000.0
+101418,54,Operaciones,3,30.0,16.0,Técnico,Bogotá,Híbrida,7,4,7938000.0
+101419,49,Operaciones,2,26.0,5.0,Bachillerato,Bogotá,Presencial,7,4,5246000.0
+101420,45,Operaciones,3,21.0,15.0,Técnico,Bogotá,Híbrida,6,4,8088000.0
+101421,43,Finanzas,4,15.0,14.0,Especialización,Bogotá,Presencial,4,5,8554000.0
+101422,33,Operaciones,3,2.0,2.0,Especialización,Barranquilla,Presencial,2,4,5730000.0
+101423,45,Operaciones,5,22.0,3.0,Especialización,Medellín,Presencial,4,5,11171000.0
+101424,43,Tecnología,4,17.0,2.0,Profesional,Medellín,Presencial,4,3,9349000.0
+101425,29,Finanzas,1,6.0,6.0,Técnico,Medellín,Híbrida,7,2,3675000.0
+101426,33,Operaciones,2,9.0,9.0,Especialización,Barranquilla,Híbrida,5,5,3809000.0
+101427,44,Finanzas,3,19.0,11.0,Técnico,Barranquilla,Presencial,6,5,8062000.0
+101428,41,Tecnología,5,9.0,6.0,Profesional,Bogotá,Híbrida,9,5,11693000.0
+101429,45,Comercial,1,20.0,0.0,Técnico,Medellín,Híbrida,7,4,4305000.0
+101430,60,Comercial,3,39.0,7.0,Profesional,Medellín,Híbrida,4,4,8214000.0
+101431,57,Comercial,2,36.0,14.0,Especialización,Bogotá,Presencial,5,4,8083000.0
+101432,47,Tecnología,2,17.0,13.0,Bachillerato,Cali,Híbrida,8,5,5900000.0
+101433,28,Tecnología,3,2.0,2.0,Maestría,Bogotá,Remota,2,5,5663000.0
+101434,34,Tecnología,2,2.0,2.0,Técnico,Cali,Remota,3,3,4077000.0
+101435,55,Talento Humano,4,27.0,13.0,Bachillerato,Bogotá,Presencial,5,3,7638000.0
+101436,38,Tecnología,2,16.0,12.0,Bachillerato,Medellín,Presencial,11,4,6401000.0
+101437,24,Finanzas,3,0.0,0.0,Especialización,Bogotá,Remota,7,3,6886000.0
+101438,25,Tecnología,1,5.0,4.0,Profesional,Bogotá,Híbrida,5,5,2337000.0
+101439,21,Tecnología,4,0.0,0.0,Especialización,Bogotá,Presencial,3,2,7006000.0
+101440,54,Operaciones,3,31.0,10.0,Técnico,Bogotá,Presencial,5,5,7032000.0
+101441,34,Operaciones,3,4.0,4.0,Profesional,Bogotá,Remota,5,5,5555000.0
+101442,57,Talento Humano,1,26.0,1.0,Técnico,Barranquilla,Híbrida,5,4,4896000.0
+101443,23,Comercial,4,3.0,3.0,Profesional,Bogotá,Presencial,6,5,7885000.0
+101444,58,Operaciones,1,33.0,4.0,Profesional,Barranquilla,Remota,5,2,5472000.0
+101445,33,Tecnología,4,3.0,3.0,Bachillerato,Medellín,Híbrida,3,4,6364000.0
+101446,35,Comercial,3,14.0,13.0,Bachillerato,Medellín,Presencial,5,5,5210000.0
+101447,27,Comercial,2,0.0,0.0,Especialización,Bogotá,Presencial,4,3,4094000.0
+101448,58,Operaciones,2,32.0,11.0,Técnico,Bogotá,Híbrida,2,1,7614000.0
+101449,45,Operaciones,2,18.0,15.0,Bachillerato,Bogotá,Remota,7,5,6161000.0
+101450,21,Finanzas,3,0.0,0.0,Especialización,Bogotá,Remota,7,1,6590000.0
+101451,33,Operaciones,3,9.0,1.0,Profesional,Bogotá,Híbrida,8,3,5427000.0
+101452,37,Finanzas,3,5.0,1.0,Profesional,Bogotá,Híbrida,3,5,3830000.0
+101453,34,Talento Humano,2,2.0,2.0,Maestría,Bogotá,Híbrida,3,2,6155000.0
+101454,55,Tecnología,2,26.0,4.0,Profesional,Cali,Remota,3,2,8684000.0
+101455,35,Talento Humano,2,11.0,11.0,Profesional,Medellín,Presencial,5,5,5281000.0
+101456,54,Comercial,3,32.0,9.0,Técnico,Cali,Presencial,2,4,8059000.0
+101457,28,Comercial,2,0.0,0.0,Profesional,Medellín,Híbrida,9,5,3466000.0
+101458,31,Operaciones,3,6.0,0.0,Profesional,Bogotá,Presencial,2,4,4405000.0
+101459,33,Comercial,2,0.0,0.0,Profesional,Bogotá,Híbrida,7,4,5829000.0
+101460,53,Operaciones,1,21.0,10.0,Bachillerato,Cali,Presencial,4,3,4564000.0
+101461,54,Comercial,3,26.0,3.0,Especialización,Bogotá,Presencial,3,4,7132000.0
+101462,52,Comercial,2,32.0,2.0,Profesional,Bogotá,Híbrida,6,3,8311000.0
+101463,25,Finanzas,3,0.0,0.0,Bachillerato,Bogotá,Presencial,3,4,3632000.0
+101464,50,Operaciones,2,30.0,1.0,Especialización,Bogotá,Híbrida,9,5,7228000.0
+101465,57,Tecnología,2,29.0,16.0,Bachillerato,Bogotá,Híbrida,6,3,6996000.0
+101466,54,Finanzas,2,26.0,4.0,Técnico,Medellín,Presencial,3,4,5863000.0
+101467,58,Tecnología,2,27.0,4.0,Profesional,Bogotá,Remota,5,4,7599000.0
+101468,22,Finanzas,1,0.0,0.0,Profesional,Cali,Presencial,5,5,1666000.0
+101469,50,Operaciones,2,21.0,2.0,Profesional,Medellín,Presencial,6,4,5332000.0
+101470,51,Operaciones,4,26.0,7.0,Profesional,Cali,Remota,1,4,9999000.0
+101471,50,Comercial,3,23.0,0.0,Maestría,Bogotá,Híbrida,4,3,9602000.0
+101472,24,Comercial,2,0.0,0.0,Profesional,Bogotá,Híbrida,4,4,3526000.0
+101473,58,Talento Humano,5,35.0,3.0,Profesional,Medellín,Remota,5,3,13059000.0
+101474,21,Operaciones,4,0.0,0.0,Maestría,Cali,Remota,5,4,6885000.0
+101475,21,Comercial,4,0.0,0.0,Técnico,Medellín,Presencial,11,2,7077000.0
+101476,46,Operaciones,3,21.0,5.0,Técnico,Bogotá,Presencial,5,3,7717000.0
+101477,58,Tecnología,3,35.0,14.0,Profesional,Bogotá,Presencial,9,5,9493000.0
+101478,57,Talento Humano,4,37.0,10.0,Profesional,Bogotá,Híbrida,7,4,12129000.0
+101479,41,Comercial,1,15.0,0.0,Maestría,Bogotá,Híbrida,7,4,5723000.0
+101480,43,Finanzas,2,21.0,8.0,Profesional,Bogotá,Híbrida,6,2,6827000.0
+101481,42,Comercial,2,20.0,10.0,Profesional,Barranquilla,Remota,2,4,3813000.0
+101482,40,Tecnología,2,8.0,8.0,Técnico,Bogotá,Híbrida,5,3,4610000.0
+101483,22,Tecnología,2,0.0,0.0,Especialización,Cali,Remota,3,5,2785000.0
+101484,39,Finanzas,4,14.0,14.0,Técnico,Medellín,Híbrida,6,3,9974000.0
+101485,53,Operaciones,2,31.0,15.0,Maestría,Medellín,Remota,9,4,9954000.0
+101486,41,Tecnología,1,13.0,1.0,Profesional,Medellín,Híbrida,5,4,4454000.0
+101487,34,Operaciones,4,13.0,2.0,Especialización,Bogotá,Remota,3,4,7485000.0
+101488,56,Tecnología,4,36.0,3.0,Maestría,Cali,Presencial,4,1,12166000.0
+101489,61,Comercial,1,33.0,1.0,Profesional,Bogotá,Remota,6,2,6906000.0
+101490,38,Comercial,2,16.0,0.0,Técnico,Medellín,Híbrida,6,4,5626000.0
+101491,37,Comercial,4,6.0,6.0,Profesional,Medellín,Híbrida,2,4,6598000.0
+101492,60,Talento Humano,1,37.0,12.0,Especialización,Bogotá,Presencial,5,2,6761000.0
+101493,51,Talento Humano,4,24.0,0.0,Bachillerato,Bogotá,Híbrida,5,4,8251000.0
+101494,56,Comercial,4,29.0,16.0,Bachillerato,Bogotá,Presencial,7,5,11494000.0
+101495,22,Tecnología,2,0.0,0.0,Técnico,Medellín,Presencial,3,3,3777000.0
+101496,60,Tecnología,2,28.0,10.0,Profesional,Bogotá,Híbrida,2,4,7691000.0
+101497,49,Finanzas,3,19.0,1.0,Técnico,Barranquilla,Remota,5,2,7786000.0
+101498,52,Tecnología,2,30.0,3.0,Bachillerato,Bogotá,Híbrida,5,4,6148000.0
+101499,25,Operaciones,2,4.0,4.0,Bachillerato,Bogotá,Híbrida,2,4,1871000.0
+101500,51,Finanzas,5,18.0,4.0,Maestría,Bogotá,Remota,8,4,13032000.0
+100532,30,Operaciones,1,3.0,0.0,Bachillerato,Cali,Presencial,5,5,2290000.0
+101336,33,Tecnología,2,4.0,4.0,Profesional,Cali,Presencial,4,4,3710000.0
+100810,51,Finanzas,1,21.0,8.0,Profesional,Cali,Híbrida,5,5,6055000.0
+100880,29,,2,8.0,8.0,Profesional,Bogotá,Presencial,7,4,4229000.0
+101046,37,Operaciones,2,9.0,9.0,Especialización,Cali,Híbrida,5,3,4494000.0
+101028,55,Operaciones,2,24.0,10.0,Profesional,Bogotá,Presencial,4,2,6644000.0
+101217,35,Operaciones,2,3.0,3.0,Profesional,Medellín,Remota,4,5,3978000.0
+101384,54,Finanzas,2,27.0,16.0,Especialización,Cali,Presencial,3,5,6226000.0
+101055,25,,4,0.0,0.0,Maestría,Bogotá,Presencial,9,4,6795000.0
+100205,44,Operaciones,4,11.0,2.0,Profesional,Bogotá,Híbrida,5,4,7041000.0
+101256,50,Tecnología,2,20.0,8.0,Especialización,Medellín,Remota,4,2,6926000.0
+100181,48,Operaciones,4,19.0,4.0,Profesional,Bogotá,Presencial,7,3,9087000.0
+100641,45,Tecnología,4,21.0,1.0,Profesional,Medellín,Remota,3,4,7528000.0
+101202,56,,3,29.0,5.0,Profesional,Medellín,Presencial,6,4,7101000.0

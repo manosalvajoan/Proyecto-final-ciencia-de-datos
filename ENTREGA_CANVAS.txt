@@ -1,0 +1,10 @@
+PROYECTO FINAL: CIENCIA DE DATOS EN ACCIÓN
+
+Título: Análisis y predicción de salarios mediante Ciencia de Datos
+
+Enlace del repositorio público de GitHub (sustituir):
+https://github.com/manosalvajoan/Proyecto-final-ciencia-de-datos
+
+NOTA: Antes de entregar, grabar el video definitivo presentado por el equipo de 2 o 3 integrantes y actualizar su enlace en README. El video incluido por defecto es solo una demostración con voz sintética.
+
+Este texto es una plantilla y NO constituye una entrega en Canvas.

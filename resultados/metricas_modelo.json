@@ -1,0 +1,29 @@
+{
+  "origen": "Datos sintéticos con semilla 202611: no son registros reales",
+  "n_original": 1514,
+  "duplicados_eliminados": 14,
+  "registros_descartados": 16,
+  "n_depurado": 1484,
+  "salario_promedio_cop": 6403692.72,
+  "salario_mediano_cop": 6198000.0,
+  "salario_desviacion_estandar_cop": 2471448.81,
+  "n_outliers_iqr": 12,
+  "correlacion_nivel_salario": 0.6948,
+  "correlacion_experiencia_salario": 0.584,
+  "n_entrenamiento": 1187,
+  "n_prueba": 297,
+  "baseline": {
+    "MAE_COP": 2059363.6364,
+    "RMSE_COP": 2578545.8154,
+    "R2": -0.0
+  },
+  "regresion": {
+    "MAE_COP": 764627.8654,
+    "RMSE_COP": 963012.4557,
+    "R2": 0.8605
+  },
+  "validacion_cruzada_r2_promedio": 0.8409,
+  "validacion_cruzada_mae_cop_promedio": 764527.55,
+  "departamento_mayor_promedio": "Tecnología",
+  "nivel_modal": 2
+}
