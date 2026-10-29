@@ -3,7 +3,7 @@
 ![Python](https://img.shields.io/badge/Python-Pandas%20%7C%20Scikit--learn-0F766E) ![Estado](https://img.shields.io/badge/Notebook-ejecutado-blue) ![Datos](https://img.shields.io/badge/Datos-sint%C3%A9ticos-orange)
 
 > **Proyecto final · Ingeniería de Sistemas**  
-> **Integrantes (completar):** [Nombre completo del integrante 1] · [Nombre completo del integrante 2] · [Nombre del integrante 3, si aplica]  
+> **Integrantes: Joan Sebastian Manosalva Fonseca
 > **Fecha límite del curso:** 21 de noviembre de 2026, 23:59 (según la consigna).
 
 ## 🎬 Video y presentación
