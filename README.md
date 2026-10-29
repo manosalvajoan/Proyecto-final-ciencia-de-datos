@@ -6,7 +6,7 @@
 > Integrantes: Joan Sebastian Manosalva Fonseca
 > Fecha límite del curso:** 21 de noviembre de 2026, 23:59 (según la consigna).
 
-## 🎬 Video y presentación
+##  Video y presentación
 
 - [Ver video demostrativo MP4 (4 min 30 s)](video/VIDEO_DEMOSTRATIVO_VOZ_SINTETICA.mp4)**: presentación visual completa con **voz generada por computadora**. **NO es la grabación exigida al equipo.** Antes de entregar, sustituirla por un video de 2 a 5 minutos con las voces o intervención real de los 2 o 3 integrantes.
 - [Guion completo, repartido por integrantes](video/GUION_VIDEO_POR_INTEGRANTE.md)**.
