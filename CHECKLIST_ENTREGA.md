@@ -12,15 +12,16 @@
 - [x] Video visual de **4:30**, con narración sintética y guion por expositores (**BORRADOR**).
 - [x] README con contexto, instrucciones, enlaces internos y limitaciones.
 
-## Pendiente de realizar por el equipo antes de Canvas
+## Pendiente antes de Canvas
 
-- [ ] Sustituir `[Nombre]` con los nombres reales de 2 o 3 integrantes y registrar aportes verdaderos.
+- [x] Identificar al autor informado: **Sebastián Manosalva Fonseca**.
+- [ ] Solicitar autorización docente para presentar individualmente, dado que la consigna exige 2 o 3 integrantes, o incorporar un integrante real.
 - [ ] Revisar el código y personalizar conclusiones tras entender los resultados.
-- [ ] **Grabar un video original presentado por todos los integrantes** (2 a 5 minutos) y sustituir/eliminar el demostrativo de voz sintética.
+- [ ] Grabar un video original de **Sebastián** (2 a 5 minutos), sustituir/eliminar el demostrativo y confirmar autorización para trabajo individual.
 - [ ] Actualizar en README el enlace al video definitivo.
-- [ ] Crear repositorio **público** de GitHub y subir los archivos sueltos.
+- [x] Repositorio **público** de GitHub con los archivos subidos.
 - [ ] Verificar desde incógnito enlaces, lectura y reproducción pública.
-- [ ] Cada integrante pega el mismo enlace en Canvas antes del **21 de noviembre de 2026 a las 23:59**.
+- [ ] Entregar en Canvas antes del **21 de noviembre de 2026 a las 23:59**, únicamente cuando se resuelva el requisito de equipo.
 
 ## Cómo defender el proyecto ante el docente
 
