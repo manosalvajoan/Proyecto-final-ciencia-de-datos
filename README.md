@@ -3,8 +3,8 @@
 ![Python](https://img.shields.io/badge/Python-Pandas%20%7C%20Scikit--learn-0F766E) ![Estado](https://img.shields.io/badge/Notebook-ejecutado-blue) ![Datos](https://img.shields.io/badge/Datos-sint%C3%A9ticos-orange)
 
 > Proyecto final · Ingeniería de Sistemas  
-> **Autor:** Sebastián Manosalva Fonseca  
-> **Asignatura:** Ciencia de Datos · Ingeniería de Sistemas
+> **Asignatura:** Ciencia de Datos  
+> **Autor:** Sebastián Manosalva Fonseca
 
 ## Entregables del proyecto
 
