@@ -3,29 +3,29 @@
 ![Python](https://img.shields.io/badge/Python-Pandas%20%7C%20Scikit--learn-0F766E) ![Estado](https://img.shields.io/badge/Notebook-ejecutado-blue) ![Datos](https://img.shields.io/badge/Datos-sint%C3%A9ticos-orange)
 
 > Proyecto final · Ingeniería de Sistemas  
-> Integrantes: Joan Sebastian Manosalva Fonseca
+> **Autor y expositor:** Sebastián Manosalva Fonseca (trabajo individual)
 > Fecha límite del curso: 21 de noviembre de 2026.
 
-##  Video y presentación
+## Video y presentación
 
-- [Ver video demostrativo MP4 (4 min 30 s)](video/VIDEO_DEMOSTRATIVO_VOZ_SINTETICA.mp4)**: presentación visual completa con **voz generada por computadora**. **NO es la grabación exigida al equipo.** Antes de entregar, sustituirla por un video de 2 a 5 minutos con las voces o intervención real de los 2 o 3 integrantes.
-- [Guion completo, repartido por integrantes](video/GUION_VIDEO_POR_INTEGRANTE.md)**.
-- [Presentación PowerPoint](presentacion/Proyecto_Final_Analisis_Salarios.pptx)** · **[Presentación PDF](presentacion/Proyecto_Final_Analisis_Salarios.pdf)**.
-- Enlace al video definitivo del equipo (rellenar):** `PENDIENTE_DE_GRABAR_Y_PUBLICAR`. Puede publicarse en el propio directorio `video/` o enlazarse aquí desde una plataforma con acceso público.
+- **[Video demostrativo MP4 (4:30)](video/VIDEO_DEMOSTRATIVO_VOZ_SINTETICA.mp4):** usa narración artificial y **no reemplaza** una presentación original. Sebastián debe grabar su exposición de 2 a 5 minutos.
+- **[Guion individual para Sebastián](video/GUION_VIDEO_POR_INTEGRANTE.md)**.
+- **[Presentación PowerPoint](presentacion/Proyecto_Final_Analisis_Salarios.pptx)** · **[Presentación PDF](presentacion/Proyecto_Final_Analisis_Salarios.pdf)**.
+- **Video original definitivo (pendiente de enlace):** `PENDIENTE_DE_GRABAR_Y_PUBLICAR`.
 
-1. Introducción
+## 1. Introducción
 
 Las organizaciones necesitan comprender la estructura de sus pagos y controlar la calidad de los datos de nómina. Este trabajo plantea la pregunta: **¿qué características laborales se relacionan con los salarios y qué tan bien puede una regresión lineal estimar el salario mensual de empleados simulados?**
 
 La conexión con Ingeniería de Sistemas es el diseño de procesos completos de datos: ingestión, limpieza, análisis, automatización y comunicación. Como aplicación profesional imaginamos un tablero de planeación salarial alimentado por **extractos autorizados y anonimizados** de un sistema de RR. HH., como SAP HCM.
 
-# Procedencia y límites de los datos
+### Procedencia y límites de los datos
 
 Los archivos `datos/empleados_original.csv` y `datos/empleados_depurados.csv` son **totalmente sintéticos**, producidos por `src/generar_datos.py` con semilla **202611**. No son datos reales de IBM, SAP, una organización colombiana o un grupo poblacional. Se construyeron deliberadamente errores, nulos, duplicados y etiquetas inconsistentes con fines de aprendizaje. Los salarios representan **COP ficticios** y no son un estudio de remuneraciones en Colombia.
 
-*No corresponde usar este modelo para asignar remuneración real, evaluar personas o hacer inferencias causales.**
+**No corresponde usar este modelo para asignar remuneración real, evaluar personas o hacer inferencias causales.**
 
-2. Etapa 1 · Exploración, calidad y depuración
+## 2. Etapa 1 · Exploración, calidad y depuración
 
 - Dataset original: **1.514 registros** y **12 variables**.
 - Problemas detectados: **14 duplicados exactos** y **16 registros** descartados por inconsistencias de edad o salario. Además se corrigieron categorías mal escritas y se imputaron valores faltantes de experiencia.
@@ -34,7 +34,7 @@ Los archivos `datos/empleados_original.csv` y `datos/empleados_depurados.csv` so
 
 El notebook explica por qué se toman estas decisiones y muestra código, ejemplos, conteos y verificaciones automáticas (`assert`).
 
-3. Etapa 2 · Estadística descriptiva
+## 3. Etapa 2 · Estadística descriptiva
 
 | Medida / hallazgo | Resultado |
 |:--|--:|
@@ -134,15 +134,11 @@ jupyter notebook notebook/Proyecto_Final_Ciencia_Datos_Salarios.ipynb
 
 Luego usa **Run All**. Si quieres regenerar las diapositivas, instala `python-pptx` y ejecuta `python src/crear_presentacion.py`. Para el video demostrativo se necesitan además `ffmpeg`, `pdftoppm` y `espeak`.
 
-## 7. Participación de los integrantes
+## 7. Autoría y condición de la entrega
 
-| Integrante | Responsabilidad sugerida | Estado |
-|--|--|--|
-| [Nombre 1] | Etapa 1, limpieza y explicación de datos; narración de diapositivas 1–5 | Por confirmar |
-| [Nombre 2] | Etapa 2, estadística; Etapa 3 y narración de diapositivas 6–11 | Por confirmar |
-| [Nombre 3 opcional] | Visualizaciones, revisión crítica y sección final del video | Por confirmar |
+**Autor y expositor informado:** Sebastián Manosalva Fonseca. El proyecto se está preparando como una entrega individual.
 
-Revisar y actualizar para reflejar **contribuciones reales del equipo** antes de publicar. El repositorio debe ser público y cada integrante entregar **la misma URL** en Canvas.
+**Requisito de la consigna:** el trabajo es obligatorio en equipos de **2 o 3 estudiantes**. Por tanto, esta entrega con una sola persona **no cumple la condición de equipo sin autorización expresa del profesor**. Solicita una excepción por la mensajería de Canvas o incorpora otro integrante que participe realmente antes de enviar la actividad.
 
 ## 8. Reproducibilidad, ética y bibliografía
 
