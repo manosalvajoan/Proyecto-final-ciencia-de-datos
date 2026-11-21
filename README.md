@@ -6,13 +6,6 @@
 > **Autor y expositor:** Sebastián Manosalva Fonseca (trabajo individual)
 > Fecha límite del curso: 21 de noviembre de 2026.
 
-## Video y presentación
-
-- **[Video demostrativo MP4 (4:30)](video/VIDEO_DEMOSTRATIVO_VOZ_SINTETICA.mp4):** usa narración artificial y **no reemplaza** una presentación original. Sebastián debe grabar su exposición de 2 a 5 minutos.
-- **[Guion individual para Sebastián](video/GUION_VIDEO_POR_INTEGRANTE.md)**.
-- **[Presentación PowerPoint](presentacion/Proyecto_Final_Analisis_Salarios.pptx)** · **[Presentación PDF](presentacion/Proyecto_Final_Analisis_Salarios.pdf)**.
-- **Video original definitivo (pendiente de enlace):** `PENDIENTE_DE_GRABAR_Y_PUBLICAR`.
-
 ## 1. Introducción
 
 Las organizaciones necesitan comprender la estructura de sus pagos y controlar la calidad de los datos de nómina. Este trabajo plantea la pregunta: **¿qué características laborales se relacionan con los salarios y qué tan bien puede una regresión lineal estimar el salario mensual de empleados simulados?**
