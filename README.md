@@ -3,8 +3,19 @@
 ![Python](https://img.shields.io/badge/Python-Pandas%20%7C%20Scikit--learn-0F766E) ![Estado](https://img.shields.io/badge/Notebook-ejecutado-blue) ![Datos](https://img.shields.io/badge/Datos-sint%C3%A9ticos-orange)
 
 > Proyecto final · Ingeniería de Sistemas  
-> **Autor y expositor:** Sebastián Manosalva Fonseca (trabajo individual)
-> Fecha límite del curso: 21 de noviembre de 2026.
+> **Autor:** Sebastián Manosalva Fonseca  
+> **Asignatura:** Ciencia de Datos · Ingeniería de Sistemas
+
+## Entregables del proyecto
+
+| Recurso | Archivo |
+|---|---|
+| Datos utilizados y depurados | [`datos/`](datos/) |
+| Cuaderno ejecutado de Python y Google Colab | [`notebook/Proyecto_Final_Ciencia_Datos_Salarios.ipynb`](notebook/Proyecto_Final_Ciencia_Datos_Salarios.ipynb) |
+| Presentación de apoyo | [PDF](presentacion/Proyecto_Final_Analisis_Salarios.pdf) · [PowerPoint](presentacion/Proyecto_Final_Analisis_Salarios.pptx) |
+| Visualizaciones y métricas | [`resultados/`](resultados/) |
+| Guion de exposición | [Guion de presentación](video/GUION_VIDEO_POR_INTEGRANTE.md) |
+| Video final | **Pendiente de grabación y de añadir su enlace** |
 
 ## 1. Introducción
 
@@ -48,7 +59,7 @@ Se calculan también **moda, rango, varianza**, medidas para otras variables y c
 
 Los demás gráficos (boxplot, correlación, experiencia-salario y residuos) están disponibles en `resultados/graficos/`.
 
-# 4. Etapa 3 · Regresión lineal y storytelling
+## 4. Etapa 3 · Regresión lineal y storytelling
 
 **Variable objetivo:** `SalarioMensualCOP`.
 
@@ -127,13 +138,7 @@ jupyter notebook notebook/Proyecto_Final_Ciencia_Datos_Salarios.ipynb
 
 Luego usa **Run All**. Si quieres regenerar las diapositivas, instala `python-pptx` y ejecuta `python src/crear_presentacion.py`. Para el video demostrativo se necesitan además `ffmpeg`, `pdftoppm` y `espeak`.
 
-## 7. Autoría y condición de la entrega
-
-**Autor y expositor informado:** Sebastián Manosalva Fonseca. El proyecto se está preparando como una entrega individual.
-
-**Requisito de la consigna:** el trabajo es obligatorio en equipos de **2 o 3 estudiantes**. Por tanto, esta entrega con una sola persona **no cumple la condición de equipo sin autorización expresa del profesor**. Solicita una excepción por la mensajería de Canvas o incorpora otro integrante que participe realmente antes de enviar la actividad.
-
-## 8. Reproducibilidad, ética y bibliografía
+## 7. Reproducibilidad, ética y bibliografía
 
 - Semillas fijas para datos (`202611`), división de entrenamiento y validación (`42`).
 - Resultados numéricos guardados en `resultados/metricas_modelo.json` y gráficos en PNG.
@@ -141,4 +146,4 @@ Luego usa **Run All**. Si quieres regenerar las diapositivas, instala `python-pp
 - Documentación de referencia: [Pandas](https://pandas.pydata.org/docs/), [Scikit-learn](https://scikit-learn.org/stable/), [Matplotlib](https://matplotlib.org/stable/), [Google Colab](https://colab.research.google.com/).
 - **Limitaciones**: simulación educativa, relaciones estadísticas no causales, falta de validación con población real, riesgos de sesgo y privacidad en una eventual aplicación empresarial.
 
-**Entrega:** 21 de noviembre de 2026, 23:59, mediante Canvas. Verifica que todos los enlaces funcionen en una ventana de incógnito sin iniciar sesión.
+
