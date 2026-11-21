@@ -61,7 +61,7 @@ s=slide('Análisis y predicción de salarios',kicker='PROYECTO FINAL · INGENIER
 text(s,'De los datos a decisiones responsables',.62,1.85,11,.65,28,MUTED)
 rect(s,.62,2.77,10.7,.02,TEAL)
 text(s,'Exploración  ·  Estadística  ·  Regresión lineal  ·  Storytelling',.62,3.23,11,.7,22,WHITE)
-text(s,'Equipo: [Integrante 1] · [Integrante 2] · [Integrante 3 opcional]',.62,5.65,11,.40,17,MUTED)
+text(s,'Presenta: Sebastián Manosalva Fonseca',.62,5.65,11,.40,17,MUTED)
 text(s,'Dataset ficticio de nómina en Colombia · Octubre 2026',.62,6.20,11,.32,15,TEAL)
 
 s=slide('El problema y la pregunta de investigación')
@@ -102,7 +102,7 @@ picture(s,'06_real_vs_predicho.png',.53,1.62,7.52,4.88)
 panel(s,8.32,1.69,4.34,4.85,'RESULTADOS',f'R² en prueba: {M["regresion"]["R2"]:.3f}\n\nMAE del modelo: ${M["regresion"]["MAE_COP"]:,.0f}\n\nMAE del modelo base: ${M["baseline"]["MAE_COP"]:,.0f}\n\nEl modelo mejora al baseline.',TEAL,16)
 
 s=slide('Storytelling · De un CSV a una decisión informada')
-panel(s,.58,1.78,5.88,4.77,'LO QUE APRENDIMOS','La limpieza evita conclusiones engañosas. La estadística resume la dispersión. El modelo necesita compararse con una línea base y evaluarse sobre datos nunca vistos.',BLUE,18)
+panel(s,.58,1.78,5.88,4.77,'LO QUE APRENDÍ','La limpieza evita conclusiones engañosas. La estadística resume la dispersión. El modelo necesita compararse con una línea base y evaluarse sobre datos nunca vistos.',BLUE,18)
 panel(s,6.72,1.78,6.01,4.77,'APLICACIÓN PROPUESTA','Un prototipo que valide extractos autorizados de SAP HCM y muestre patrones agregados para planeación presupuestaria. Sin decisiones individuales automáticas.',TEAL,18)
 
 s=slide('Conclusiones, límites y próximos pasos')
