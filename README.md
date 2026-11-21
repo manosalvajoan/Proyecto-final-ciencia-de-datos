@@ -1,149 +1,80 @@
-# Ciencia de Datos en Acción · Análisis y predicción de salarios
+# Proyecto final de Ciencia de Datos
+## Análisis y predicción de salarios
 
-![Python](https://img.shields.io/badge/Python-Pandas%20%7C%20Scikit--learn-0F766E) ![Estado](https://img.shields.io/badge/Notebook-ejecutado-blue) ![Datos](https://img.shields.io/badge/Datos-sint%C3%A9ticos-orange)
+**Asignatura:** Ciencia de Datos  
+**Programa:** Ingeniería de Sistemas  
+**Estudiante:** Sebastián Manosalva Fonseca
 
-> Proyecto final · Ingeniería de Sistemas  
-> **Asignatura:** Ciencia de Datos  
-> **Autor:** Sebastián Manosalva Fonseca
+## Descripción del proyecto
 
-## Entregables del proyecto
+En este proyecto analizo cómo se relacionan algunas características laborales con el salario mensual de los empleados. Elegí el tema porque se relaciona con la Ingeniería de Sistemas y con el uso de la información en los procesos de recursos humanos y nómina.
 
-| Recurso | Archivo |
-|---|---|
-| Datos utilizados y depurados | [`datos/`](datos/) |
-| Cuaderno ejecutado de Python y Google Colab | [`notebook/Proyecto_Final_Ciencia_Datos_Salarios.ipynb`](notebook/Proyecto_Final_Ciencia_Datos_Salarios.ipynb) |
-| Presentación de apoyo | [PDF](presentacion/Proyecto_Final_Analisis_Salarios.pdf) · [PowerPoint](presentacion/Proyecto_Final_Analisis_Salarios.pptx) |
-| Visualizaciones y métricas | [`resultados/`](resultados/) |
-| Guion de exposición | [Guion de presentación](video/GUION_VIDEO_POR_INTEGRANTE.md) |
-| Video final | **Pendiente de grabación y de añadir su enlace** |
+Para desarrollar el ejercicio utilicé un conjunto de **datos sintéticos**, generado con Python para simular registros de empleados. No corresponde a información real de una empresa. El análisis está dividido en las tres etapas trabajadas en la asignatura.
 
-## 1. Introducción
+## Etapa 1. Exploración y preparación de los datos
 
-Las organizaciones necesitan comprender la estructura de sus pagos y controlar la calidad de los datos de nómina. Este trabajo plantea la pregunta: **¿qué características laborales se relacionan con los salarios y qué tan bien puede una regresión lineal estimar el salario mensual de empleados simulados?**
+El conjunto inicial contiene **1.514 registros y 12 variables**, entre ellas salario, edad, experiencia, antigüedad, nivel de cargo y departamento.
 
-La conexión con Ingeniería de Sistemas es el diseño de procesos completos de datos: ingestión, limpieza, análisis, automatización y comunicación. Como aplicación profesional imaginamos un tablero de planeación salarial alimentado por **extractos autorizados y anonimizados** de un sistema de RR. HH., como SAP HCM.
+Al revisar los datos encontré registros duplicados, valores faltantes y algunas inconsistencias. Eliminé **14 duplicados** y **16 registros con valores inválidos**. También corregí categorías e imputé datos faltantes de experiencia. Al finalizar, quedaron **1.484 registros depurados**, que utilicé para el análisis.
 
-### Procedencia y límites de los datos
+Los archivos están en la carpeta [datos](datos/) y el procedimiento de limpieza aparece en el [cuaderno de Google Colab](notebook/Proyecto_Final_Ciencia_Datos_Salarios.ipynb).
 
-Los archivos `datos/empleados_original.csv` y `datos/empleados_depurados.csv` son **totalmente sintéticos**, producidos por `src/generar_datos.py` con semilla **202611**. No son datos reales de IBM, SAP, una organización colombiana o un grupo poblacional. Se construyeron deliberadamente errores, nulos, duplicados y etiquetas inconsistentes con fines de aprendizaje. Los salarios representan **COP ficticios** y no son un estudio de remuneraciones en Colombia.
+## Etapa 2. Estadística descriptiva
 
-**No corresponde usar este modelo para asignar remuneración real, evaluar personas o hacer inferencias causales.**
+Calculé medidas de tendencia central y dispersión, como media, mediana, moda, rango, varianza y desviación estándar. También comparé los salarios según el departamento, el nivel de cargo y la experiencia laboral.
 
-## 2. Etapa 1 · Exploración, calidad y depuración
+Estos fueron algunos resultados del conjunto de datos simulado:
 
-- Dataset original: **1.514 registros** y **12 variables**.
-- Problemas detectados: **14 duplicados exactos** y **16 registros** descartados por inconsistencias de edad o salario. Además se corrigieron categorías mal escritas y se imputaron valores faltantes de experiencia.
-- Resultado: **1.484 registros depurados**, sin nulos, con esquema homogéneo.
-- Tratamiento de extremos: los valores salariales estadísticamente inusuales que cumplen las reglas de calidad **se conservan** para no ocultar la variación.
+| Indicador | Resultado |
+|---|---:|
+| Salario mensual promedio | $6.403.693 COP |
+| Mediana salarial | $6.198.000 COP |
+| Desviación estándar | $2.471.449 COP |
+| Valores atípicos identificados con IQR | 12 |
+| Correlación entre nivel de cargo y salario | 0,695 |
+| Correlación entre experiencia y salario | 0,584 |
 
-El notebook explica por qué se toman estas decisiones y muestra código, ejemplos, conteos y verificaciones automáticas (`assert`).
+El promedio fue un poco mayor que la mediana. Esto indica que algunos salarios más altos influyen en el promedio general. Los gráficos permiten comparar mejor los datos y observar diferencias entre grupos.
 
-## 3. Etapa 2 · Estadística descriptiva
+![Distribución de salarios](resultados/graficos/01_distribucion_salarios.png)
 
-| Medida / hallazgo | Resultado |
-|:--|--:|
-| Salario mensual medio (simulado) | **6.403.693 COP** |
-| Salario mensual mediano (simulado) | **6.198.000 COP** |
-| Desviación estándar salarial | **2.471.449 COP** |
-| Salarios atípicos según IQR (conservados) | **12** |
-| Correlación Pearson entre nivel de cargo y salario | **0,695** |
-| Correlación Pearson entre experiencia y salario | **0,584** |
+![Promedio salarial por departamento](resultados/graficos/02_salario_por_departamento.png)
 
-Se calculan también **moda, rango, varianza**, medidas para otras variables y comparaciones entre niveles y departamentos. Las relaciones observadas **no demuestran efectos causales**.
+## Etapa 3. Modelo predictivo y presentación de resultados
 
-*Visualizaciones destacadas:*
+Para la última etapa entrené un modelo de **regresión lineal** con Python y Scikit-learn. El objetivo fue estimar el salario mensual a partir de variables como experiencia, antigüedad, nivel de cargo, departamento, educación y horas extras.
 
-![Distribución salarial](resultados/graficos/01_distribucion_salarios.png)
-![Comparación entre departamentos](resultados/graficos/02_salario_por_departamento.png)
-![Salario observado frente al estimado](resultados/graficos/06_real_vs_predicho.png)
+Separé los datos en entrenamiento (80 %) y prueba (20 %) para evaluar el modelo con registros que no se utilizaron al entrenarlo.
 
-Los demás gráficos (boxplot, correlación, experiencia-salario y residuos) están disponibles en `resultados/graficos/`.
+| Métrica del modelo | Resultado |
+|---|---:|
+| Error absoluto medio (MAE) | $764.628 COP |
+| Raíz del error cuadrático medio (RMSE) | $963.012 COP |
+| Coeficiente de determinación (R²) | 0,861 |
 
-## 4. Etapa 3 · Regresión lineal y storytelling
+El resultado muestra que el modelo logró explicar una parte importante de la variación de los salarios **dentro de este conjunto sintético**. Sin embargo, sus predicciones tienen errores y no se deben trasladar directamente a empleados reales.
 
-**Variable objetivo:** `SalarioMensualCOP`.
+![Salarios reales simulados frente a predicciones](resultados/graficos/06_real_vs_predicho.png)
 
-**Predictores:** `NivelCargo`, `ExperienciaAnios`, `AntiguedadAnios`, `Departamento`, `NivelEducativo`, `Ciudad`, `ModalidadTrabajo` y `HorasExtraMes`. Las variables categóricas pasan por One Hot Encoding y la imputación se entrena dentro del pipeline. El identificador no se utiliza para predecir.
+## Conclusiones y aplicación profesional
 
-**Evaluación:** separación aleatoria reproducible 80/20, 5 pliegues de validación cruzada solo sobre entrenamiento y comparación con un `DummyRegressor` que predice la mediana.
+Este ejercicio me permitió aplicar un proceso de ciencia de datos desde la revisión y limpieza de la información hasta la construcción y evaluación de un modelo predictivo.
 
-| Métrica sobre datos de prueba | Modelo base | Regresión lineal |
-|:--|--:|--:|
-| MAE | 2.059.364 COP | **764.628 COP** |
-| RMSE | 2.578.546 COP | **963.004 COP** |
-| R² | ≈0,000 | **0,861** |
+Considero que este tipo de análisis podría servir como apoyo en recursos humanos para identificar tendencias salariales, detectar posibles errores en los registros y crear reportes. En un entorno laboral real sería necesario contar con datos autorizados, proteger la información personal y evaluar el modelo antes de utilizar sus resultados.
 
-En validación cruzada, el R² medio fue de **0,841**. El modelo es mejor que la línea base **en esta simulación**, pero no existe evidencia de rendimiento equivalente en nóminas reales. R² no debe presentarse como porcentaje de aciertos.
+## Archivos del proyecto
 
-**Historia que contamos:**
+- **[Datos](datos/):** archivo original y archivo depurado en CSV.
+- **[Cuaderno de Google Colab](notebook/Proyecto_Final_Ciencia_Datos_Salarios.ipynb):** código, estadísticas, visualizaciones y modelo.
+- **[Presentación PDF](presentacion/Proyecto_Final_Analisis_Salarios.pdf)** y **[PowerPoint](presentacion/Proyecto_Final_Analisis_Salarios.pptx):** diapositivas de apoyo.
+- **[Resultados](resultados/):** gráficos, tablas y métricas generadas.
+- **[Video](video/):** material para la exposición. **Enlace de la grabación final: pendiente de agregar.**
 
-1. Hay variación en los salarios; empezar por la media no es suficiente.
-2. La distribución y las comparaciones revelan grupos y diferencias que requieren contexto.
-3. La calidad del dato importa: duplicados y valores erróneos distorsionan el análisis.
-4. Un modelo explicable puede anticipar valores sintéticos y cuantificar su error sobre datos no vistos.
-5. Para aplicaciones reales hacen falta permisos, representatividad, validación humana y revisión de sesgos.
+## Cómo ejecutar el análisis
 
-## 5. Estructura del proyecto
+1. Abrir el [cuaderno](notebook/Proyecto_Final_Ciencia_Datos_Salarios.ipynb) en Google Colab.
+2. Ejecutar las celdas en orden.
+3. Cuando el cuaderno lo solicite, subir el archivo [empleados_original.csv](datos/empleados_original.csv).
+4. Revisar los resultados estadísticos, los gráficos y las métricas del modelo.
 
-```text
-proyecto_ciencia_datos_salarios/
-├── README.md
-├── CHECKLIST_ENTREGA.md
-├── GUIA_PUBLICACION_GITHUB.md
-├── requirements.txt
-├── datos/
-│   ├── empleados_original.csv
-│   └── empleados_depurados.csv
-├── notebook/
-│   └── Proyecto_Final_Ciencia_Datos_Salarios.ipynb
-├── presentacion/
-│   ├── Proyecto_Final_Analisis_Salarios.pptx
-│   └── Proyecto_Final_Analisis_Salarios.pdf
-├── resultados/
-│   ├── metricas_modelo.json
-│   ├── estadisticas_descriptivas.csv
-│   ├── resumen_departamentos.csv
-│   ├── resumen_niveles.csv
-│   ├── predicciones_prueba.csv
-│   ├── RESUMEN_EJECUTIVO.md
-│   └── graficos/ (7 gráficos PNG)
-├── video/
-│   ├── VIDEO_DEMOSTRATIVO_VOZ_SINTETICA.mp4
-│   ├── GUION_VIDEO_POR_INTEGRANTE.md
-│   └── INSTRUCCIONES_GRABACION.md
-└── src/
-    ├── generar_datos.py
-    ├── crear_presentacion.py
-    └── generar_video_demo.py
-```
-
-## 6. Cómo ejecutar en Google Colab o local
-
-**Google Colab:**
-
-1. Descarga el proyecto ZIP y descomprímelo en tu equipo.
-2. Abre [Google Colab](https://colab.research.google.com/) y sube `notebook/Proyecto_Final_Ciencia_Datos_Salarios.ipynb`.
-3. Ejecuta todas las celdas. Cuando Colab solicite `empleados_original.csv`, cárgalo desde `datos/`.
-4. Colab mostrará los resultados y guardará nuevas salidas en la sesión. Para conservarlas, descarga los archivos generados.
-
-**Local (recomendado si deseas regenerar todo):**
-
-```bash
-python -m venv .venv
-# Activa el entorno virtual según Windows/macOS/Linux
-pip install -r requirements.txt
-python src/generar_datos.py
-jupyter notebook notebook/Proyecto_Final_Ciencia_Datos_Salarios.ipynb
-```
-
-Luego usa **Run All**. Si quieres regenerar las diapositivas, instala `python-pptx` y ejecuta `python src/crear_presentacion.py`. Para el video demostrativo se necesitan además `ffmpeg`, `pdftoppm` y `espeak`.
-
-## 7. Reproducibilidad, ética y bibliografía
-
-- Semillas fijas para datos (`202611`), división de entrenamiento y validación (`42`).
-- Resultados numéricos guardados en `resultados/metricas_modelo.json` y gráficos en PNG.
-- Herramientas principales: Python, NumPy, Pandas, Matplotlib, Seaborn y Scikit-learn.
-- Documentación de referencia: [Pandas](https://pandas.pydata.org/docs/), [Scikit-learn](https://scikit-learn.org/stable/), [Matplotlib](https://matplotlib.org/stable/), [Google Colab](https://colab.research.google.com/).
-- **Limitaciones**: simulación educativa, relaciones estadísticas no causales, falta de validación con población real, riesgos de sesgo y privacidad en una eventual aplicación empresarial.
-
-
+**Herramientas utilizadas:** Python, Google Colab, Pandas, NumPy, Matplotlib, Seaborn y Scikit-learn.
