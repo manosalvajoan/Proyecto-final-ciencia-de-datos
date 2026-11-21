@@ -68,7 +68,7 @@ Considero que este tipo de análisis podría servir como apoyo en recursos human
 - **[Cuaderno de Google Colab](notebook/Proyecto_Final_Ciencia_Datos_Salarios.ipynb):** código, estadísticas, visualizaciones y modelo.
 - **[Presentación PDF](presentacion/Proyecto_Final_Analisis_Salarios.pdf)** y **[PowerPoint](presentacion/Proyecto_Final_Analisis_Salarios.pptx):** diapositivas de apoyo.
 - **[Resultados](resultados/):** gráficos, tablas y métricas generadas.
-- **[Video](video/):** material para la exposición. **Enlace de la grabación final: pendiente de agregar.**
+- **Video de presentación:** pendiente de grabación y de añadir su enlace público (duración entre 2 y 5 minutos).
 
 ## Cómo ejecutar el análisis
 
